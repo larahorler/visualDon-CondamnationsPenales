@@ -3,9 +3,9 @@
 **Contexte : d'où viennent les données, qui les a créées et dans quel contexte ?**
 https://opendata.swiss/fr/dataset/monatlicher-bruttolohn-nach-tatigkeit-schweiz-und-grossregionen
 
-Ce jeu de donnée présente le salaire mensuel brut selon la région où travaille l'employé, son domaine d'activité, son niveau de qualification et son sexe. Les données représentent ce sujet de 2002 à 2010 et sont récolté tous les 2 ans. Les années d'observation sont donc 2002, 2004, 2006, 2008 et 2010.
+Ce jeu de donnée présente le salaire mensuel brut selon la région où travaille l'employé.e, son domaine d'activité, son niveau de qualification et son sexe. Les données représentent ce sujet de 2002 à 2010 et sont récoltées tous les 2 ans. Les années d'observation sont donc 2002, 2004, 2006, 2008 et 2010.
 Les données proviennent du site opendata.swiss et appartiennent à l'OFS (office fédéral de la statistique) - elles sont issues de l’enquête sur la structure des salaires (ESS). 
-C'est un sondage réalisé tous les deux ans auprès des entreprises en Suisse. Il permet de décrire la structure des salaires dans l'ensemble des branches économiques du secteur tertaires, c'est-à-dire, les ensembles des sercices mais aussi du secteur secondaire ce qui représente les entreprises qui dégage un bénéfice issus de la transformation de matières premières. Il prend en compte non seulement la branche économique et à la taille de l’entreprise concernée, mais aussi aux caractéristiques individuelles des salariés et des postes de travail.
+C'est un sondage réalisé tous les deux ans auprès des entreprises en Suisse. Il permet de décrire la structure des salaires dans l'ensemble des branches économiques du secteur tertaires, c'est-à-dire, l'ensembles des services, mais aussi du secteur secondaire ce qui représente les entreprises qui dégage un bénéfice issus de la transformation de matières premières. Il prend en compte non seulement la branche économique, la taille de l’entreprise concernée, mais aussi les caractéristiques individuelles des salarié.es et des postes de travail.
 
 
 **Description Comment sont structurées les données ? Parler du format, des attributs et du type de données ?**
