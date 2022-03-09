@@ -1,4 +1,4 @@
-# visualDon-CondamnationsPenales
+# visualDon-SalaireMensuelBrut
 
 **Contexte : d'où viennent les données, qui les a créées et dans quel contexte ?**
 https://opendata.swiss/fr/dataset/monatlicher-bruttolohn-nach-tatigkeit-schweiz-und-grossregionen
