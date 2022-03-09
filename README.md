@@ -10,7 +10,7 @@ C'est un sondage réalisé tous les deux ans auprès des entreprises en Suisse. 
 
 **Description Comment sont structurées les données ? Parler du format, des attributs et du type de données ?**
 
-Afin que toutes les données soient représentés à la même échelle, le salaire mensuel est standarisé à un plein temps de 40 heures de travail par semaine. Le mois est composé de 4,3 semaines. Les données sont présentés sous forme de tableau. Les variables suivantes représentent les composantes du tableau : Année, grande région, domaine d'activité, niveau de qualification et sexe. L'utilisateur doit sélectionner les options qu'il souhaite afficher dans son tableau (par exemple, les chiffres pour toute la Suisse, les années 2002 et 2004, dans le domaine des activités pédagogiques, etc. Les chiffres affichés ensuite dépendent donc du choix de l'utilisateur. 
+Afin que toutes les données soient représentés à la même échelle, le salaire mensuel est standarisé à un plein temps de 40 heures de travail par semaine. Le mois est composé de 4,3 semaines. Les données sont présentés sous forme de tableau. Les variables suivantes représentent les composantes du tableau : Année, grande région, domaine d'activité, niveau de qualification et sexe. L'utilisateur doit sélectionner les options qu'il souhaite afficher dans son tableau (par exemple, les chiffres pour toute la Suisse, les années 2002 et 2004, dans le domaine des activités pédagogiques, etc.). Les chiffres affichés ensuite dépendent donc du choix de l'utilisateur. 
 
 La structure des données, donc les différentes options possible pour la visualisation des données, est disponible en format JSON : https://www.pxweb.bfs.admin.ch/api/v1/fr/px-x-0304010000_101/px-x-0304010000_101.px
 
