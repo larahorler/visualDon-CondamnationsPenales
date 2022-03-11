@@ -19,7 +19,7 @@ Le défi ici semblera d'être la récupération et la visualisation des données
 
 
 
-Nous voulons voir s'il y a une une évolution positive au fil des années concernant les inégalités de salaire entre les sexes. En effet, les entreprises de nos jours tentent de plus en plus d'appliquer l'égalité salariale. Ainsi nous aimerions voir quels sont les secteurs d'entreprises qui étaient en avance sur leur temps, en appliquant l'égalité des sexes et au contraire quels secteurs ne privigiligiaient pas l'égalité. De plus nous voulons voir si les inégalités salariales sont plus présentes dans une certaines région ou dans un certain secteur d'activité. La question des métiers réservés uniquement pour les femmes ou pour les hommes sera également abordées. Finalement, nous souhaiterons montrer si l'égalité est aussi présente selon le niveau de responsabilité. 
+Nous voulons voir s'il y a une une évolution positive au fil des années concernant les inégalités de salaire entre les sexes. En effet, les entreprises de nos jours tentent de plus en plus d'appliquer l'égalité salariale. Ainsi nous aimerions voir quels sont les secteurs d'entreprises qui étaient en avance sur leur temps, en appliquant l'égalité des sexes et au contraire quels secteurs ne privigiligiaient pas l'égalité. De plus nous voulons voir si les inégalités salariales sont plus présentes dans une certaines région ou dans un certain secteur d'activité. La question des métiers réservés uniquement pour les femmes ou pour les hommes sera également abordées. Finalement, nous souhaiterons montrer si l'inégalité est aussi présente selon le niveau de responsabilité. 
 
 **Références: Qui d'autre dans le web ou dans la recherche a utilisé ces données ? Dans quel but ?**
 
