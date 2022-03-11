@@ -26,4 +26,8 @@ Nous voulons voir s'il y a une une évolution positive au fil des années concer
 Cette enquête représente une importante source d'informations pour les entreprises, les partenaires sociaux et le grand public. Ses résultats sont par exemple utilisés dans les domaines de la politique du travail, des négociations salariales, des comparaisons entre branches ou des questions d'égalité des salaires entre femmes et hommes.
 Elles sont également utilisés pour être envoyé aux personnes qui souhaitent avoir accès aux mises à jour des données en s'inscrivant à la newsletter de l'OFS.
 
+**Structure générale de la page**
+![structure-générale](https://user-images.githubusercontent.com/92160920/157851710-9694aaed-6009-470a-bdca-06a1f91e50fb.png)
 
+**Histoire et wireframes**
+![histoire-wireframes](https://user-images.githubusercontent.com/92160920/157851767-1cb24d03-8fab-4156-a7a8-38b6ead92214.png)
