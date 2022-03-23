@@ -1,0 +1,5088 @@
+﻿Salaire mensuel brut selon Année, Grande région, Branche économique, Position professionnelle, Sexe et Valeur centrale et intervalle interquartile;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;Médiane (Q2);
+2012;2012;-1;Suisse;-1;Branche économique - total;-1;Position professionnelle - total;-1;Sexe - total;6439;
+;;;;;;;;2;Homme;6840;
+;;;;;;;;1;Femme;5808;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10056;
+;;;;;;;;2;Homme;10786;
+;;;;;;;;1;Femme;8356;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8182;
+;;;;;;;;2;Homme;8648;
+;;;;;;;;1;Femme;7337;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6801;
+;;;;;;;;2;Homme;7055;
+;;;;;;;;1;Femme;6282;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5833;
+;;;;;;;;2;Homme;6088;
+;;;;;;;;1;Femme;5388;
+;;;;4.99;5-43 Secteur 2: production;-1;Position professionnelle - total;-1;Sexe - total;6247;
+;;;;;;;;2;Homme;6423;
+;;;;;;;;1;Femme;5351;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9646;
+;;;;;;;;2;Homme;9799;
+;;;;;;;;1;Femme;8187;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7918;
+;;;;;;;;2;Homme;8039;
+;;;;;;;;1;Femme;7042;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6626;
+;;;;;;;;2;Homme;6744;
+;;;;;;;;1;Femme;5846;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5823;
+;;;;;;;;2;Homme;5973;
+;;;;;;;;1;Femme;5090;
+;;;;5;> 5-9 Industries extractives;-1;Position professionnelle - total;-1;Sexe - total;6014;
+;;;;;;;;2;Homme;6043;
+;;;;;;;;1;Femme;5569;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9687;
+;;;;;;;;2;Homme;9759;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6716;
+;;;;;;;;2;Homme;6716;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6697;
+;;;;;;;;2;Homme;6741;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5786;
+;;;;;;;;2;Homme;5810;
+;;;;;;;;1;Femme;5256;
+;;;;10;> 10-11 Industries alimentaires / fabrication de boissons;-1;Position professionnelle - total;-1;Sexe - total;5573;
+;;;;;;;;2;Homme;5939;
+;;;;;;;;1;Femme;4737;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8959;
+;;;;;;;;2;Homme;9187;
+;;;;;;;;1;Femme;7842;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6391;
+;;;;;;;;2;Homme;6597;
+;;;;;;;;1;Femme;5716;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;5866;
+;;;;;;;;2;Homme;5991;
+;;;;;;;;1;Femme;5475;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5279;
+;;;;;;;;2;Homme;5633;
+;;;;;;;;1;Femme;4520;
+;;;;12;> 12 Fabrication de produits à base de tabac;-1;Position professionnelle - total;-1;Sexe - total;8939;
+;;;;;;;;2;Homme;9333;
+;;;;;;;;1;Femme;7658;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;17631;( )
+;;;;;;;;2;Homme;18137;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;11904;
+;;;;;;;;2;Homme;12259;
+;;;;;;;;1;Femme;11219;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;9013;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;8941;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;7042;
+;;;;;;;;2;Homme;7700;
+;;;;;;;;1;Femme;5841;
+;;;;13;> 13-15 Industries du textile et de l'habillement;-1;Position professionnelle - total;-1;Sexe - total;4784;
+;;;;;;;;2;Homme;5748;
+;;;;;;;;1;Femme;4032;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8035;
+;;;;;;;;2;Homme;9000;
+;;;;;;;;1;Femme;5960;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6545;
+;;;;;;;;2;Homme;7196;
+;;;;;;;;1;Femme;5436;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;3833;( )
+;;;;;;;;2;Homme;5530;( )
+;;;;;;;;1;Femme;3178;( )
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;4576;
+;;;;;;;;2;Homme;5275;
+;;;;;;;;1;Femme;4067;
+;;;;16;> 16-18 Industries du bois et du papier / imprimerie;-1;Position professionnelle - total;-1;Sexe - total;5948;
+;;;;;;;;2;Homme;6076;
+;;;;;;;;1;Femme;5295;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;7836;
+;;;;;;;;2;Homme;7972;
+;;;;;;;;1;Femme;6691;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6652;
+;;;;;;;;2;Homme;6811;
+;;;;;;;;1;Femme;6190;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6181;
+;;;;;;;;2;Homme;6218;
+;;;;;;;;1;Femme;5775;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5624;
+;;;;;;;;2;Homme;5740;
+;;;;;;;;1;Femme;5071;
+;;;;19;> 19-20 Cokéfaction / industrie chimique;-1;Position professionnelle - total;-1;Sexe - total;7690;
+;;;;;;;;2;Homme;8095;
+;;;;;;;;1;Femme;6488;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;12383;
+;;;;;;;;2;Homme;12801;
+;;;;;;;;1;Femme;10383;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;9945;( )
+;;;;;;;;2;Homme;10357;( )
+;;;;;;;;1;Femme;8329;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;8402;
+;;;;;;;;2;Homme;8663;
+;;;;;;;;1;Femme;7678;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;7037;
+;;;;;;;;2;Homme;7370;( )
+;;;;;;;;1;Femme;6006;
+;;;;21;> 21 Industrie pharmaceutique;-1;Position professionnelle - total;-1;Sexe - total;9775;
+;;;;;;;;2;Homme;10491;
+;;;;;;;;1;Femme;8873;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;17956;
+;;;;;;;;2;Homme;18304;
+;;;;;;;;1;Femme;17183;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;11826;
+;;;;;;;;2;Homme;12095;
+;;;;;;;;1;Femme;11405;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;9058;
+;;;;;;;;2;Homme;9478;
+;;;;;;;;1;Femme;8455;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;8420;
+;;;;;;;;2;Homme;8775;
+;;;;;;;;1;Femme;7985;
+;;;;22;> 22-23 Industries du caoutchouc et du plastique;-1;Position professionnelle - total;-1;Sexe - total;5849;
+;;;;;;;;2;Homme;6057;
+;;;;;;;;1;Femme;4887;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9634;
+;;;;;;;;2;Homme;9851;
+;;;;;;;;1;Femme;7843;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7648;
+;;;;;;;;2;Homme;7843;
+;;;;;;;;1;Femme;6623;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6431;
+;;;;;;;;2;Homme;6521;
+;;;;;;;;1;Femme;5835;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5490;
+;;;;;;;;2;Homme;5653;
+;;;;;;;;1;Femme;4664;
+;;;;24;> 24-25 Métallurgie / fabrication produits métalliques;-1;Position professionnelle - total;-1;Sexe - total;5850;
+;;;;;;;;2;Homme;6016;
+;;;;;;;;1;Femme;4904;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8841;
+;;;;;;;;2;Homme;9130;
+;;;;;;;;1;Femme;7042;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7171;
+;;;;;;;;2;Homme;7305;
+;;;;;;;;1;Femme;6449;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6312;
+;;;;;;;;2;Homme;6441;
+;;;;;;;;1;Femme;5548;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5469;
+;;;;;;;;2;Homme;5619;
+;;;;;;;;1;Femme;4694;
+;;;;26;> 26 Fabrication de produit informatiques, électroniques et optiques / horlogerie;-1;Position professionnelle - total;-1;Sexe - total;6609;
+;;;;;;;;2;Homme;7580;
+;;;;;;;;1;Femme;5152;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;12010;
+;;;;;;;;2;Homme;12276;
+;;;;;;;;1;Femme;9992;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;9311;
+;;;;;;;;2;Homme;9473;
+;;;;;;;;1;Femme;8281;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6737;
+;;;;;;;;2;Homme;7125;
+;;;;;;;;1;Femme;5763;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5919;
+;;;;;;;;2;Homme;6779;
+;;;;;;;;1;Femme;4982;
+;;;;27;> 27 Fabrication d'équipements électriques;-1;Position professionnelle - total;-1;Sexe - total;6790;
+;;;;;;;;2;Homme;7262;
+;;;;;;;;1;Femme;4994;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;12244;
+;;;;;;;;2;Homme;12340;
+;;;;;;;;1;Femme;11388;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;9317;
+;;;;;;;;2;Homme;9396;
+;;;;;;;;1;Femme;8624;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7027;
+;;;;;;;;2;Homme;7152;
+;;;;;;;;1;Femme;6215;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6034;
+;;;;;;;;2;Homme;6446;
+;;;;;;;;1;Femme;4717;
+;;;;28;> 28 Fabrication de machines et équipements n.c.a;-1;Position professionnelle - total;-1;Sexe - total;6848;
+;;;;;;;;2;Homme;7013;
+;;;;;;;;1;Femme;5778;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10740;
+;;;;;;;;2;Homme;10833;
+;;;;;;;;1;Femme;8956;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8840;
+;;;;;;;;2;Homme;8972;
+;;;;;;;;1;Femme;7790;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7296;
+;;;;;;;;2;Homme;7386;
+;;;;;;;;1;Femme;6533;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6370;
+;;;;;;;;2;Homme;6500;
+;;;;;;;;1;Femme;5517;
+;;;;29;> 29-30 Fabrication de matériels de transport;-1;Position professionnelle - total;-1;Sexe - total;6680;
+;;;;;;;;2;Homme;6841;
+;;;;;;;;1;Femme;5760;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10612;
+;;;;;;;;2;Homme;10683;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8029;
+;;;;;;;;2;Homme;8098;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6324;
+;;;;;;;;2;Homme;6431;
+;;;;;;;;1;Femme;6064;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5825;
+;;;;;;;;2;Homme;5923;
+;;;;;;;;1;Femme;5310;
+;;;;31;> 31-33 Fabrication de meubles / autres industries manufacturières / réparation et installation de machines et d'équipements;-1;Position professionnelle - total;-1;Sexe - total;6114;
+;;;;;;;;2;Homme;6369;
+;;;;;;;;1;Femme;5238;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9217;
+;;;;;;;;2;Homme;9482;
+;;;;;;;;1;Femme;7085;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7698;
+;;;;;;;;2;Homme;7781;
+;;;;;;;;1;Femme;7072;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6480;
+;;;;;;;;2;Homme;6769;
+;;;;;;;;1;Femme;5499;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5724;
+;;;;;;;;2;Homme;5938;
+;;;;;;;;1;Femme;5069;
+;;;;35;> 35 Production et distribution d'énergie;-1;Position professionnelle - total;-1;Sexe - total;7776;
+;;;;;;;;2;Homme;7923;
+;;;;;;;;1;Femme;6830;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;11896;
+;;;;;;;;2;Homme;11967;
+;;;;;;;;1;Femme;10738;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;9493;
+;;;;;;;;2;Homme;9585;
+;;;;;;;;1;Femme;8515;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7431;
+;;;;;;;;2;Homme;7554;
+;;;;;;;;1;Femme;6849;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;7106;
+;;;;;;;;2;Homme;7241;
+;;;;;;;;1;Femme;6467;
+;;;;36;> 36-39 Production et distribution d'eau / gestion déchets;-1;Position professionnelle - total;-1;Sexe - total;6118;
+;;;;;;;;2;Homme;6217;
+;;;;;;;;1;Femme;5474;( )
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9416;
+;;;;;;;;2;Homme;9905;
+;;;;;;;;1;Femme;7661;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8012;
+;;;;;;;;2;Homme;8209;
+;;;;;;;;1;Femme;7184;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7186;
+;;;;;;;;2;Homme;7432;
+;;;;;;;;1;Femme;6269;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5629;
+;;;;;;;;2;Homme;5690;
+;;;;;;;;1;Femme;5099;( )
+;;;;41;> 41-43 Construction;-1;Position professionnelle - total;-1;Sexe - total;6044;
+;;;;;;;;2;Homme;6078;
+;;;;;;;;1;Femme;5494;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8312;
+;;;;;;;;2;Homme;8490;
+;;;;;;;;1;Femme;6434;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6946;
+;;;;;;;;2;Homme;7100;
+;;;;;;;;1;Femme;5952;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6487;
+;;;;;;;;2;Homme;6500;
+;;;;;;;;1;Femme;6294;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5753;
+;;;;;;;;2;Homme;5783;
+;;;;;;;;1;Femme;5335;
+;;;;44.99;45-96 Secteur 3: services;-1;Position professionnelle - total;-1;Sexe - total;6548;
+;;;;;;;;2;Homme;7229;
+;;;;;;;;1;Femme;5899;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10196;
+;;;;;;;;2;Homme;11205;
+;;;;;;;;1;Femme;8371;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8324;
+;;;;;;;;2;Homme;9026;
+;;;;;;;;1;Femme;7377;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6907;
+;;;;;;;;2;Homme;7390;
+;;;;;;;;1;Femme;6334;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5841;
+;;;;;;;;2;Homme;6219;
+;;;;;;;;1;Femme;5463;
+;;;;45;> 45-46 Commerce de gros / commerce et réparation d'automobiles;-1;Position professionnelle - total;-1;Sexe - total;6289;
+;;;;;;;;2;Homme;6480;
+;;;;;;;;1;Femme;5848;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10023;
+;;;;;;;;2;Homme;10354;
+;;;;;;;;1;Femme;8485;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8254;
+;;;;;;;;2;Homme;8452;
+;;;;;;;;1;Femme;7732;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6508;
+;;;;;;;;2;Homme;6563;
+;;;;;;;;1;Femme;6320;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5674;
+;;;;;;;;2;Homme;5760;
+;;;;;;;;1;Femme;5427;
+;;;;47;> 47 Commerce de détail;-1;Position professionnelle - total;-1;Sexe - total;4691;
+;;;;;;;;2;Homme;5394;
+;;;;;;;;1;Femme;4450;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;6934;
+;;;;;;;;2;Homme;7825;
+;;;;;;;;1;Femme;5714;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6088;
+;;;;;;;;2;Homme;6964;
+;;;;;;;;1;Femme;5181;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;5505;
+;;;;;;;;2;Homme;6083;
+;;;;;;;;1;Femme;5092;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;4494;
+;;;;;;;;2;Homme;4912;
+;;;;;;;;1;Femme;4364;
+;;;;49;> 49-52 Transport terrestres, par eau, aériens / entreposage;-1;Position professionnelle - total;-1;Sexe - total;6234;
+;;;;;;;;2;Homme;6344;
+;;;;;;;;1;Femme;5792;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9739;
+;;;;;;;;2;Homme;10200;
+;;;;;;;;1;Femme;7412;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7087;
+;;;;;;;;2;Homme;7240;
+;;;;;;;;1;Femme;6275;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7757;( )
+;;;;;;;;2;Homme;7996;( )
+;;;;;;;;1;Femme;6586;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5974;
+;;;;;;;;2;Homme;6056;
+;;;;;;;;1;Femme;5635;
+;;;;53;> 53 Activités de poste et de courrier;-1;Position professionnelle - total;-1;Sexe - total;5983;( )
+;;;;;;;;2;Homme;6022;( )
+;;;;;;;;1;Femme;5890;( )
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10307;( )
+;;;;;;;;2;Homme;11962;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6705;( )
+;;;;;;;;2;Homme;7370;( )
+;;;;;;;;1;Femme;6226;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7248;( )
+;;;;;;;;2;Homme;7152;( )
+;;;;;;;;1;Femme;7382;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5871;( )
+;;;;;;;;2;Homme;5893;( )
+;;;;;;;;1;Femme;5819;( )
+;;;;55;> 55-56 Hébergement et restauration;-1;Position professionnelle - total;-1;Sexe - total;4236;
+;;;;;;;;2;Homme;4444;
+;;;;;;;;1;Femme;4095;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;5538;
+;;;;;;;;2;Homme;5925;
+;;;;;;;;1;Femme;4940;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;5029;
+;;;;;;;;2;Homme;5159;
+;;;;;;;;1;Femme;4850;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;4665;
+;;;;;;;;2;Homme;4818;
+;;;;;;;;1;Femme;4483;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;4041;
+;;;;;;;;2;Homme;4150;
+;;;;;;;;1;Femme;3963;
+;;;;58;> 58-60 Édition, audiovisuel et diffusion;-1;Position professionnelle - total;-1;Sexe - total;7604;
+;;;;;;;;2;Homme;8187;
+;;;;;;;;1;Femme;6826;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9432;
+;;;;;;;;2;Homme;10340;
+;;;;;;;;1;Femme;7830;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8980;
+;;;;;;;;2;Homme;10000;
+;;;;;;;;1;Femme;7326;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;8200;
+;;;;;;;;2;Homme;9009;
+;;;;;;;;1;Femme;6998;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;7286;
+;;;;;;;;2;Homme;7808;
+;;;;;;;;1;Femme;6666;
+;;;;61;> 61 Télécommunications;-1;Position professionnelle - total;-1;Sexe - total;8901;
+;;;;;;;;2;Homme;9705;
+;;;;;;;;1;Femme;7148;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;13506;
+;;;;;;;;2;Homme;13621;
+;;;;;;;;1;Femme;12215;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;10246;
+;;;;;;;;2;Homme;10465;
+;;;;;;;;1;Femme;9084;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;8355;
+;;;;;;;;2;Homme;8381;
+;;;;;;;;1;Femme;8075;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;8123;
+;;;;;;;;2;Homme;8920;
+;;;;;;;;1;Femme;6934;
+;;;;62;> 62-63 Activité informatiques et services d'information;-1;Position professionnelle - total;-1;Sexe - total;8563;
+;;;;;;;;2;Homme;9023;
+;;;;;;;;1;Femme;6705;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;11807;
+;;;;;;;;2;Homme;12023;
+;;;;;;;;1;Femme;8812;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;9696;
+;;;;;;;;2;Homme;9942;
+;;;;;;;;1;Femme;8089;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;8552;
+;;;;;;;;2;Homme;8816;
+;;;;;;;;1;Femme;7311;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;7595;
+;;;;;;;;2;Homme;8042;
+;;;;;;;;1;Femme;6284;
+;;;;64;> 64, 66 Services financiers / activités auxiliaires de services financiers et d'assurance;-1;Position professionnelle - total;-1;Sexe - total;9517;
+;;;;;;;;2;Homme;10955;
+;;;;;;;;1;Femme;7495;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;15872;
+;;;;;;;;2;Homme;16270;
+;;;;;;;;1;Femme;13810;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;10607;
+;;;;;;;;2;Homme;10916;
+;;;;;;;;1;Femme;9859;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;8555;
+;;;;;;;;2;Homme;9089;
+;;;;;;;;1;Femme;8010;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6828;
+;;;;;;;;2;Homme;7446;
+;;;;;;;;1;Femme;6474;
+;;;;65;> 65 Assurance;-1;Position professionnelle - total;-1;Sexe - total;8079;
+;;;;;;;;2;Homme;9847;
+;;;;;;;;1;Femme;6692;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;14554;
+;;;;;;;;2;Homme;15228;
+;;;;;;;;1;Femme;11688;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;11411;
+;;;;;;;;2;Homme;11699;
+;;;;;;;;1;Femme;10308;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;9249;
+;;;;;;;;2;Homme;9564;
+;;;;;;;;1;Femme;8816;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6809;
+;;;;;;;;2;Homme;7988;
+;;;;;;;;1;Femme;6274;
+;;;;68;> 68 Activités immobilières;-1;Position professionnelle - total;-1;Sexe - total;6857;
+;;;;;;;;2;Homme;7671;
+;;;;;;;;1;Femme;6332;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10487;
+;;;;;;;;2;Homme;11429;
+;;;;;;;;1;Femme;8784;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8167;
+;;;;;;;;2;Homme;9019;
+;;;;;;;;1;Femme;7453;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6908;
+;;;;;;;;2;Homme;7444;
+;;;;;;;;1;Femme;6190;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6109;
+;;;;;;;;2;Homme;6234;
+;;;;;;;;1;Femme;6013;
+;;;;69;> 69-71 Activités juridiques, comptables, de gestion, d'architecture, d'ingénierie;-1;Position professionnelle - total;-1;Sexe - total;7656;
+;;;;;;;;2;Homme;8667;
+;;;;;;;;1;Femme;6538;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;12346;
+;;;;;;;;2;Homme;12727;
+;;;;;;;;1;Femme;10196;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8667;
+;;;;;;;;2;Homme;9161;
+;;;;;;;;1;Femme;7751;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7386;
+;;;;;;;;2;Homme;7875;
+;;;;;;;;1;Femme;6853;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6341;
+;;;;;;;;2;Homme;6707;
+;;;;;;;;1;Femme;6000;
+;;;;72;> 72 Recherche-développement scientifique;-1;Position professionnelle - total;-1;Sexe - total;8594;
+;;;;;;;;2;Homme;9350;
+;;;;;;;;1;Femme;7576;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;13914;
+;;;;;;;;2;Homme;14634;
+;;;;;;;;1;Femme;11739;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;11030;
+;;;;;;;;2;Homme;12012;( )
+;;;;;;;;1;Femme;9000;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;10872;
+;;;;;;;;2;Homme;11336;( )
+;;;;;;;;1;Femme;9953;( )
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;7701;
+;;;;;;;;2;Homme;8128;
+;;;;;;;;1;Femme;7073;
+;;;;73;> 73-75 Autres activités spécialisées, scientifiques et techniques;-1;Position professionnelle - total;-1;Sexe - total;6306;
+;;;;;;;;2;Homme;7143;
+;;;;;;;;1;Femme;5649;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9425;
+;;;;;;;;2;Homme;10292;
+;;;;;;;;1;Femme;8050;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7384;
+;;;;;;;;2;Homme;7857;
+;;;;;;;;1;Femme;6742;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6284;
+;;;;;;;;2;Homme;6351;( )
+;;;;;;;;1;Femme;6002;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5372;
+;;;;;;;;2;Homme;5835;
+;;;;;;;;1;Femme;5055;
+;;;;77;> 77,79-82 Activités de services administratifs (sans 78);-1;Position professionnelle - total;-1;Sexe - total;5122;
+;;;;;;;;2;Homme;5592;
+;;;;;;;;1;Femme;4394;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8278;
+;;;;;;;;2;Homme;8793;
+;;;;;;;;1;Femme;6932;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6810;
+;;;;;;;;2;Homme;6984;
+;;;;;;;;1;Femme;6500;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;5775;
+;;;;;;;;2;Homme;5997;
+;;;;;;;;1;Femme;5308;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;4765;
+;;;;;;;;2;Homme;5134;
+;;;;;;;;1;Femme;4114;
+;;;;78;> 78 Activités liées à l'emploi;-1;Position professionnelle - total;-1;Sexe - total;5455;
+;;;;;;;;2;Homme;5539;
+;;;;;;;;1;Femme;5041;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8422;
+;;;;;;;;2;Homme;9412;
+;;;;;;;;1;Femme;6500;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7087;
+;;;;;;;;2;Homme;7946;
+;;;;;;;;1;Femme;6042;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6012;
+;;;;;;;;2;Homme;6325;
+;;;;;;;;1;Femme;5494;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5266;
+;;;;;;;;2;Homme;5381;
+;;;;;;;;1;Femme;4799;
+;;;;84;> 84 Administration publique, défense / sécurité sociale;-1;Position professionnelle - total;-1;Sexe - total;7916;
+;;;;;;;;2;Homme;8450;
+;;;;;;;;1;Femme;7320;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10732;
+;;;;;;;;2;Homme;11489;
+;;;;;;;;1;Femme;9644;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;9133;
+;;;;;;;;2;Homme;9488;
+;;;;;;;;1;Femme;8108;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;8136;
+;;;;;;;;2;Homme;8474;
+;;;;;;;;1;Femme;7312;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;7132;
+;;;;;;;;2;Homme;7449;
+;;;;;;;;1;Femme;6759;
+;;;;85;> 85 Enseignement;-1;Position professionnelle - total;-1;Sexe - total;8670;
+;;;;;;;;2;Homme;9068;
+;;;;;;;;1;Femme;8219;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9346;
+;;;;;;;;2;Homme;10044;( )
+;;;;;;;;1;Femme;8776;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7981;
+;;;;;;;;2;Homme;8493;
+;;;;;;;;1;Femme;7611;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7410;
+;;;;;;;;2;Homme;7661;
+;;;;;;;;1;Femme;7158;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;8675;
+;;;;;;;;2;Homme;9021;
+;;;;;;;;1;Femme;8304;
+;;;;86;> 86-88 Santé humaine et action sociale;-1;Position professionnelle - total;-1;Sexe - total;6273;
+;;;;;;;;2;Homme;7118;
+;;;;;;;;1;Femme;6018;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9193;
+;;;;;;;;2;Homme;10594;
+;;;;;;;;1;Femme;8204;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7455;
+;;;;;;;;2;Homme;8150;
+;;;;;;;;1;Femme;7112;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6617;
+;;;;;;;;2;Homme;7168;
+;;;;;;;;1;Femme;6430;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5881;
+;;;;;;;;2;Homme;6370;
+;;;;;;;;1;Femme;5765;
+;;;;90;> 90-93 Arts, spectacles et activités récréatives;-1;Position professionnelle - total;-1;Sexe - total;6000;
+;;;;;;;;2;Homme;6408;
+;;;;;;;;1;Femme;5553;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8065;
+;;;;;;;;2;Homme;8733;
+;;;;;;;;1;Femme;7033;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7107;
+;;;;;;;;2;Homme;7330;
+;;;;;;;;1;Femme;6691;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6459;
+;;;;;;;;2;Homme;6562;
+;;;;;;;;1;Femme;6333;( )
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5487;
+;;;;;;;;2;Homme;5809;
+;;;;;;;;1;Femme;5146;
+;;;;94;> 94-95 Activitées des organisations associatives et religieuses / réparation de biens personnels;-1;Position professionnelle - total;-1;Sexe - total;7040;
+;;;;;;;;2;Homme;7800;
+;;;;;;;;1;Femme;6573;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9507;
+;;;;;;;;2;Homme;9792;
+;;;;;;;;1;Femme;8770;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7359;
+;;;;;;;;2;Homme;7953;
+;;;;;;;;1;Femme;6850;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6675;
+;;;;;;;;2;Homme;7084;
+;;;;;;;;1;Femme;6292;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6279;
+;;;;;;;;2;Homme;6419;
+;;;;;;;;1;Femme;6177;
+;;;;96;> 96 Autres services personnels;-1;Position professionnelle - total;-1;Sexe - total;3921;
+;;;;;;;;2;Homme;5005;
+;;;;;;;;1;Femme;3697;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;5462;
+;;;;;;;;2;Homme;7121;( )
+;;;;;;;;1;Femme;4476;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;4690;
+;;;;;;;;2;Homme;6551;( )
+;;;;;;;;1;Femme;4253;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;4127;
+;;;;;;;;2;Homme;4507;( )
+;;;;;;;;1;Femme;4042;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;3714;
+;;;;;;;;2;Homme;4644;
+;;;;;;;;1;Femme;3545;
+;;1;Région lémanique;-1;Branche économique - total;-1;Position professionnelle - total;-1;Sexe - total;6558;
+;;;;;;;;2;Homme;6855;
+;;;;;;;;1;Femme;6151;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10958;
+;;;;;;;;2;Homme;11666;
+;;;;;;;;1;Femme;9326;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;9108;
+;;;;;;;;2;Homme;9467;
+;;;;;;;;1;Femme;8510;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7101;
+;;;;;;;;2;Homme;7217;
+;;;;;;;;1;Femme;6844;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5912;
+;;;;;;;;2;Homme;6041;
+;;;;;;;;1;Femme;5722;
+;;;;4.99;5-43 Secteur 2: production;-1;Position professionnelle - total;-1;Sexe - total;6482;
+;;;;;;;;2;Homme;6597;
+;;;;;;;;1;Femme;5939;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9412;
+;;;;;;;;2;Homme;9604;
+;;;;;;;;1;Femme;8068;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8708;
+;;;;;;;;2;Homme;8874;
+;;;;;;;;1;Femme;8048;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6824;
+;;;;;;;;2;Homme;6859;
+;;;;;;;;1;Femme;6453;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6158;
+;;;;;;;;2;Homme;6244;
+;;;;;;;;1;Femme;5717;
+;;;;5;> 5-9 Industries extractives;-1;Position professionnelle - total;-1;Sexe - total;5945;
+;;;;;;;;2;Homme;5975;
+;;;;;;;;1;Femme;X;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5458;
+;;;;;;;;2;Homme;5669;
+;;;;;;;;1;Femme;X;
+;;;;10;> 10-11 Industries alimentaires / fabrication de boissons;-1;Position professionnelle - total;-1;Sexe - total;5925;( )
+;;;;;;;;2;Homme;6225;( )
+;;;;;;;;1;Femme;5304;( )
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;7999;
+;;;;;;;;2;Homme;8389;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6102;
+;;;;;;;;2;Homme;6190;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;5291;
+;;;;;;;;2;Homme;5656;
+;;;;;;;;1;Femme;4716;( )
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5807;( )
+;;;;;;;;2;Homme;6107;( )
+;;;;;;;;1;Femme;5285;( )
+;;;;12;> 12 Fabrication de produits à base de tabac;-1;Position professionnelle - total;-1;Sexe - total;...;
+;;;;;;;;2;Homme;...;
+;;;;;;;;1;Femme;...;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;...;
+;;;;;;;;2;Homme;...;
+;;;;;;;;1;Femme;...;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;...;
+;;;;;;;;2;Homme;...;
+;;;;;;;;1;Femme;...;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;...;
+;;;;;;;;2;Homme;...;
+;;;;;;;;1;Femme;...;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;...;
+;;;;;;;;2;Homme;...;
+;;;;;;;;1;Femme;...;
+;;;;13;> 13-15 Industries du textile et de l'habillement;-1;Position professionnelle - total;-1;Sexe - total;4622;
+;;;;;;;;2;Homme;5176;
+;;;;;;;;1;Femme;4250;( )
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;4005;( )
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;3881;( )
+;;;;16;> 16-18 Industries du bois et du papier / imprimerie;-1;Position professionnelle - total;-1;Sexe - total;6013;
+;;;;;;;;2;Homme;6056;
+;;;;;;;;1;Femme;5470;( )
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;7474;( )
+;;;;;;;;2;Homme;7621;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6272;
+;;;;;;;;2;Homme;6222;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5741;
+;;;;;;;;2;Homme;5814;
+;;;;;;;;1;Femme;5417;( )
+;;;;19;> 19-20 Cokéfaction / industrie chimique;-1;Position professionnelle - total;-1;Sexe - total;9435;( )
+;;;;;;;;2;Homme;10042;( )
+;;;;;;;;1;Femme;7758;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;19343;( )
+;;;;;;;;2;Homme;20719;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;13528;
+;;;;;;;;2;Homme;13688;
+;;;;;;;;1;Femme;13183;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;10861;( )
+;;;;;;;;2;Homme;11181;( )
+;;;;;;;;1;Femme;9759;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;8743;( )
+;;;;;;;;2;Homme;9274;( )
+;;;;;;;;1;Femme;7213;
+;;;;21;> 21 Industrie pharmaceutique;-1;Position professionnelle - total;-1;Sexe - total;8139;
+;;;;;;;;2;Homme;8260;
+;;;;;;;;1;Femme;7837;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;17590;
+;;;;;;;;2;Homme;18725;
+;;;;;;;;1;Femme;13742;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;10664;
+;;;;;;;;2;Homme;11333;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;8217;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;7181;
+;;;;;;;;2;Homme;7025;
+;;;;;;;;1;Femme;7339;
+;;;;22;> 22-23 Industries du caoutchouc et du plastique;-1;Position professionnelle - total;-1;Sexe - total;5982;
+;;;;;;;;2;Homme;6069;
+;;;;;;;;1;Femme;5416;( )
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8708;( )
+;;;;;;;;2;Homme;8867;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6314;
+;;;;;;;;2;Homme;6657;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5661;
+;;;;;;;;2;Homme;5715;
+;;;;;;;;1;Femme;4730;( )
+;;;;24;> 24-25 Métallurgie / fabrication produits métalliques;-1;Position professionnelle - total;-1;Sexe - total;6116;
+;;;;;;;;2;Homme;6306;
+;;;;;;;;1;Femme;4845;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8831;( )
+;;;;;;;;2;Homme;9250;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7334;( )
+;;;;;;;;2;Homme;7334;( )
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6612;
+;;;;;;;;2;Homme;6803;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5743;
+;;;;;;;;2;Homme;5922;
+;;;;;;;;1;Femme;4654;
+;;;;26;> 26 Fabrication de produit informatiques, électroniques et optiques / horlogerie;-1;Position professionnelle - total;-1;Sexe - total;6906;
+;;;;;;;;2;Homme;7700;
+;;;;;;;;1;Femme;5991;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;13108;
+;;;;;;;;2;Homme;13107;
+;;;;;;;;1;Femme;13387;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;9002;
+;;;;;;;;2;Homme;9044;
+;;;;;;;;1;Femme;8933;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6723;
+;;;;;;;;2;Homme;6871;
+;;;;;;;;1;Femme;5778;( )
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6645;
+;;;;;;;;2;Homme;7422;
+;;;;;;;;1;Femme;5908;
+;;;;27;> 27 Fabrication d'équipements électriques;-1;Position professionnelle - total;-1;Sexe - total;6452;
+;;;;;;;;2;Homme;6968;
+;;;;;;;;1;Femme;4619;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10292;( )
+;;;;;;;;2;Homme;11294;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;9473;
+;;;;;;;;2;Homme;9608;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5743;
+;;;;;;;;2;Homme;6141;
+;;;;;;;;1;Femme;4496;
+;;;;28;> 28 Fabrication de machines et équipements n.c.a;-1;Position professionnelle - total;-1;Sexe - total;7245;
+;;;;;;;;2;Homme;7341;
+;;;;;;;;1;Femme;6740;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10396;
+;;;;;;;;2;Homme;10396;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;10171;
+;;;;;;;;2;Homme;10209;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7595;
+;;;;;;;;2;Homme;7656;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6811;
+;;;;;;;;2;Homme;6840;
+;;;;;;;;1;Femme;6435;
+;;;;29;> 29-30 Fabrication de matériels de transport;-1;Position professionnelle - total;-1;Sexe - total;6590;
+;;;;;;;;2;Homme;6542;
+;;;;;;;;1;Femme;6851;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6243;
+;;;;;;;;2;Homme;6208;
+;;;;;;;;1;Femme;X;
+;;;;31;> 31-33 Fabrication de meubles / autres industries manufacturières / réparation et installation de machines et d'équipements;-1;Position professionnelle - total;-1;Sexe - total;5930;
+;;;;;;;;2;Homme;6305;
+;;;;;;;;1;Femme;5131;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9573;( )
+;;;;;;;;2;Homme;9565;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7806;( )
+;;;;;;;;2;Homme;7806;( )
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6779;
+;;;;;;;;2;Homme;7119;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5374;
+;;;;;;;;2;Homme;5648;
+;;;;;;;;1;Femme;4850;
+;;;;35;> 35 Production et distribution d'énergie;-1;Position professionnelle - total;-1;Sexe - total;8158;
+;;;;;;;;2;Homme;8241;
+;;;;;;;;1;Femme;7506;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;13739;
+;;;;;;;;2;Homme;13845;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;10752;
+;;;;;;;;2;Homme;10818;
+;;;;;;;;1;Femme;10317;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;8508;
+;;;;;;;;2;Homme;8464;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;7380;( )
+;;;;;;;;2;Homme;7429;( )
+;;;;;;;;1;Femme;7033;( )
+;;;;36;> 36-39 Production et distribution d'eau / gestion déchets;-1;Position professionnelle - total;-1;Sexe - total;5907;
+;;;;;;;;2;Homme;5925;
+;;;;;;;;1;Femme;5596;( )
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9905;
+;;;;;;;;2;Homme;10280;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6845;
+;;;;;;;;2;Homme;7053;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5386;
+;;;;;;;;2;Homme;5393;
+;;;;;;;;1;Femme;4622;( )
+;;;;41;> 41-43 Construction;-1;Position professionnelle - total;-1;Sexe - total;6151;
+;;;;;;;;2;Homme;6172;
+;;;;;;;;1;Femme;5804;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8556;
+;;;;;;;;2;Homme;8672;
+;;;;;;;;1;Femme;6717;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7433;
+;;;;;;;;2;Homme;7587;
+;;;;;;;;1;Femme;6521;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6641;
+;;;;;;;;2;Homme;6666;
+;;;;;;;;1;Femme;6455;( )
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5859;
+;;;;;;;;2;Homme;5881;
+;;;;;;;;1;Femme;5427;
+;;;;44.99;45-96 Secteur 3: services;-1;Position professionnelle - total;-1;Sexe - total;6594;
+;;;;;;;;2;Homme;7083;
+;;;;;;;;1;Femme;6187;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;11300;
+;;;;;;;;2;Homme;12209;
+;;;;;;;;1;Femme;9444;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;9177;
+;;;;;;;;2;Homme;9687;
+;;;;;;;;1;Femme;8549;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7251;
+;;;;;;;;2;Homme;7539;
+;;;;;;;;1;Femme;6895;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5781;
+;;;;;;;;2;Homme;5843;
+;;;;;;;;1;Femme;5723;
+;;;;45;> 45-46 Commerce de gros / commerce et réparation d'automobiles;-1;Position professionnelle - total;-1;Sexe - total;6590;
+;;;;;;;;2;Homme;6500;
+;;;;;;;;1;Femme;6807;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;12444;( )
+;;;;;;;;2;Homme;12298;( )
+;;;;;;;;1;Femme;12647;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;10115;( )
+;;;;;;;;2;Homme;9827;( )
+;;;;;;;;1;Femme;10446;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6775;
+;;;;;;;;2;Homme;6546;
+;;;;;;;;1;Femme;7500;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5500;
+;;;;;;;;2;Homme;5455;
+;;;;;;;;1;Femme;5704;
+;;;;47;> 47 Commerce de détail;-1;Position professionnelle - total;-1;Sexe - total;4572;
+;;;;;;;;2;Homme;5055;
+;;;;;;;;1;Femme;4329;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;7364;
+;;;;;;;;2;Homme;7756;( )
+;;;;;;;;1;Femme;6653;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6317;
+;;;;;;;;2;Homme;6637;
+;;;;;;;;1;Femme;5836;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;5334;
+;;;;;;;;2;Homme;5649;
+;;;;;;;;1;Femme;5042;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;4312;
+;;;;;;;;2;Homme;4593;
+;;;;;;;;1;Femme;4165;
+;;;;49;> 49-52 Transport terrestres, par eau, aériens / entreposage;-1;Position professionnelle - total;-1;Sexe - total;5524;
+;;;;;;;;2;Homme;5523;
+;;;;;;;;1;Femme;5540;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9920;( )
+;;;;;;;;2;Homme;10436;( )
+;;;;;;;;1;Femme;7812;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7300;
+;;;;;;;;2;Homme;7409;
+;;;;;;;;1;Femme;6660;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6039;
+;;;;;;;;2;Homme;6180;
+;;;;;;;;1;Femme;5612;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5181;
+;;;;;;;;2;Homme;5167;
+;;;;;;;;1;Femme;5283;
+;;;;53;> 53 Activités de poste et de courrier;-1;Position professionnelle - total;-1;Sexe - total;3725;( )
+;;;;;;;;2;Homme;3725;( )
+;;;;;;;;1;Femme;X;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;3725;( )
+;;;;;;;;2;Homme;3556;
+;;;;;;;;1;Femme;X;
+;;;;55;> 55-56 Hébergement et restauration;-1;Position professionnelle - total;-1;Sexe - total;4089;
+;;;;;;;;2;Homme;4334;
+;;;;;;;;1;Femme;3889;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;5444;
+;;;;;;;;2;Homme;5674;
+;;;;;;;;1;Femme;4952;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;4743;
+;;;;;;;;2;Homme;5107;
+;;;;;;;;1;Femme;4068;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;4594;
+;;;;;;;;2;Homme;4794;
+;;;;;;;;1;Femme;4264;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;3919;
+;;;;;;;;2;Homme;4042;
+;;;;;;;;1;Femme;3792;
+;;;;58;> 58-60 Édition, audiovisuel et diffusion;-1;Position professionnelle - total;-1;Sexe - total;7016;
+;;;;;;;;2;Homme;7381;
+;;;;;;;;1;Femme;6667;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9000;( )
+;;;;;;;;2;Homme;9474;( )
+;;;;;;;;1;Femme;7761;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7607;( )
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;9080;( )
+;;;;;;;;2;Homme;9692;
+;;;;;;;;1;Femme;8236;( )
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6518;
+;;;;;;;;2;Homme;6691;
+;;;;;;;;1;Femme;6164;
+;;;;61;> 61 Télécommunications;-1;Position professionnelle - total;-1;Sexe - total;9282;
+;;;;;;;;2;Homme;10508;
+;;;;;;;;1;Femme;7128;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;16063;
+;;;;;;;;2;Homme;16523;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;11313;
+;;;;;;;;2;Homme;11380;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;11662;( )
+;;;;;;;;2;Homme;12472;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6682;
+;;;;;;;;2;Homme;7031;
+;;;;;;;;1;Femme;6148;
+;;;;62;> 62-63 Activité informatiques et services d'information;-1;Position professionnelle - total;-1;Sexe - total;8335;
+;;;;;;;;2;Homme;8611;
+;;;;;;;;1;Femme;7083;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;11111;
+;;;;;;;;2;Homme;11381;( )
+;;;;;;;;1;Femme;9390;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;9905;
+;;;;;;;;2;Homme;9967;
+;;;;;;;;1;Femme;9381;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;8100;
+;;;;;;;;2;Homme;8335;
+;;;;;;;;1;Femme;7200;( )
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;7029;
+;;;;;;;;2;Homme;7183;
+;;;;;;;;1;Femme;6424;
+;;;;64;> 64, 66 Services financiers / activités auxiliaires de services financiers et d'assurance;-1;Position professionnelle - total;-1;Sexe - total;10250;
+;;;;;;;;2;Homme;11637;
+;;;;;;;;1;Femme;8470;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;17373;
+;;;;;;;;2;Homme;17929;
+;;;;;;;;1;Femme;15438;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;11690;
+;;;;;;;;2;Homme;12267;
+;;;;;;;;1;Femme;10735;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;9921;
+;;;;;;;;2;Homme;10295;
+;;;;;;;;1;Femme;9384;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;7301;
+;;;;;;;;2;Homme;7750;
+;;;;;;;;1;Femme;6933;
+;;;;65;> 65 Assurance;-1;Position professionnelle - total;-1;Sexe - total;7201;
+;;;;;;;;2;Homme;8770;
+;;;;;;;;1;Femme;6309;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;12668;
+;;;;;;;;2;Homme;13656;
+;;;;;;;;1;Femme;10088;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;10177;
+;;;;;;;;2;Homme;10350;
+;;;;;;;;1;Femme;9356;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;8553;
+;;;;;;;;2;Homme;9170;
+;;;;;;;;1;Femme;7568;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6362;
+;;;;;;;;2;Homme;7196;
+;;;;;;;;1;Femme;5990;
+;;;;68;> 68 Activités immobilières;-1;Position professionnelle - total;-1;Sexe - total;6667;
+;;;;;;;;2;Homme;7634;( )
+;;;;;;;;1;Femme;6186;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10128;
+;;;;;;;;2;Homme;10796;
+;;;;;;;;1;Femme;9196;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8002;
+;;;;;;;;2;Homme;9086;( )
+;;;;;;;;1;Femme;7600;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6118;
+;;;;;;;;2;Homme;6944;( )
+;;;;;;;;1;Femme;5850;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5800;
+;;;;;;;;2;Homme;5695;
+;;;;;;;;1;Femme;5882;
+;;;;69;> 69-71 Activités juridiques, comptables, de gestion, d'architecture, d'ingénierie;-1;Position professionnelle - total;-1;Sexe - total;7940;
+;;;;;;;;2;Homme;9150;
+;;;;;;;;1;Femme;6810;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;13053;
+;;;;;;;;2;Homme;13258;
+;;;;;;;;1;Femme;11901;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8646;
+;;;;;;;;2;Homme;9017;
+;;;;;;;;1;Femme;8333;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7260;
+;;;;;;;;2;Homme;7618;
+;;;;;;;;1;Femme;6708;( )
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6065;
+;;;;;;;;2;Homme;6340;
+;;;;;;;;1;Femme;5913;
+;;;;72;> 72 Recherche-développement scientifique;-1;Position professionnelle - total;-1;Sexe - total;8013;
+;;;;;;;;2;Homme;9048;
+;;;;;;;;1;Femme;7294;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;13785;( )
+;;;;;;;;2;Homme;14400;
+;;;;;;;;1;Femme;11186;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;9429;
+;;;;;;;;2;Homme;10056;
+;;;;;;;;1;Femme;8151;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7496;
+;;;;;;;;2;Homme;7508;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6606;
+;;;;;;;;2;Homme;6699;( )
+;;;;;;;;1;Femme;6159;( )
+;;;;73;> 73-75 Autres activités spécialisées, scientifiques et techniques;-1;Position professionnelle - total;-1;Sexe - total;6349;
+;;;;;;;;2;Homme;7132;
+;;;;;;;;1;Femme;5819;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9257;( )
+;;;;;;;;2;Homme;10184;( )
+;;;;;;;;1;Femme;7329;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8567;( )
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6959;
+;;;;;;;;2;Homme;7266;
+;;;;;;;;1;Femme;6338;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5365;
+;;;;;;;;2;Homme;5639;
+;;;;;;;;1;Femme;5221;
+;;;;77;> 77,79-82 Activités de services administratifs (sans 78);-1;Position professionnelle - total;-1;Sexe - total;5731;
+;;;;;;;;2;Homme;5932;
+;;;;;;;;1;Femme;5261;( )
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10464;( )
+;;;;;;;;2;Homme;10983;( )
+;;;;;;;;1;Femme;9490;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8092;
+;;;;;;;;2;Homme;8154;
+;;;;;;;;1;Femme;7926;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6322;( )
+;;;;;;;;2;Homme;6363;( )
+;;;;;;;;1;Femme;6105;( )
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5145;
+;;;;;;;;2;Homme;5291;
+;;;;;;;;1;Femme;4706;( )
+;;;;78;> 78 Activités liées à l'emploi;-1;Position professionnelle - total;-1;Sexe - total;5214;
+;;;;;;;;2;Homme;5324;
+;;;;;;;;1;Femme;4849;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8282;
+;;;;;;;;2;Homme;8826;( )
+;;;;;;;;1;Femme;6594;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7946;( )
+;;;;;;;;2;Homme;9031;
+;;;;;;;;1;Femme;6129;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6357;
+;;;;;;;;2;Homme;6357;( )
+;;;;;;;;1;Femme;6300;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5096;
+;;;;;;;;2;Homme;5200;
+;;;;;;;;1;Femme;4671;
+;;;;84;> 84 Administration publique, défense / sécurité sociale;-1;Position professionnelle - total;-1;Sexe - total;7902;
+;;;;;;;;2;Homme;8368;
+;;;;;;;;1;Femme;7455;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;12674;
+;;;;;;;;2;Homme;12909;
+;;;;;;;;1;Femme;11838;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;10264;
+;;;;;;;;2;Homme;10446;
+;;;;;;;;1;Femme;9991;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;8680;
+;;;;;;;;2;Homme;8863;
+;;;;;;;;1;Femme;8410;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;7249;
+;;;;;;;;2;Homme;7443;
+;;;;;;;;1;Femme;7066;
+;;;;85;> 85 Enseignement;-1;Position professionnelle - total;-1;Sexe - total;8756;
+;;;;;;;;2;Homme;9279;
+;;;;;;;;1;Femme;8309;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10084;
+;;;;;;;;2;Homme;11074;
+;;;;;;;;1;Femme;8889;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;9373;
+;;;;;;;;2;Homme;10122;
+;;;;;;;;1;Femme;8870;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7535;
+;;;;;;;;2;Homme;7755;
+;;;;;;;;1;Femme;7485;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;8756;
+;;;;;;;;2;Homme;9230;
+;;;;;;;;1;Femme;8355;
+;;;;86;> 86-88 Santé humaine et action sociale;-1;Position professionnelle - total;-1;Sexe - total;6528;
+;;;;;;;;2;Homme;7216;
+;;;;;;;;1;Femme;6284;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10839;
+;;;;;;;;2;Homme;12023;( )
+;;;;;;;;1;Femme;9864;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8928;
+;;;;;;;;2;Homme;9467;
+;;;;;;;;1;Femme;8594;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7365;
+;;;;;;;;2;Homme;7646;
+;;;;;;;;1;Femme;7247;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6114;
+;;;;;;;;2;Homme;6547;
+;;;;;;;;1;Femme;6005;
+;;;;90;> 90-93 Arts, spectacles et activités récréatives;-1;Position professionnelle - total;-1;Sexe - total;6980;
+;;;;;;;;2;Homme;6980;
+;;;;;;;;1;Femme;6984;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8900;( )
+;;;;;;;;2;Homme;10196;( )
+;;;;;;;;1;Femme;7800;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8983;
+;;;;;;;;2;Homme;9544;( )
+;;;;;;;;1;Femme;8526;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7101;( )
+;;;;;;;;2;Homme;6740;( )
+;;;;;;;;1;Femme;7518;( )
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6212;
+;;;;;;;;2;Homme;6055;( )
+;;;;;;;;1;Femme;6392;
+;;;;94;> 94-95 Activitées des organisations associatives et religieuses / réparation de biens personnels;-1;Position professionnelle - total;-1;Sexe - total;7652;
+;;;;;;;;2;Homme;8370;
+;;;;;;;;1;Femme;7000;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9119;
+;;;;;;;;2;Homme;9533;( )
+;;;;;;;;1;Femme;8454;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8534;
+;;;;;;;;2;Homme;9448;
+;;;;;;;;1;Femme;7905;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7406;
+;;;;;;;;2;Homme;8370;
+;;;;;;;;1;Femme;7043;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6758;
+;;;;;;;;2;Homme;7264;
+;;;;;;;;1;Femme;6486;
+;;;;96;> 96 Autres services personnels;-1;Position professionnelle - total;-1;Sexe - total;3810;
+;;;;;;;;2;Homme;4644;
+;;;;;;;;1;Femme;3610;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;4952;( )
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;4229;( )
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;4189;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;3618;
+;;;;;;;;2;Homme;4573;
+;;;;;;;;1;Femme;3514;
+;;2;Espace Mittelland;-1;Branche économique - total;-1;Position professionnelle - total;-1;Sexe - total;6308;
+;;;;;;;;2;Homme;6690;
+;;;;;;;;1;Femme;5658;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9500;
+;;;;;;;;2;Homme;10166;
+;;;;;;;;1;Femme;7441;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7586;
+;;;;;;;;2;Homme;7927;
+;;;;;;;;1;Femme;6750;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6823;
+;;;;;;;;2;Homme;7051;
+;;;;;;;;1;Femme;6243;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5812;
+;;;;;;;;2;Homme;6074;
+;;;;;;;;1;Femme;5299;
+;;;;4.99;5-43 Secteur 2: production;-1;Position professionnelle - total;-1;Sexe - total;6066;
+;;;;;;;;2;Homme;6276;
+;;;;;;;;1;Femme;5145;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9433;
+;;;;;;;;2;Homme;9630;
+;;;;;;;;1;Femme;7440;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7543;
+;;;;;;;;2;Homme;7651;
+;;;;;;;;1;Femme;6714;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6582;
+;;;;;;;;2;Homme;6700;
+;;;;;;;;1;Femme;5926;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5620;
+;;;;;;;;2;Homme;5804;
+;;;;;;;;1;Femme;4900;
+;;;;5;> 5-9 Industries extractives;-1;Position professionnelle - total;-1;Sexe - total;6242;
+;;;;;;;;2;Homme;6245;
+;;;;;;;;1;Femme;X;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6045;
+;;;;;;;;2;Homme;6104;
+;;;;;;;;1;Femme;X;
+;;;;10;> 10-11 Industries alimentaires / fabrication de boissons;-1;Position professionnelle - total;-1;Sexe - total;5544;
+;;;;;;;;2;Homme;5845;
+;;;;;;;;1;Femme;4663;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9380;
+;;;;;;;;2;Homme;9671;
+;;;;;;;;1;Femme;6122;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6120;
+;;;;;;;;2;Homme;6391;
+;;;;;;;;1;Femme;5473;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6059;
+;;;;;;;;2;Homme;6190;
+;;;;;;;;1;Femme;5674;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5138;
+;;;;;;;;2;Homme;5457;
+;;;;;;;;1;Femme;4377;
+;;;;12;> 12 Fabrication de produits à base de tabac;-1;Position professionnelle - total;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;13;> 13-15 Industries du textile et de l'habillement;-1;Position professionnelle - total;-1;Sexe - total;5012;
+;;;;;;;;2;Homme;5865;
+;;;;;;;;1;Femme;4293;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8642;
+;;;;;;;;2;Homme;8825;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;5886;( )
+;;;;;;;;2;Homme;7016;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;5983;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;4691;
+;;;;;;;;2;Homme;5251;
+;;;;;;;;1;Femme;4199;
+;;;;16;> 16-18 Industries du bois et du papier / imprimerie;-1;Position professionnelle - total;-1;Sexe - total;5856;
+;;;;;;;;2;Homme;6027;
+;;;;;;;;1;Femme;5162;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;7283;
+;;;;;;;;2;Homme;7397;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6565;
+;;;;;;;;2;Homme;6717;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6154;
+;;;;;;;;2;Homme;6291;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5617;
+;;;;;;;;2;Homme;5739;
+;;;;;;;;1;Femme;4880;
+;;;;19;> 19-20 Cokéfaction / industrie chimique;-1;Position professionnelle - total;-1;Sexe - total;6397;
+;;;;;;;;2;Homme;6725;
+;;;;;;;;1;Femme;5423;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10801;
+;;;;;;;;2;Homme;11070;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8036;
+;;;;;;;;2;Homme;8310;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6500;
+;;;;;;;;2;Homme;7018;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5910;
+;;;;;;;;2;Homme;6243;
+;;;;;;;;1;Femme;4975;
+;;;;21;> 21 Industrie pharmaceutique;-1;Position professionnelle - total;-1;Sexe - total;7878;
+;;;;;;;;2;Homme;8572;
+;;;;;;;;1;Femme;6896;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;13570;
+;;;;;;;;2;Homme;13656;
+;;;;;;;;1;Femme;13201;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;9503;
+;;;;;;;;2;Homme;10350;
+;;;;;;;;1;Femme;8829;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;8665;
+;;;;;;;;2;Homme;9390;
+;;;;;;;;1;Femme;7799;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6746;
+;;;;;;;;2;Homme;7370;
+;;;;;;;;1;Femme;5971;
+;;;;22;> 22-23 Industries du caoutchouc et du plastique;-1;Position professionnelle - total;-1;Sexe - total;5633;
+;;;;;;;;2;Homme;5842;
+;;;;;;;;1;Femme;4727;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9391;
+;;;;;;;;2;Homme;9493;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7350;
+;;;;;;;;2;Homme;7661;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6180;
+;;;;;;;;2;Homme;6354;
+;;;;;;;;1;Femme;5576;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5312;
+;;;;;;;;2;Homme;5503;
+;;;;;;;;1;Femme;4521;
+;;;;24;> 24-25 Métallurgie / fabrication produits métalliques;-1;Position professionnelle - total;-1;Sexe - total;5716;
+;;;;;;;;2;Homme;5908;
+;;;;;;;;1;Femme;4694;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8770;
+;;;;;;;;2;Homme;9159;
+;;;;;;;;1;Femme;6833;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7164;
+;;;;;;;;2;Homme;7326;
+;;;;;;;;1;Femme;6503;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6333;
+;;;;;;;;2;Homme;6569;
+;;;;;;;;1;Femme;5416;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5284;
+;;;;;;;;2;Homme;5492;
+;;;;;;;;1;Femme;4496;
+;;;;26;> 26 Fabrication de produit informatiques, électroniques et optiques / horlogerie;-1;Position professionnelle - total;-1;Sexe - total;5878;
+;;;;;;;;2;Homme;6790;
+;;;;;;;;1;Femme;5023;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;11286;
+;;;;;;;;2;Homme;11602;
+;;;;;;;;1;Femme;10075;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8616;
+;;;;;;;;2;Homme;8800;
+;;;;;;;;1;Femme;7966;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6511;
+;;;;;;;;2;Homme;6967;
+;;;;;;;;1;Femme;5725;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5406;
+;;;;;;;;2;Homme;6068;
+;;;;;;;;1;Femme;4917;
+;;;;27;> 27 Fabrication d'équipements électriques;-1;Position professionnelle - total;-1;Sexe - total;6384;
+;;;;;;;;2;Homme;6590;
+;;;;;;;;1;Femme;5327;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10364;
+;;;;;;;;2;Homme;10415;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8167;
+;;;;;;;;2;Homme;8277;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7067;
+;;;;;;;;2;Homme;7146;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5924;
+;;;;;;;;2;Homme;6080;
+;;;;;;;;1;Femme;5113;
+;;;;28;> 28 Fabrication de machines et équipements n.c.a;-1;Position professionnelle - total;-1;Sexe - total;6577;
+;;;;;;;;2;Homme;6730;
+;;;;;;;;1;Femme;5526;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10729;
+;;;;;;;;2;Homme;10960;
+;;;;;;;;1;Femme;8590;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8203;
+;;;;;;;;2;Homme;8249;
+;;;;;;;;1;Femme;7525;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6899;
+;;;;;;;;2;Homme;6960;
+;;;;;;;;1;Femme;6471;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6099;
+;;;;;;;;2;Homme;6253;
+;;;;;;;;1;Femme;5277;
+;;;;29;> 29-30 Fabrication de matériels de transport;-1;Position professionnelle - total;-1;Sexe - total;7209;
+;;;;;;;;2;Homme;7404;
+;;;;;;;;1;Femme;5863;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10851;
+;;;;;;;;2;Homme;10876;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7922;
+;;;;;;;;2;Homme;7978;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6304;
+;;;;;;;;2;Homme;6400;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5432;
+;;;;;;;;2;Homme;5471;
+;;;;;;;;1;Femme;5238;( )
+;;;;31;> 31-33 Fabrication de meubles / autres industries manufacturières / réparation et installation de machines et d'équipements;-1;Position professionnelle - total;-1;Sexe - total;6236;
+;;;;;;;;2;Homme;6513;
+;;;;;;;;1;Femme;5443;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9482;( )
+;;;;;;;;2;Homme;9711;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8855;( )
+;;;;;;;;2;Homme;8833;( )
+;;;;;;;;1;Femme;8877;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7448;
+;;;;;;;;2;Homme;7466;
+;;;;;;;;1;Femme;7029;( )
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5829;
+;;;;;;;;2;Homme;6051;
+;;;;;;;;1;Femme;5287;
+;;;;35;> 35 Production et distribution d'énergie;-1;Position professionnelle - total;-1;Sexe - total;7801;
+;;;;;;;;2;Homme;7892;
+;;;;;;;;1;Femme;6903;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;11330;
+;;;;;;;;2;Homme;11378;
+;;;;;;;;1;Femme;10711;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8621;
+;;;;;;;;2;Homme;8686;
+;;;;;;;;1;Femme;8205;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7151;
+;;;;;;;;2;Homme;7247;
+;;;;;;;;1;Femme;6747;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;7070;
+;;;;;;;;2;Homme;7225;
+;;;;;;;;1;Femme;6301;
+;;;;36;> 36-39 Production et distribution d'eau / gestion déchets;-1;Position professionnelle - total;-1;Sexe - total;6009;
+;;;;;;;;2;Homme;6043;
+;;;;;;;;1;Femme;5680;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8449;
+;;;;;;;;2;Homme;8664;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7781;( )
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7203;
+;;;;;;;;2;Homme;7411;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5628;
+;;;;;;;;2;Homme;5634;
+;;;;;;;;1;Femme;5529;
+;;;;41;> 41-43 Construction;-1;Position professionnelle - total;-1;Sexe - total;5943;
+;;;;;;;;2;Homme;5975;
+;;;;;;;;1;Femme;5343;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;7973;
+;;;;;;;;2;Homme;8104;
+;;;;;;;;1;Femme;5711;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6747;
+;;;;;;;;2;Homme;6807;
+;;;;;;;;1;Femme;5545;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6416;
+;;;;;;;;2;Homme;6446;
+;;;;;;;;1;Femme;5973;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5655;
+;;;;;;;;2;Homme;5687;
+;;;;;;;;1;Femme;5221;
+;;;;44.99;45-96 Secteur 3: services;-1;Position professionnelle - total;-1;Sexe - total;6473;
+;;;;;;;;2;Homme;7086;
+;;;;;;;;1;Femme;5810;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9536;
+;;;;;;;;2;Homme;10553;
+;;;;;;;;1;Femme;7441;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7608;
+;;;;;;;;2;Homme;8330;
+;;;;;;;;1;Femme;6760;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7031;
+;;;;;;;;2;Homme;7474;
+;;;;;;;;1;Femme;6305;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5938;
+;;;;;;;;2;Homme;6362;
+;;;;;;;;1;Femme;5445;
+;;;;45;> 45-46 Commerce de gros / commerce et réparation d'automobiles;-1;Position professionnelle - total;-1;Sexe - total;5733;
+;;;;;;;;2;Homme;5940;
+;;;;;;;;1;Femme;5146;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8666;
+;;;;;;;;2;Homme;9057;
+;;;;;;;;1;Femme;7137;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7060;
+;;;;;;;;2;Homme;7202;
+;;;;;;;;1;Femme;6500;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6011;
+;;;;;;;;2;Homme;6114;
+;;;;;;;;1;Femme;5646;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5260;
+;;;;;;;;2;Homme;5403;
+;;;;;;;;1;Femme;4861;
+;;;;47;> 47 Commerce de détail;-1;Position professionnelle - total;-1;Sexe - total;4595;
+;;;;;;;;2;Homme;5383;
+;;;;;;;;1;Femme;4333;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;6612;
+;;;;;;;;2;Homme;7155;( )
+;;;;;;;;1;Femme;5324;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6078;
+;;;;;;;;2;Homme;6814;
+;;;;;;;;1;Femme;5265;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;5001;
+;;;;;;;;2;Homme;5640;
+;;;;;;;;1;Femme;4631;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;4368;
+;;;;;;;;2;Homme;4846;
+;;;;;;;;1;Femme;4247;
+;;;;49;> 49-52 Transport terrestres, par eau, aériens / entreposage;-1;Position professionnelle - total;-1;Sexe - total;7049;
+;;;;;;;;2;Homme;7176;
+;;;;;;;;1;Femme;6359;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10685;( )
+;;;;;;;;2;Homme;10813;( )
+;;;;;;;;1;Femme;8722;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6133;( )
+;;;;;;;;2;Homme;6390;( )
+;;;;;;;;1;Femme;5502;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;9117;
+;;;;;;;;2;Homme;9159;
+;;;;;;;;1;Femme;8778;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6819;
+;;;;;;;;2;Homme;6917;
+;;;;;;;;1;Femme;6249;
+;;;;53;> 53 Activités de poste et de courrier;-1;Position professionnelle - total;-1;Sexe - total;6106;( )
+;;;;;;;;2;Homme;6139;( )
+;;;;;;;;1;Femme;6043;( )
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;16730;( )
+;;;;;;;;2;Homme;16762;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6495;( )
+;;;;;;;;2;Homme;6594;( )
+;;;;;;;;1;Femme;6197;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7272;( )
+;;;;;;;;2;Homme;7173;( )
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5991;( )
+;;;;;;;;2;Homme;6000;( )
+;;;;;;;;1;Femme;5971;( )
+;;;;55;> 55-56 Hébergement et restauration;-1;Position professionnelle - total;-1;Sexe - total;4256;
+;;;;;;;;2;Homme;4476;
+;;;;;;;;1;Femme;4127;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;5162;
+;;;;;;;;2;Homme;5663;
+;;;;;;;;1;Femme;4632;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;4905;
+;;;;;;;;2;Homme;4952;
+;;;;;;;;1;Femme;4715;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;4455;
+;;;;;;;;2;Homme;4636;
+;;;;;;;;1;Femme;4292;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;4100;
+;;;;;;;;2;Homme;4225;
+;;;;;;;;1;Femme;4025;
+;;;;58;> 58-60 Édition, audiovisuel et diffusion;-1;Position professionnelle - total;-1;Sexe - total;6474;
+;;;;;;;;2;Homme;7259;
+;;;;;;;;1;Femme;5796;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8830;
+;;;;;;;;2;Homme;9683;
+;;;;;;;;1;Femme;7792;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6647;
+;;;;;;;;2;Homme;7030;
+;;;;;;;;1;Femme;6219;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6757;( )
+;;;;;;;;2;Homme;8404;
+;;;;;;;;1;Femme;5688;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6019;
+;;;;;;;;2;Homme;6735;
+;;;;;;;;1;Femme;5533;
+;;;;61;> 61 Télécommunications;-1;Position professionnelle - total;-1;Sexe - total;9188;
+;;;;;;;;2;Homme;9948;
+;;;;;;;;1;Femme;7340;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;13513;
+;;;;;;;;2;Homme;13593;
+;;;;;;;;1;Femme;12568;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;9080;( )
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;8487;
+;;;;;;;;2;Homme;9203;
+;;;;;;;;1;Femme;7221;
+;;;;62;> 62-63 Activité informatiques et services d'information;-1;Position professionnelle - total;-1;Sexe - total;8173;
+;;;;;;;;2;Homme;8750;
+;;;;;;;;1;Femme;6201;( )
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;11377;
+;;;;;;;;2;Homme;11810;
+;;;;;;;;1;Femme;7996;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;9972;
+;;;;;;;;2;Homme;10230;
+;;;;;;;;1;Femme;8244;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;10000;
+;;;;;;;;2;Homme;10437;
+;;;;;;;;1;Femme;8921;( )
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;7174;
+;;;;;;;;2;Homme;7732;
+;;;;;;;;1;Femme;5688;( )
+;;;;64;> 64, 66 Services financiers / activités auxiliaires de services financiers et d'assurance;-1;Position professionnelle - total;-1;Sexe - total;7175;
+;;;;;;;;2;Homme;8927;
+;;;;;;;;1;Femme;6146;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;11561;
+;;;;;;;;2;Homme;12172;
+;;;;;;;;1;Femme;8693;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8794;
+;;;;;;;;2;Homme;9393;
+;;;;;;;;1;Femme;7442;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7579;
+;;;;;;;;2;Homme;8187;
+;;;;;;;;1;Femme;7010;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6028;
+;;;;;;;;2;Homme;6697;
+;;;;;;;;1;Femme;5816;
+;;;;65;> 65 Assurance;-1;Position professionnelle - total;-1;Sexe - total;7923;
+;;;;;;;;2;Homme;9760;
+;;;;;;;;1;Femme;6825;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;11799;
+;;;;;;;;2;Homme;12056;
+;;;;;;;;1;Femme;10832;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;9331;
+;;;;;;;;2;Homme;10162;
+;;;;;;;;1;Femme;7981;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;7066;
+;;;;;;;;2;Homme;8084;
+;;;;;;;;1;Femme;6523;
+;;;;68;> 68 Activités immobilières;-1;Position professionnelle - total;-1;Sexe - total;6200;( )
+;;;;;;;;2;Homme;7137;( )
+;;;;;;;;1;Femme;5779;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10251;
+;;;;;;;;2;Homme;10619;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7475;( )
+;;;;;;;;2;Homme;9392;( )
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6911;( )
+;;;;;;;;2;Homme;7252;( )
+;;;;;;;;1;Femme;6288;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5559;( )
+;;;;;;;;2;Homme;5793;( )
+;;;;;;;;1;Femme;5443;( )
+;;;;69;> 69-71 Activités juridiques, comptables, de gestion, d'architecture, d'ingénierie;-1;Position professionnelle - total;-1;Sexe - total;7088;
+;;;;;;;;2;Homme;8110;
+;;;;;;;;1;Femme;5957;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10800;
+;;;;;;;;2;Homme;11554;
+;;;;;;;;1;Femme;7738;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7592;
+;;;;;;;;2;Homme;8094;
+;;;;;;;;1;Femme;6962;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6848;
+;;;;;;;;2;Homme;7414;
+;;;;;;;;1;Femme;6111;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6050;
+;;;;;;;;2;Homme;6639;
+;;;;;;;;1;Femme;5633;
+;;;;72;> 72 Recherche-développement scientifique;-1;Position professionnelle - total;-1;Sexe - total;8436;
+;;;;;;;;2;Homme;9139;
+;;;;;;;;1;Femme;7582;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;13522;
+;;;;;;;;2;Homme;13540;
+;;;;;;;;1;Femme;13304;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;10317;
+;;;;;;;;2;Homme;10499;
+;;;;;;;;1;Femme;9372;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;9160;
+;;;;;;;;2;Homme;9492;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;7639;
+;;;;;;;;2;Homme;7936;
+;;;;;;;;1;Femme;7208;
+;;;;73;> 73-75 Autres activités spécialisées, scientifiques et techniques;-1;Position professionnelle - total;-1;Sexe - total;6333;
+;;;;;;;;2;Homme;7111;
+;;;;;;;;1;Femme;5721;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9048;( )
+;;;;;;;;2;Homme;10093;( )
+;;;;;;;;1;Femme;7235;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7218;( )
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;5251;( )
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5692;
+;;;;;;;;2;Homme;5944;( )
+;;;;;;;;1;Femme;5471;
+;;;;77;> 77,79-82 Activités de services administratifs (sans 78);-1;Position professionnelle - total;-1;Sexe - total;5437;
+;;;;;;;;2;Homme;5881;
+;;;;;;;;1;Femme;4680;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;7617;( )
+;;;;;;;;2;Homme;8996;( )
+;;;;;;;;1;Femme;5509;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6266;
+;;;;;;;;2;Homme;6827;( )
+;;;;;;;;1;Femme;5700;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;5809;
+;;;;;;;;2;Homme;6047;
+;;;;;;;;1;Femme;5133;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5156;
+;;;;;;;;2;Homme;5580;
+;;;;;;;;1;Femme;4565;
+;;;;78;> 78 Activités liées à l'emploi;-1;Position professionnelle - total;-1;Sexe - total;5365;
+;;;;;;;;2;Homme;5427;
+;;;;;;;;1;Femme;4914;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8679;( )
+;;;;;;;;2;Homme;10113;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6495;( )
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5244;
+;;;;;;;;2;Homme;5355;
+;;;;;;;;1;Femme;4846;
+;;;;84;> 84 Administration publique, défense / sécurité sociale;-1;Position professionnelle - total;-1;Sexe - total;8181;
+;;;;;;;;2;Homme;8631;
+;;;;;;;;1;Femme;7490;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;12295;
+;;;;;;;;2;Homme;12570;
+;;;;;;;;1;Femme;10861;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;9557;
+;;;;;;;;2;Homme;9729;
+;;;;;;;;1;Femme;8452;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7946;
+;;;;;;;;2;Homme;8263;
+;;;;;;;;1;Femme;7302;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;7379;
+;;;;;;;;2;Homme;7648;
+;;;;;;;;1;Femme;6960;
+;;;;85;> 85 Enseignement;-1;Position professionnelle - total;-1;Sexe - total;8430;
+;;;;;;;;2;Homme;9173;
+;;;;;;;;1;Femme;7899;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10924;
+;;;;;;;;2;Homme;11694;
+;;;;;;;;1;Femme;9450;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8219;
+;;;;;;;;2;Homme;8468;
+;;;;;;;;1;Femme;7833;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7105;
+;;;;;;;;2;Homme;7207;( )
+;;;;;;;;1;Femme;6568;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;8204;
+;;;;;;;;2;Homme;8700;
+;;;;;;;;1;Femme;7857;
+;;;;86;> 86-88 Santé humaine et action sociale;-1;Position professionnelle - total;-1;Sexe - total;6072;
+;;;;;;;;2;Homme;6879;
+;;;;;;;;1;Femme;5843;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8178;
+;;;;;;;;2;Homme;9562;
+;;;;;;;;1;Femme;7551;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7118;
+;;;;;;;;2;Homme;7864;
+;;;;;;;;1;Femme;6740;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6612;
+;;;;;;;;2;Homme;7045;
+;;;;;;;;1;Femme;6473;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5630;
+;;;;;;;;2;Homme;6140;
+;;;;;;;;1;Femme;5532;
+;;;;90;> 90-93 Arts, spectacles et activités récréatives;-1;Position professionnelle - total;-1;Sexe - total;5809;
+;;;;;;;;2;Homme;6392;
+;;;;;;;;1;Femme;5210;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8601;
+;;;;;;;;2;Homme;9208;
+;;;;;;;;1;Femme;7291;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6441;
+;;;;;;;;2;Homme;6917;( )
+;;;;;;;;1;Femme;5760;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6275;( )
+;;;;;;;;2;Homme;5914;( )
+;;;;;;;;1;Femme;6361;( )
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5349;
+;;;;;;;;2;Homme;5809;
+;;;;;;;;1;Femme;4890;
+;;;;94;> 94-95 Activitées des organisations associatives et religieuses / réparation de biens personnels;-1;Position professionnelle - total;-1;Sexe - total;6662;
+;;;;;;;;2;Homme;7079;
+;;;;;;;;1;Femme;6343;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9497;
+;;;;;;;;2;Homme;9905;
+;;;;;;;;1;Femme;8861;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7480;
+;;;;;;;;2;Homme;7786;
+;;;;;;;;1;Femme;6984;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6538;
+;;;;;;;;2;Homme;6690;
+;;;;;;;;1;Femme;6299;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5952;
+;;;;;;;;2;Homme;5956;
+;;;;;;;;1;Femme;5940;
+;;;;96;> 96 Autres services personnels;-1;Position professionnelle - total;-1;Sexe - total;3865;
+;;;;;;;;2;Homme;4748;
+;;;;;;;;1;Femme;3634;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;4790;( )
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;4170;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;3629;
+;;;;;;;;2;Homme;4397;
+;;;;;;;;1;Femme;3442;
+;;3;Nordwestschweiz;-1;Branche économique - total;-1;Position professionnelle - total;-1;Sexe - total;6653;
+;;;;;;;;2;Homme;7094;
+;;;;;;;;1;Femme;5981;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10670;
+;;;;;;;;2;Homme;11239;
+;;;;;;;;1;Femme;8789;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8543;
+;;;;;;;;2;Homme;9104;
+;;;;;;;;1;Femme;7071;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7289;
+;;;;;;;;2;Homme;7533;
+;;;;;;;;1;Femme;6837;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6024;
+;;;;;;;;2;Homme;6277;
+;;;;;;;;1;Femme;5610;
+;;;;4.99;5-43 Secteur 2: production;-1;Position professionnelle - total;-1;Sexe - total;6930;
+;;;;;;;;2;Homme;7023;
+;;;;;;;;1;Femme;6576;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;11940;( )
+;;;;;;;;2;Homme;11770;( )
+;;;;;;;;1;Femme;13502;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;9178;
+;;;;;;;;2;Homme;9265;
+;;;;;;;;1;Femme;8670;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7063;
+;;;;;;;;2;Homme;7062;
+;;;;;;;;1;Femme;7057;( )
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6267;
+;;;;;;;;2;Homme;6308;
+;;;;;;;;1;Femme;6043;
+;;;;5;> 5-9 Industries extractives;-1;Position professionnelle - total;-1;Sexe - total;6231;( )
+;;;;;;;;2;Homme;6233;( )
+;;;;;;;;1;Femme;X;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;...;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5955;( )
+;;;;;;;;2;Homme;5974;
+;;;;;;;;1;Femme;X;
+;;;;10;> 10-11 Industries alimentaires / fabrication de boissons;-1;Position professionnelle - total;-1;Sexe - total;6676;( )
+;;;;;;;;2;Homme;7407;( )
+;;;;;;;;1;Femme;5163;( )
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9664;
+;;;;;;;;2;Homme;10138;
+;;;;;;;;1;Femme;7561;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6943;
+;;;;;;;;2;Homme;7043;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;5843;
+;;;;;;;;2;Homme;5991;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6509;( )
+;;;;;;;;2;Homme;7293;( )
+;;;;;;;;1;Femme;5039;( )
+;;;;12;> 12 Fabrication de produits à base de tabac;-1;Position professionnelle - total;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;...;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;...;
+;;;;;;;;2;Homme;...;
+;;;;;;;;1;Femme;...;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;13;> 13-15 Industries du textile et de l'habillement;-1;Position professionnelle - total;-1;Sexe - total;5175;
+;;;;;;;;2;Homme;5925;
+;;;;;;;;1;Femme;4323;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;7927;
+;;;;;;;;2;Homme;8492;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;4639;
+;;;;;;;;2;Homme;5352;
+;;;;;;;;1;Femme;4115;
+;;;;16;> 16-18 Industries du bois et du papier / imprimerie;-1;Position professionnelle - total;-1;Sexe - total;6063;
+;;;;;;;;2;Homme;6248;
+;;;;;;;;1;Femme;5379;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8650;
+;;;;;;;;2;Homme;8702;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6996;
+;;;;;;;;2;Homme;7300;
+;;;;;;;;1;Femme;6508;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6234;
+;;;;;;;;2;Homme;6234;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5675;
+;;;;;;;;2;Homme;5807;
+;;;;;;;;1;Femme;5128;
+;;;;19;> 19-20 Cokéfaction / industrie chimique;-1;Position professionnelle - total;-1;Sexe - total;8056;
+;;;;;;;;2;Homme;8404;
+;;;;;;;;1;Femme;6947;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;14074;( )
+;;;;;;;;2;Homme;14374;( )
+;;;;;;;;1;Femme;12172;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8913;( )
+;;;;;;;;2;Homme;9947;( )
+;;;;;;;;1;Femme;7090;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;9033;
+;;;;;;;;2;Homme;9444;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;7263;
+;;;;;;;;2;Homme;7441;
+;;;;;;;;1;Femme;6600;
+;;;;21;> 21 Industrie pharmaceutique;-1;Position professionnelle - total;-1;Sexe - total;10832;
+;;;;;;;;2;Homme;11494;
+;;;;;;;;1;Femme;9905;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;18770;
+;;;;;;;;2;Homme;19195;
+;;;;;;;;1;Femme;17979;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;12605;
+;;;;;;;;2;Homme;12815;
+;;;;;;;;1;Femme;12300;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;9589;
+;;;;;;;;2;Homme;9883;
+;;;;;;;;1;Femme;9064;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;9297;
+;;;;;;;;2;Homme;9697;
+;;;;;;;;1;Femme;8840;
+;;;;22;> 22-23 Industries du caoutchouc et du plastique;-1;Position professionnelle - total;-1;Sexe - total;6022;
+;;;;;;;;2;Homme;6237;
+;;;;;;;;1;Femme;4993;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10018;
+;;;;;;;;2;Homme;10305;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7960;
+;;;;;;;;2;Homme;8027;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6593;
+;;;;;;;;2;Homme;6600;
+;;;;;;;;1;Femme;6516;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5508;
+;;;;;;;;2;Homme;5670;
+;;;;;;;;1;Femme;4734;
+;;;;24;> 24-25 Métallurgie / fabrication produits métalliques;-1;Position professionnelle - total;-1;Sexe - total;5972;
+;;;;;;;;2;Homme;6074;
+;;;;;;;;1;Femme;5098;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8964;
+;;;;;;;;2;Homme;9192;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7269;
+;;;;;;;;2;Homme;7544;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6562;
+;;;;;;;;2;Homme;6822;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5650;
+;;;;;;;;2;Homme;5755;
+;;;;;;;;1;Femme;4920;
+;;;;26;> 26 Fabrication de produit informatiques, électroniques et optiques / horlogerie;-1;Position professionnelle - total;-1;Sexe - total;7696;
+;;;;;;;;2;Homme;8180;
+;;;;;;;;1;Femme;5867;( )
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;13183;
+;;;;;;;;2;Homme;13506;
+;;;;;;;;1;Femme;9136;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;9936;
+;;;;;;;;2;Homme;9969;
+;;;;;;;;1;Femme;9298;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6931;
+;;;;;;;;2;Homme;7141;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6619;
+;;;;;;;;2;Homme;6980;
+;;;;;;;;1;Femme;5598;
+;;;;27;> 27 Fabrication d'équipements électriques;-1;Position professionnelle - total;-1;Sexe - total;7944;
+;;;;;;;;2;Homme;8238;
+;;;;;;;;1;Femme;6581;( )
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;13515;
+;;;;;;;;2;Homme;13635;
+;;;;;;;;1;Femme;12343;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;9686;
+;;;;;;;;2;Homme;9732;
+;;;;;;;;1;Femme;8999;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7075;
+;;;;;;;;2;Homme;7107;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6814;
+;;;;;;;;2;Homme;7065;
+;;;;;;;;1;Femme;5887;( )
+;;;;28;> 28 Fabrication de machines et équipements n.c.a;-1;Position professionnelle - total;-1;Sexe - total;6735;
+;;;;;;;;2;Homme;6924;
+;;;;;;;;1;Femme;5759;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;11050;
+;;;;;;;;2;Homme;11365;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8506;
+;;;;;;;;2;Homme;8607;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7531;
+;;;;;;;;2;Homme;7551;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6269;
+;;;;;;;;2;Homme;6398;
+;;;;;;;;1;Femme;5543;
+;;;;29;> 29-30 Fabrication de matériels de transport;-1;Position professionnelle - total;-1;Sexe - total;5888;
+;;;;;;;;2;Homme;6125;
+;;;;;;;;1;Femme;X;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;...;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5442;
+;;;;;;;;2;Homme;5644;
+;;;;;;;;1;Femme;X;
+;;;;31;> 31-33 Fabrication de meubles / autres industries manufacturières / réparation et installation de machines et d'équipements;-1;Position professionnelle - total;-1;Sexe - total;6318;
+;;;;;;;;2;Homme;6416;
+;;;;;;;;1;Femme;5777;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10397;( )
+;;;;;;;;2;Homme;10594;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;9208;( )
+;;;;;;;;2;Homme;9318;( )
+;;;;;;;;1;Femme;8945;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6318;
+;;;;;;;;2;Homme;6356;( )
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5832;
+;;;;;;;;2;Homme;5966;
+;;;;;;;;1;Femme;5335;
+;;;;35;> 35 Production et distribution d'énergie;-1;Position professionnelle - total;-1;Sexe - total;8257;
+;;;;;;;;2;Homme;8590;
+;;;;;;;;1;Femme;6505;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;11905;( )
+;;;;;;;;2;Homme;11940;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;9908;
+;;;;;;;;2;Homme;10010;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;7806;
+;;;;;;;;2;Homme;8125;
+;;;;;;;;1;Femme;6716;
+;;;;36;> 36-39 Production et distribution d'eau / gestion déchets;-1;Position professionnelle - total;-1;Sexe - total;6086;( )
+;;;;;;;;2;Homme;6190;( )
+;;;;;;;;1;Femme;5417;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9678;( )
+;;;;;;;;2;Homme;9964;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8461;
+;;;;;;;;2;Homme;8547;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7212;( )
+;;;;;;;;2;Homme;7407;( )
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5494;
+;;;;;;;;2;Homme;5543;( )
+;;;;;;;;1;Femme;5143;
+;;;;41;> 41-43 Construction;-1;Position professionnelle - total;-1;Sexe - total;6105;
+;;;;;;;;2;Homme;6153;
+;;;;;;;;1;Femme;5420;( )
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8091;
+;;;;;;;;2;Homme;8450;
+;;;;;;;;1;Femme;6248;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7205;
+;;;;;;;;2;Homme;7378;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6520;
+;;;;;;;;2;Homme;6532;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5830;
+;;;;;;;;2;Homme;5863;
+;;;;;;;;1;Femme;5363;( )
+;;;;44.99;45-96 Secteur 3: services;-1;Position professionnelle - total;-1;Sexe - total;6502;
+;;;;;;;;2;Homme;7154;
+;;;;;;;;1;Femme;5863;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10217;
+;;;;;;;;2;Homme;11045;
+;;;;;;;;1;Femme;8328;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8070;
+;;;;;;;;2;Homme;8982;
+;;;;;;;;1;Femme;6781;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7428;
+;;;;;;;;2;Homme;8025;
+;;;;;;;;1;Femme;6819;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5850;
+;;;;;;;;2;Homme;6234;
+;;;;;;;;1;Femme;5511;
+;;;;45;> 45-46 Commerce de gros / commerce et réparation d'automobiles;-1;Position professionnelle - total;-1;Sexe - total;6358;
+;;;;;;;;2;Homme;6542;
+;;;;;;;;1;Femme;5958;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10228;
+;;;;;;;;2;Homme;10588;
+;;;;;;;;1;Femme;8666;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8440;
+;;;;;;;;2;Homme;8629;
+;;;;;;;;1;Femme;7649;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6947;
+;;;;;;;;2;Homme;6606;( )
+;;;;;;;;1;Femme;7648;( )
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5758;
+;;;;;;;;2;Homme;5826;
+;;;;;;;;1;Femme;5606;
+;;;;47;> 47 Commerce de détail;-1;Position professionnelle - total;-1;Sexe - total;4685;
+;;;;;;;;2;Homme;5396;
+;;;;;;;;1;Femme;4457;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;7222;
+;;;;;;;;2;Homme;7867;( )
+;;;;;;;;1;Femme;6386;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6341;
+;;;;;;;;2;Homme;7015;( )
+;;;;;;;;1;Femme;5919;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;4847;
+;;;;;;;;2;Homme;5456;( )
+;;;;;;;;1;Femme;4617;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;4487;
+;;;;;;;;2;Homme;4857;
+;;;;;;;;1;Femme;4367;
+;;;;49;> 49-52 Transport terrestres, par eau, aériens / entreposage;-1;Position professionnelle - total;-1;Sexe - total;5970;( )
+;;;;;;;;2;Homme;6070;( )
+;;;;;;;;1;Femme;5645;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9556;( )
+;;;;;;;;2;Homme;10227;
+;;;;;;;;1;Femme;7351;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6843;( )
+;;;;;;;;2;Homme;6807;( )
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7588;( )
+;;;;;;;;2;Homme;7785;( )
+;;;;;;;;1;Femme;6790;( )
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5602;( )
+;;;;;;;;2;Homme;5638;( )
+;;;;;;;;1;Femme;5440;
+;;;;53;> 53 Activités de poste et de courrier;-1;Position professionnelle - total;-1;Sexe - total;5559;
+;;;;;;;;2;Homme;5524;
+;;;;;;;;1;Femme;5771;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5435;
+;;;;;;;;2;Homme;5370;
+;;;;;;;;1;Femme;5597;
+;;;;55;> 55-56 Hébergement et restauration;-1;Position professionnelle - total;-1;Sexe - total;4365;
+;;;;;;;;2;Homme;4502;
+;;;;;;;;1;Femme;4305;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;5538;( )
+;;;;;;;;2;Homme;5754;( )
+;;;;;;;;1;Femme;5119;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;5007;( )
+;;;;;;;;2;Homme;4945;( )
+;;;;;;;;1;Femme;5075;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;4844;
+;;;;;;;;2;Homme;5055;
+;;;;;;;;1;Femme;4611;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;4229;
+;;;;;;;;2;Homme;4230;
+;;;;;;;;1;Femme;4202;
+;;;;58;> 58-60 Édition, audiovisuel et diffusion;-1;Position professionnelle - total;-1;Sexe - total;7120;
+;;;;;;;;2;Homme;7511;( )
+;;;;;;;;1;Femme;6217;( )
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8845;( )
+;;;;;;;;2;Homme;9913;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6826;( )
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6524;( )
+;;;;;;;;2;Homme;7052;( )
+;;;;;;;;1;Femme;5891;( )
+;;;;61;> 61 Télécommunications;-1;Position professionnelle - total;-1;Sexe - total;6365;( )
+;;;;;;;;2;Homme;6870;
+;;;;;;;;1;Femme;X;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5772;( )
+;;;;;;;;2;Homme;6365;
+;;;;;;;;1;Femme;X;
+;;;;62;> 62-63 Activité informatiques et services d'information;-1;Position professionnelle - total;-1;Sexe - total;8770;
+;;;;;;;;2;Homme;9141;
+;;;;;;;;1;Femme;6828;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;11667;
+;;;;;;;;2;Homme;12000;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;10069;
+;;;;;;;;2;Homme;10417;
+;;;;;;;;1;Femme;8226;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;8396;
+;;;;;;;;2;Homme;8400;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;7686;
+;;;;;;;;2;Homme;7972;
+;;;;;;;;1;Femme;6507;
+;;;;64;> 64, 66 Services financiers / activités auxiliaires de services financiers et d'assurance;-1;Position professionnelle - total;-1;Sexe - total;8270;
+;;;;;;;;2;Homme;10088;
+;;;;;;;;1;Femme;6754;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;14501;
+;;;;;;;;2;Homme;14864;
+;;;;;;;;1;Femme;10450;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;10210;
+;;;;;;;;2;Homme;10821;
+;;;;;;;;1;Femme;8776;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;9053;( )
+;;;;;;;;2;Homme;9912;( )
+;;;;;;;;1;Femme;7654;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6425;
+;;;;;;;;2;Homme;6931;
+;;;;;;;;1;Femme;6210;
+;;;;65;> 65 Assurance;-1;Position professionnelle - total;-1;Sexe - total;8522;
+;;;;;;;;2;Homme;9882;
+;;;;;;;;1;Femme;6860;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;15589;
+;;;;;;;;2;Homme;16082;
+;;;;;;;;1;Femme;14135;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;11241;
+;;;;;;;;2;Homme;11391;
+;;;;;;;;1;Femme;10408;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;8776;
+;;;;;;;;2;Homme;9060;
+;;;;;;;;1;Femme;8214;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6848;
+;;;;;;;;2;Homme;7792;
+;;;;;;;;1;Femme;6292;
+;;;;68;> 68 Activités immobilières;-1;Position professionnelle - total;-1;Sexe - total;6776;
+;;;;;;;;2;Homme;7264;
+;;;;;;;;1;Femme;6190;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9860;
+;;;;;;;;2;Homme;11011;( )
+;;;;;;;;1;Femme;8254;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7074;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7147;( )
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5932;
+;;;;;;;;2;Homme;6140;
+;;;;;;;;1;Femme;5645;
+;;;;69;> 69-71 Activités juridiques, comptables, de gestion, d'architecture, d'ingénierie;-1;Position professionnelle - total;-1;Sexe - total;7588;
+;;;;;;;;2;Homme;8612;
+;;;;;;;;1;Femme;6402;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;12353;( )
+;;;;;;;;2;Homme;12834;( )
+;;;;;;;;1;Femme;9574;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8943;
+;;;;;;;;2;Homme;9533;
+;;;;;;;;1;Femme;7192;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7626;( )
+;;;;;;;;2;Homme;8126;( )
+;;;;;;;;1;Femme;7000;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6316;
+;;;;;;;;2;Homme;6677;
+;;;;;;;;1;Femme;5948;
+;;;;72;> 72 Recherche-développement scientifique;-1;Position professionnelle - total;-1;Sexe - total;8943;
+;;;;;;;;2;Homme;9677;
+;;;;;;;;1;Femme;7898;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;21102;( )
+;;;;;;;;2;Homme;22774;( )
+;;;;;;;;1;Femme;18439;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;16518;
+;;;;;;;;2;Homme;17086;
+;;;;;;;;1;Femme;14876;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;12997;
+;;;;;;;;2;Homme;13223;( )
+;;;;;;;;1;Femme;12365;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;7825;
+;;;;;;;;2;Homme;8206;
+;;;;;;;;1;Femme;7324;
+;;;;73;> 73-75 Autres activités spécialisées, scientifiques et techniques;-1;Position professionnelle - total;-1;Sexe - total;6190;
+;;;;;;;;2;Homme;7362;
+;;;;;;;;1;Femme;5486;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9000;( )
+;;;;;;;;2;Homme;9211;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6744;( )
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5274;
+;;;;;;;;2;Homme;6121;
+;;;;;;;;1;Femme;4975;
+;;;;77;> 77,79-82 Activités de services administratifs (sans 78);-1;Position professionnelle - total;-1;Sexe - total;4727;
+;;;;;;;;2;Homme;5209;
+;;;;;;;;1;Femme;4195;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;7622;( )
+;;;;;;;;2;Homme;7649;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;5427;( )
+;;;;;;;;2;Homme;5298;( )
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;4183;( )
+;;;;;;;;2;Homme;4623;( )
+;;;;;;;;1;Femme;3793;( )
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;4379;
+;;;;;;;;2;Homme;4653;
+;;;;;;;;1;Femme;4096;
+;;;;78;> 78 Activités liées à l'emploi;-1;Position professionnelle - total;-1;Sexe - total;5496;
+;;;;;;;;2;Homme;5540;
+;;;;;;;;1;Femme;4862;( )
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8797;( )
+;;;;;;;;2;Homme;9028;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7843;( )
+;;;;;;;;2;Homme;7656;( )
+;;;;;;;;1;Femme;8361;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5417;
+;;;;;;;;2;Homme;5483;
+;;;;;;;;1;Femme;4578;
+;;;;84;> 84 Administration publique, défense / sécurité sociale;-1;Position professionnelle - total;-1;Sexe - total;7411;
+;;;;;;;;2;Homme;7976;
+;;;;;;;;1;Femme;6783;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;11554;
+;;;;;;;;2;Homme;12177;
+;;;;;;;;1;Femme;10068;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;9091;
+;;;;;;;;2;Homme;9311;
+;;;;;;;;1;Femme;7790;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;8572;
+;;;;;;;;2;Homme;8914;
+;;;;;;;;1;Femme;7289;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;7014;
+;;;;;;;;2;Homme;7420;
+;;;;;;;;1;Femme;6580;
+;;;;85;> 85 Enseignement;-1;Position professionnelle - total;-1;Sexe - total;8323;
+;;;;;;;;2;Homme;8847;
+;;;;;;;;1;Femme;7942;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;11514;
+;;;;;;;;2;Homme;11495;
+;;;;;;;;1;Femme;11489;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6670;( )
+;;;;;;;;2;Homme;6866;( )
+;;;;;;;;1;Femme;6571;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7607;
+;;;;;;;;2;Homme;7807;
+;;;;;;;;1;Femme;7518;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;8362;
+;;;;;;;;2;Homme;9013;
+;;;;;;;;1;Femme;7956;
+;;;;86;> 86-88 Santé humaine et action sociale;-1;Position professionnelle - total;-1;Sexe - total;6187;
+;;;;;;;;2;Homme;6950;
+;;;;;;;;1;Femme;5991;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9126;
+;;;;;;;;2;Homme;10942;
+;;;;;;;;1;Femme;8219;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7101;
+;;;;;;;;2;Homme;7750;
+;;;;;;;;1;Femme;6773;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6806;
+;;;;;;;;2;Homme;7208;
+;;;;;;;;1;Femme;6635;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5827;
+;;;;;;;;2;Homme;6138;
+;;;;;;;;1;Femme;5764;
+;;;;90;> 90-93 Arts, spectacles et activités récréatives;-1;Position professionnelle - total;-1;Sexe - total;5922;
+;;;;;;;;2;Homme;6400;
+;;;;;;;;1;Femme;5445;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;7919;
+;;;;;;;;2;Homme;8405;
+;;;;;;;;1;Femme;6969;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6829;
+;;;;;;;;2;Homme;7118;
+;;;;;;;;1;Femme;6476;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6221;
+;;;;;;;;2;Homme;6922;
+;;;;;;;;1;Femme;5520;( )
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5567;
+;;;;;;;;2;Homme;5896;
+;;;;;;;;1;Femme;5143;
+;;;;94;> 94-95 Activitées des organisations associatives et religieuses / réparation de biens personnels;-1;Position professionnelle - total;-1;Sexe - total;7608;
+;;;;;;;;2;Homme;9530;( )
+;;;;;;;;1;Femme;6616;( )
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10181;( )
+;;;;;;;;2;Homme;10099;( )
+;;;;;;;;1;Femme;10352;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6718;( )
+;;;;;;;;2;Homme;8649;
+;;;;;;;;1;Femme;6010;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6627;( )
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6542;
+;;;;;;;;2;Homme;6780;
+;;;;;;;;1;Femme;6310;( )
+;;;;96;> 96 Autres services personnels;-1;Position professionnelle - total;-1;Sexe - total;3962;
+;;;;;;;;2;Homme;5050;( )
+;;;;;;;;1;Femme;3813;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;5810;( )
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;3845;
+;;;;;;;;2;Homme;4799;
+;;;;;;;;1;Femme;3629;
+;;4;Zürich;-1;Branche économique - total;-1;Position professionnelle - total;-1;Sexe - total;6900;
+;;;;;;;;2;Homme;7500;
+;;;;;;;;1;Femme;6192;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10709;
+;;;;;;;;2;Homme;11826;
+;;;;;;;;1;Femme;9071;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8940;
+;;;;;;;;2;Homme;9524;
+;;;;;;;;1;Femme;7936;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7143;
+;;;;;;;;2;Homme;7470;
+;;;;;;;;1;Femme;6567;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6074;
+;;;;;;;;2;Homme;6422;
+;;;;;;;;1;Femme;5550;
+;;;;4.99;5-43 Secteur 2: production;-1;Position professionnelle - total;-1;Sexe - total;6500;
+;;;;;;;;2;Homme;6659;
+;;;;;;;;1;Femme;5595;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10312;
+;;;;;;;;2;Homme;10534;
+;;;;;;;;1;Femme;8359;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8180;
+;;;;;;;;2;Homme;8335;
+;;;;;;;;1;Femme;7141;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7212;
+;;;;;;;;2;Homme;7255;
+;;;;;;;;1;Femme;6941;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6088;
+;;;;;;;;2;Homme;6225;
+;;;;;;;;1;Femme;5366;
+;;;;5;> 5-9 Industries extractives;-1;Position professionnelle - total;-1;Sexe - total;5840;
+;;;;;;;;2;Homme;5876;
+;;;;;;;;1;Femme;X;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5636;
+;;;;;;;;2;Homme;5687;
+;;;;;;;;1;Femme;X;
+;;;;10;> 10-11 Industries alimentaires / fabrication de boissons;-1;Position professionnelle - total;-1;Sexe - total;5523;
+;;;;;;;;2;Homme;5895;
+;;;;;;;;1;Femme;4770;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9463;
+;;;;;;;;2;Homme;9649;
+;;;;;;;;1;Femme;7977;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7054;( )
+;;;;;;;;2;Homme;7504;( )
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6526;
+;;;;;;;;2;Homme;6707;
+;;;;;;;;1;Femme;6189;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5381;
+;;;;;;;;2;Homme;5718;
+;;;;;;;;1;Femme;4662;
+;;;;12;> 12 Fabrication de produits à base de tabac;-1;Position professionnelle - total;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;...;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;13;> 13-15 Industries du textile et de l'habillement;-1;Position professionnelle - total;-1;Sexe - total;5419;
+;;;;;;;;2;Homme;6189;
+;;;;;;;;1;Femme;4798;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9150;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5120;
+;;;;;;;;2;Homme;5684;
+;;;;;;;;1;Femme;4687;
+;;;;16;> 16-18 Industries du bois et du papier / imprimerie;-1;Position professionnelle - total;-1;Sexe - total;6516;
+;;;;;;;;2;Homme;6758;
+;;;;;;;;1;Femme;5893;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8130;( )
+;;;;;;;;2;Homme;8333;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7164;( )
+;;;;;;;;2;Homme;7101;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;8428;( )
+;;;;;;;;2;Homme;8336;( )
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5959;
+;;;;;;;;2;Homme;6181;
+;;;;;;;;1;Femme;5500;( )
+;;;;19;> 19-20 Cokéfaction / industrie chimique;-1;Position professionnelle - total;-1;Sexe - total;6945;
+;;;;;;;;2;Homme;7291;
+;;;;;;;;1;Femme;5959;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;11098;
+;;;;;;;;2;Homme;11364;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8719;( )
+;;;;;;;;2;Homme;9997;( )
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7840;
+;;;;;;;;2;Homme;7892;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6292;
+;;;;;;;;2;Homme;6627;
+;;;;;;;;1;Femme;5672;
+;;;;21;> 21 Industrie pharmaceutique;-1;Position professionnelle - total;-1;Sexe - total;6973;
+;;;;;;;;2;Homme;7791;( )
+;;;;;;;;1;Femme;5911;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5797;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;22;> 22-23 Industries du caoutchouc et du plastique;-1;Position professionnelle - total;-1;Sexe - total;6350;
+;;;;;;;;2;Homme;6550;
+;;;;;;;;1;Femme;5363;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9905;( )
+;;;;;;;;2;Homme;10800;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8189;
+;;;;;;;;2;Homme;8313;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6794;
+;;;;;;;;2;Homme;6816;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5811;
+;;;;;;;;2;Homme;5955;
+;;;;;;;;1;Femme;5149;
+;;;;24;> 24-25 Métallurgie / fabrication produits métalliques;-1;Position professionnelle - total;-1;Sexe - total;6334;
+;;;;;;;;2;Homme;6522;
+;;;;;;;;1;Femme;5390;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9578;
+;;;;;;;;2;Homme;9835;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7354;( )
+;;;;;;;;2;Homme;7426;( )
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7109;
+;;;;;;;;2;Homme;7109;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5850;
+;;;;;;;;2;Homme;5984;
+;;;;;;;;1;Femme;5201;
+;;;;26;> 26 Fabrication de produit informatiques, électroniques et optiques / horlogerie;-1;Position professionnelle - total;-1;Sexe - total;7583;
+;;;;;;;;2;Homme;8712;
+;;;;;;;;1;Femme;5482;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;12721;
+;;;;;;;;2;Homme;13131;( )
+;;;;;;;;1;Femme;10317;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;9336;
+;;;;;;;;2;Homme;9600;
+;;;;;;;;1;Femme;7214;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;9595;( )
+;;;;;;;;2;Homme;10317;( )
+;;;;;;;;1;Femme;7062;( )
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6810;
+;;;;;;;;2;Homme;7697;
+;;;;;;;;1;Femme;5340;
+;;;;27;> 27 Fabrication d'équipements électriques;-1;Position professionnelle - total;-1;Sexe - total;6452;
+;;;;;;;;2;Homme;6769;
+;;;;;;;;1;Femme;5231;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;11145;
+;;;;;;;;2;Homme;11265;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8324;
+;;;;;;;;2;Homme;8526;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6308;
+;;;;;;;;2;Homme;6305;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5910;
+;;;;;;;;2;Homme;6267;
+;;;;;;;;1;Femme;5046;
+;;;;28;> 28 Fabrication de machines et équipements n.c.a;-1;Position professionnelle - total;-1;Sexe - total;7233;
+;;;;;;;;2;Homme;7451;
+;;;;;;;;1;Femme;6218;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;11592;
+;;;;;;;;2;Homme;11769;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;9228;
+;;;;;;;;2;Homme;9336;
+;;;;;;;;1;Femme;8760;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7737;( )
+;;;;;;;;2;Homme;7793;( )
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6752;
+;;;;;;;;2;Homme;6942;
+;;;;;;;;1;Femme;5910;
+;;;;29;> 29-30 Fabrication de matériels de transport;-1;Position professionnelle - total;-1;Sexe - total;6752;
+;;;;;;;;2;Homme;6793;
+;;;;;;;;1;Femme;6180;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;11274;( )
+;;;;;;;;2;Homme;11765;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6536;
+;;;;;;;;2;Homme;6593;
+;;;;;;;;1;Femme;6098;
+;;;;31;> 31-33 Fabrication de meubles / autres industries manufacturières / réparation et installation de machines et d'équipements;-1;Position professionnelle - total;-1;Sexe - total;6657;
+;;;;;;;;2;Homme;6807;
+;;;;;;;;1;Femme;5816;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10195;( )
+;;;;;;;;2;Homme;10689;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8172;
+;;;;;;;;2;Homme;8345;
+;;;;;;;;1;Femme;6833;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6550;( )
+;;;;;;;;2;Homme;6934;( )
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6336;
+;;;;;;;;2;Homme;6476;
+;;;;;;;;1;Femme;5699;
+;;;;35;> 35 Production et distribution d'énergie;-1;Position professionnelle - total;-1;Sexe - total;7556;
+;;;;;;;;2;Homme;7693;( )
+;;;;;;;;1;Femme;6719;( )
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;12620;( )
+;;;;;;;;2;Homme;12708;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;10150;( )
+;;;;;;;;2;Homme;10067;( )
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;8901;
+;;;;;;;;2;Homme;9071;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;7044;( )
+;;;;;;;;2;Homme;7160;( )
+;;;;;;;;1;Femme;6476;( )
+;;;;36;> 36-39 Production et distribution d'eau / gestion déchets;-1;Position professionnelle - total;-1;Sexe - total;6602;
+;;;;;;;;2;Homme;6625;
+;;;;;;;;1;Femme;6492;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;11219;
+;;;;;;;;2;Homme;11493;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8691;
+;;;;;;;;2;Homme;8865;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7753;
+;;;;;;;;2;Homme;7859;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6190;
+;;;;;;;;2;Homme;6190;
+;;;;;;;;1;Femme;6217;
+;;;;41;> 41-43 Construction;-1;Position professionnelle - total;-1;Sexe - total;6335;
+;;;;;;;;2;Homme;6358;
+;;;;;;;;1;Femme;6016;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9524;
+;;;;;;;;2;Homme;9624;
+;;;;;;;;1;Femme;8591;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7957;
+;;;;;;;;2;Homme;8130;
+;;;;;;;;1;Femme;6150;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7067;
+;;;;;;;;2;Homme;7004;
+;;;;;;;;1;Femme;7725;( )
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6007;
+;;;;;;;;2;Homme;6030;
+;;;;;;;;1;Femme;5682;
+;;;;44.99;45-96 Secteur 3: services;-1;Position professionnelle - total;-1;Sexe - total;7026;
+;;;;;;;;2;Homme;7901;
+;;;;;;;;1;Femme;6245;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10774;
+;;;;;;;;2;Homme;12045;
+;;;;;;;;1;Femme;9091;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;9066;
+;;;;;;;;2;Homme;9760;
+;;;;;;;;1;Femme;7979;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7142;
+;;;;;;;;2;Homme;7576;
+;;;;;;;;1;Femme;6542;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6069;
+;;;;;;;;2;Homme;6509;
+;;;;;;;;1;Femme;5573;
+;;;;45;> 45-46 Commerce de gros / commerce et réparation d'automobiles;-1;Position professionnelle - total;-1;Sexe - total;6896;
+;;;;;;;;2;Homme;7162;
+;;;;;;;;1;Femme;6307;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10975;
+;;;;;;;;2;Homme;11620;
+;;;;;;;;1;Femme;8943;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;9004;
+;;;;;;;;2;Homme;9304;
+;;;;;;;;1;Femme;8001;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7100;
+;;;;;;;;2;Homme;7334;
+;;;;;;;;1;Femme;6352;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6332;
+;;;;;;;;2;Homme;6461;
+;;;;;;;;1;Femme;6054;
+;;;;47;> 47 Commerce de détail;-1;Position professionnelle - total;-1;Sexe - total;4773;
+;;;;;;;;2;Homme;5496;
+;;;;;;;;1;Femme;4560;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;7936;
+;;;;;;;;2;Homme;9421;
+;;;;;;;;1;Femme;6619;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6616;( )
+;;;;;;;;2;Homme;8176;
+;;;;;;;;1;Femme;5100;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6130;
+;;;;;;;;2;Homme;6764;
+;;;;;;;;1;Femme;5635;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;4601;
+;;;;;;;;2;Homme;5019;
+;;;;;;;;1;Femme;4490;
+;;;;49;> 49-52 Transport terrestres, par eau, aériens / entreposage;-1;Position professionnelle - total;-1;Sexe - total;6461;
+;;;;;;;;2;Homme;6648;
+;;;;;;;;1;Femme;5944;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10857;
+;;;;;;;;2;Homme;11258;
+;;;;;;;;1;Femme;8847;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;9454;
+;;;;;;;;2;Homme;9606;
+;;;;;;;;1;Femme;8921;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7120;
+;;;;;;;;2;Homme;7453;( )
+;;;;;;;;1;Femme;6500;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6187;
+;;;;;;;;2;Homme;6350;
+;;;;;;;;1;Femme;5752;
+;;;;53;> 53 Activités de poste et de courrier;-1;Position professionnelle - total;-1;Sexe - total;3563;
+;;;;;;;;2;Homme;3789;
+;;;;;;;;1;Femme;3264;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;3467;
+;;;;;;;;2;Homme;3654;
+;;;;;;;;1;Femme;3201;
+;;;;55;> 55-56 Hébergement et restauration;-1;Position professionnelle - total;-1;Sexe - total;4412;
+;;;;;;;;2;Homme;4633;
+;;;;;;;;1;Femme;4305;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;6445;
+;;;;;;;;2;Homme;6667;
+;;;;;;;;1;Femme;6109;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;5673;
+;;;;;;;;2;Homme;5847;
+;;;;;;;;1;Femme;5331;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;4985;
+;;;;;;;;2;Homme;5074;
+;;;;;;;;1;Femme;4881;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;4218;
+;;;;;;;;2;Homme;4243;
+;;;;;;;;1;Femme;4147;
+;;;;58;> 58-60 Édition, audiovisuel et diffusion;-1;Position professionnelle - total;-1;Sexe - total;8285;
+;;;;;;;;2;Homme;8853;
+;;;;;;;;1;Femme;7527;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;11040;
+;;;;;;;;2;Homme;11865;
+;;;;;;;;1;Femme;8785;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;11250;
+;;;;;;;;2;Homme;11638;
+;;;;;;;;1;Femme;9167;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;9222;
+;;;;;;;;2;Homme;9711;( )
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;8049;
+;;;;;;;;2;Homme;8494;
+;;;;;;;;1;Femme;7393;
+;;;;61;> 61 Télécommunications;-1;Position professionnelle - total;-1;Sexe - total;8276;
+;;;;;;;;2;Homme;9000;
+;;;;;;;;1;Femme;6502;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;12751;
+;;;;;;;;2;Homme;12920;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;10157;
+;;;;;;;;2;Homme;10257;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;8200;
+;;;;;;;;2;Homme;8245;
+;;;;;;;;1;Femme;8030;( )
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6760;( )
+;;;;;;;;2;Homme;7615;( )
+;;;;;;;;1;Femme;6000;
+;;;;62;> 62-63 Activité informatiques et services d'information;-1;Position professionnelle - total;-1;Sexe - total;9358;
+;;;;;;;;2;Homme;9830;
+;;;;;;;;1;Femme;7100;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;12758;
+;;;;;;;;2;Homme;12926;
+;;;;;;;;1;Femme;9524;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;10042;
+;;;;;;;;2;Homme;10250;
+;;;;;;;;1;Femme;8240;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;10850;( )
+;;;;;;;;2;Homme;11542;( )
+;;;;;;;;1;Femme;8877;( )
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;8389;
+;;;;;;;;2;Homme;8880;
+;;;;;;;;1;Femme;6882;
+;;;;64;> 64, 66 Services financiers / activités auxiliaires de services financiers et d'assurance;-1;Position professionnelle - total;-1;Sexe - total;10098;
+;;;;;;;;2;Homme;11294;
+;;;;;;;;1;Femme;8000;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;16373;
+;;;;;;;;2;Homme;16836;
+;;;;;;;;1;Femme;14286;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;10608;
+;;;;;;;;2;Homme;10859;
+;;;;;;;;1;Femme;9982;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;8214;
+;;;;;;;;2;Homme;8610;
+;;;;;;;;1;Femme;7896;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;7064;
+;;;;;;;;2;Homme;7581;
+;;;;;;;;1;Femme;6746;
+;;;;65;> 65 Assurance;-1;Position professionnelle - total;-1;Sexe - total;8914;
+;;;;;;;;2;Homme;10751;
+;;;;;;;;1;Femme;7171;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;19820;
+;;;;;;;;2;Homme;20378;
+;;;;;;;;1;Femme;16972;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;12097;
+;;;;;;;;2;Homme;12414;
+;;;;;;;;1;Femme;11077;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;10250;
+;;;;;;;;2;Homme;10959;
+;;;;;;;;1;Femme;9786;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;7051;
+;;;;;;;;2;Homme;8365;
+;;;;;;;;1;Femme;6506;
+;;;;68;> 68 Activités immobilières;-1;Position professionnelle - total;-1;Sexe - total;7377;
+;;;;;;;;2;Homme;7952;
+;;;;;;;;1;Femme;6830;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;11350;
+;;;;;;;;2;Homme;12352;
+;;;;;;;;1;Femme;9797;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8969;( )
+;;;;;;;;2;Homme;10000;( )
+;;;;;;;;1;Femme;8353;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7560;( )
+;;;;;;;;2;Homme;8416;( )
+;;;;;;;;1;Femme;7233;( )
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6508;
+;;;;;;;;2;Homme;6615;
+;;;;;;;;1;Femme;6421;
+;;;;69;> 69-71 Activités juridiques, comptables, de gestion, d'architecture, d'ingénierie;-1;Position professionnelle - total;-1;Sexe - total;8238;
+;;;;;;;;2;Homme;9150;
+;;;;;;;;1;Femme;7154;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;14170;
+;;;;;;;;2;Homme;14497;
+;;;;;;;;1;Femme;12174;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;10108;
+;;;;;;;;2;Homme;10500;
+;;;;;;;;1;Femme;9026;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;8281;
+;;;;;;;;2;Homme;8459;
+;;;;;;;;1;Femme;8071;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6830;
+;;;;;;;;2;Homme;7148;
+;;;;;;;;1;Femme;6585;
+;;;;72;> 72 Recherche-développement scientifique;-1;Position professionnelle - total;-1;Sexe - total;9091;
+;;;;;;;;2;Homme;9725;
+;;;;;;;;1;Femme;7741;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;12714;
+;;;;;;;;2;Homme;13576;( )
+;;;;;;;;1;Femme;9606;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;9393;
+;;;;;;;;2;Homme;9886;
+;;;;;;;;1;Femme;8208;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;8360;( )
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;8500;
+;;;;;;;;2;Homme;9004;
+;;;;;;;;1;Femme;7500;
+;;;;73;> 73-75 Autres activités spécialisées, scientifiques et techniques;-1;Position professionnelle - total;-1;Sexe - total;6025;( )
+;;;;;;;;2;Homme;6800;
+;;;;;;;;1;Femme;5300;( )
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10421;( )
+;;;;;;;;2;Homme;11289;( )
+;;;;;;;;1;Femme;8888;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7255;( )
+;;;;;;;;2;Homme;7421;( )
+;;;;;;;;1;Femme;7143;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6679;( )
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5206;( )
+;;;;;;;;2;Homme;5692;( )
+;;;;;;;;1;Femme;4876;( )
+;;;;77;> 77,79-82 Activités de services administratifs (sans 78);-1;Position professionnelle - total;-1;Sexe - total;4941;
+;;;;;;;;2;Homme;5462;
+;;;;;;;;1;Femme;4217;( )
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8934;( )
+;;;;;;;;2;Homme;8934;( )
+;;;;;;;;1;Femme;8284;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7285;
+;;;;;;;;2;Homme;7531;
+;;;;;;;;1;Femme;6842;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6047;
+;;;;;;;;2;Homme;6174;
+;;;;;;;;1;Femme;5623;( )
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;4689;
+;;;;;;;;2;Homme;5050;
+;;;;;;;;1;Femme;3888;( )
+;;;;78;> 78 Activités liées à l'emploi;-1;Position professionnelle - total;-1;Sexe - total;6349;
+;;;;;;;;2;Homme;6624;
+;;;;;;;;1;Femme;6000;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8422;
+;;;;;;;;2;Homme;9708;
+;;;;;;;;1;Femme;6381;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7115;( )
+;;;;;;;;2;Homme;8533;( )
+;;;;;;;;1;Femme;5919;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6774;( )
+;;;;;;;;2;Homme;9155;( )
+;;;;;;;;1;Femme;6293;( )
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5952;
+;;;;;;;;2;Homme;5972;
+;;;;;;;;1;Femme;5894;
+;;;;84;> 84 Administration publique, défense / sécurité sociale;-1;Position professionnelle - total;-1;Sexe - total;8325;
+;;;;;;;;2;Homme;8886;
+;;;;;;;;1;Femme;7842;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9993;
+;;;;;;;;2;Homme;10658;
+;;;;;;;;1;Femme;9358;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7607;
+;;;;;;;;2;Homme;7848;
+;;;;;;;;1;Femme;7244;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6832;
+;;;;;;;;2;Homme;7199;
+;;;;;;;;1;Femme;6703;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6748;
+;;;;;;;;2;Homme;7118;
+;;;;;;;;1;Femme;6438;
+;;;;85;> 85 Enseignement;-1;Position professionnelle - total;-1;Sexe - total;8681;
+;;;;;;;;2;Homme;8911;
+;;;;;;;;1;Femme;8509;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8889;
+;;;;;;;;2;Homme;9208;
+;;;;;;;;1;Femme;8555;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7965;
+;;;;;;;;2;Homme;8493;
+;;;;;;;;1;Femme;7611;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;8130;( )
+;;;;;;;;2;Homme;8320;( )
+;;;;;;;;1;Femme;7933;( )
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;8691;
+;;;;;;;;2;Homme;8857;
+;;;;;;;;1;Femme;8592;
+;;;;86;> 86-88 Santé humaine et action sociale;-1;Position professionnelle - total;-1;Sexe - total;6679;
+;;;;;;;;2;Homme;7387;
+;;;;;;;;1;Femme;6450;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9652;
+;;;;;;;;2;Homme;10652;
+;;;;;;;;1;Femme;8724;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7925;
+;;;;;;;;2;Homme;8258;
+;;;;;;;;1;Femme;7700;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6380;
+;;;;;;;;2;Homme;7030;
+;;;;;;;;1;Femme;6129;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6283;
+;;;;;;;;2;Homme;6599;
+;;;;;;;;1;Femme;6196;
+;;;;90;> 90-93 Arts, spectacles et activités récréatives;-1;Position professionnelle - total;-1;Sexe - total;6500;
+;;;;;;;;2;Homme;7092;( )
+;;;;;;;;1;Femme;5910;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8731;( )
+;;;;;;;;2;Homme;9405;( )
+;;;;;;;;1;Femme;7461;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7141;
+;;;;;;;;2;Homme;7296;
+;;;;;;;;1;Femme;6325;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6660;( )
+;;;;;;;;2;Homme;7234;( )
+;;;;;;;;1;Femme;5659;( )
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6071;( )
+;;;;;;;;2;Homme;6707;( )
+;;;;;;;;1;Femme;5616;
+;;;;94;> 94-95 Activitées des organisations associatives et religieuses / réparation de biens personnels;-1;Position professionnelle - total;-1;Sexe - total;6874;
+;;;;;;;;2;Homme;7292;( )
+;;;;;;;;1;Femme;6804;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8870;
+;;;;;;;;2;Homme;9105;
+;;;;;;;;1;Femme;8533;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6835;
+;;;;;;;;2;Homme;6890;( )
+;;;;;;;;1;Femme;6835;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6282;( )
+;;;;;;;;2;Homme;7715;( )
+;;;;;;;;1;Femme;5574;( )
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6340;
+;;;;;;;;2;Homme;6086;
+;;;;;;;;1;Femme;6589;
+;;;;96;> 96 Autres services personnels;-1;Position professionnelle - total;-1;Sexe - total;4333;
+;;;;;;;;2;Homme;5304;
+;;;;;;;;1;Femme;3877;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;6500;( )
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;5410;( )
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;4925;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;4437;( )
+;;;;;;;;2;Homme;4507;( )
+;;;;;;;;1;Femme;4186;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;3979;
+;;;;;;;;2;Homme;4908;
+;;;;;;;;1;Femme;3752;
+;;5;Ostschweiz;-1;Branche économique - total;-1;Position professionnelle - total;-1;Sexe - total;5933;
+;;;;;;;;2;Homme;6307;
+;;;;;;;;1;Femme;5151;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8730;
+;;;;;;;;2;Homme;9394;
+;;;;;;;;1;Femme;6781;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7131;
+;;;;;;;;2;Homme;7604;
+;;;;;;;;1;Femme;6201;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6192;
+;;;;;;;;2;Homme;6544;
+;;;;;;;;1;Femme;5469;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5469;
+;;;;;;;;2;Homme;5750;
+;;;;;;;;1;Femme;4895;
+;;;;4.99;5-43 Secteur 2: production;-1;Position professionnelle - total;-1;Sexe - total;5974;
+;;;;;;;;2;Homme;6165;
+;;;;;;;;1;Femme;4888;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8969;
+;;;;;;;;2;Homme;9123;
+;;;;;;;;1;Femme;6972;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7145;
+;;;;;;;;2;Homme;7353;
+;;;;;;;;1;Femme;6263;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6397;
+;;;;;;;;2;Homme;6485;
+;;;;;;;;1;Femme;5639;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5581;
+;;;;;;;;2;Homme;5770;
+;;;;;;;;1;Femme;4688;
+;;;;5;> 5-9 Industries extractives;-1;Position professionnelle - total;-1;Sexe - total;6095;
+;;;;;;;;2;Homme;6124;
+;;;;;;;;1;Femme;X;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5943;
+;;;;;;;;2;Homme;5943;
+;;;;;;;;1;Femme;X;
+;;;;10;> 10-11 Industries alimentaires / fabrication de boissons;-1;Position professionnelle - total;-1;Sexe - total;5153;
+;;;;;;;;2;Homme;5463;
+;;;;;;;;1;Femme;4364;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8831;( )
+;;;;;;;;2;Homme;8666;
+;;;;;;;;1;Femme;10671;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6730;
+;;;;;;;;2;Homme;6860;
+;;;;;;;;1;Femme;6213;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;5302;( )
+;;;;;;;;2;Homme;5659;( )
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;4677;
+;;;;;;;;2;Homme;5065;
+;;;;;;;;1;Femme;4132;
+;;;;12;> 12 Fabrication de produits à base de tabac;-1;Position professionnelle - total;-1;Sexe - total;...;
+;;;;;;;;2;Homme;...;
+;;;;;;;;1;Femme;...;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;...;
+;;;;;;;;2;Homme;...;
+;;;;;;;;1;Femme;...;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;...;
+;;;;;;;;2;Homme;...;
+;;;;;;;;1;Femme;...;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;...;
+;;;;;;;;2;Homme;...;
+;;;;;;;;1;Femme;...;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;...;
+;;;;;;;;2;Homme;...;
+;;;;;;;;1;Femme;...;
+;;;;13;> 13-15 Industries du textile et de l'habillement;-1;Position professionnelle - total;-1;Sexe - total;5144;
+;;;;;;;;2;Homme;5836;
+;;;;;;;;1;Femme;4436;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8756;
+;;;;;;;;2;Homme;9503;
+;;;;;;;;1;Femme;6608;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6728;
+;;;;;;;;2;Homme;7119;
+;;;;;;;;1;Femme;5445;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;5939;
+;;;;;;;;2;Homme;6098;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;4792;
+;;;;;;;;2;Homme;5275;
+;;;;;;;;1;Femme;4230;
+;;;;16;> 16-18 Industries du bois et du papier / imprimerie;-1;Position professionnelle - total;-1;Sexe - total;5727;
+;;;;;;;;2;Homme;5860;
+;;;;;;;;1;Femme;4982;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;7833;
+;;;;;;;;2;Homme;8125;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6341;
+;;;;;;;;2;Homme;6461;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;5913;
+;;;;;;;;2;Homme;6017;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5433;
+;;;;;;;;2;Homme;5582;
+;;;;;;;;1;Femme;4709;
+;;;;19;> 19-20 Cokéfaction / industrie chimique;-1;Position professionnelle - total;-1;Sexe - total;6376;
+;;;;;;;;2;Homme;6588;
+;;;;;;;;1;Femme;5670;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10821;
+;;;;;;;;2;Homme;11048;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;9130;
+;;;;;;;;2;Homme;9498;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7308;
+;;;;;;;;2;Homme;7399;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5786;
+;;;;;;;;2;Homme;5957;
+;;;;;;;;1;Femme;5343;
+;;;;21;> 21 Industrie pharmaceutique;-1;Position professionnelle - total;-1;Sexe - total;7564;
+;;;;;;;;2;Homme;8331;
+;;;;;;;;1;Femme;6575;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;13163;
+;;;;;;;;2;Homme;13546;
+;;;;;;;;1;Femme;11800;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;9233;
+;;;;;;;;2;Homme;9753;
+;;;;;;;;1;Femme;8664;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6861;
+;;;;;;;;2;Homme;7502;
+;;;;;;;;1;Femme;6061;
+;;;;22;> 22-23 Industries du caoutchouc et du plastique;-1;Position professionnelle - total;-1;Sexe - total;5780;
+;;;;;;;;2;Homme;6067;
+;;;;;;;;1;Femme;4726;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10084;
+;;;;;;;;2;Homme;10306;
+;;;;;;;;1;Femme;7802;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7715;
+;;;;;;;;2;Homme;7981;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6478;
+;;;;;;;;2;Homme;6547;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5508;
+;;;;;;;;2;Homme;5754;
+;;;;;;;;1;Femme;4639;
+;;;;24;> 24-25 Métallurgie / fabrication produits métalliques;-1;Position professionnelle - total;-1;Sexe - total;5914;
+;;;;;;;;2;Homme;6068;
+;;;;;;;;1;Femme;4780;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8778;
+;;;;;;;;2;Homme;8927;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7117;
+;;;;;;;;2;Homme;7262;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6077;
+;;;;;;;;2;Homme;6088;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5512;
+;;;;;;;;2;Homme;5672;
+;;;;;;;;1;Femme;4558;
+;;;;26;> 26 Fabrication de produit informatiques, électroniques et optiques / horlogerie;-1;Position professionnelle - total;-1;Sexe - total;6379;
+;;;;;;;;2;Homme;7398;
+;;;;;;;;1;Femme;4658;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10663;
+;;;;;;;;2;Homme;10992;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7965;( )
+;;;;;;;;2;Homme;8549;( )
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6877;( )
+;;;;;;;;2;Homme;8753;( )
+;;;;;;;;1;Femme;6381;( )
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5756;
+;;;;;;;;2;Homme;6767;
+;;;;;;;;1;Femme;4555;
+;;;;27;> 27 Fabrication d'équipements électriques;-1;Position professionnelle - total;-1;Sexe - total;6372;
+;;;;;;;;2;Homme;6991;
+;;;;;;;;1;Femme;4190;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;11040;
+;;;;;;;;2;Homme;11068;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;9922;
+;;;;;;;;2;Homme;9920;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;9040;
+;;;;;;;;2;Homme;9177;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5888;
+;;;;;;;;2;Homme;6497;
+;;;;;;;;1;Femme;4108;
+;;;;28;> 28 Fabrication de machines et équipements n.c.a;-1;Position professionnelle - total;-1;Sexe - total;6653;
+;;;;;;;;2;Homme;6850;
+;;;;;;;;1;Femme;5633;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10317;
+;;;;;;;;2;Homme;10421;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;9073;
+;;;;;;;;2;Homme;9257;
+;;;;;;;;1;Femme;7456;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7084;
+;;;;;;;;2;Homme;7116;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6206;
+;;;;;;;;2;Homme;6340;
+;;;;;;;;1;Femme;5488;
+;;;;29;> 29-30 Fabrication de matériels de transport;-1;Position professionnelle - total;-1;Sexe - total;5246;
+;;;;;;;;2;Homme;5367;
+;;;;;;;;1;Femme;4563;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9341;( )
+;;;;;;;;2;Homme;9512;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7337;( )
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5071;
+;;;;;;;;2;Homme;5173;
+;;;;;;;;1;Femme;4489;
+;;;;31;> 31-33 Fabrication de meubles / autres industries manufacturières / réparation et installation de machines et d'équipements;-1;Position professionnelle - total;-1;Sexe - total;5748;
+;;;;;;;;2;Homme;5913;
+;;;;;;;;1;Femme;5086;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;7961;
+;;;;;;;;2;Homme;8121;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6226;
+;;;;;;;;2;Homme;6319;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6182;
+;;;;;;;;2;Homme;6246;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5396;
+;;;;;;;;2;Homme;5514;
+;;;;;;;;1;Femme;4861;
+;;;;35;> 35 Production et distribution d'énergie;-1;Position professionnelle - total;-1;Sexe - total;7290;
+;;;;;;;;2;Homme;7643;
+;;;;;;;;1;Femme;5600;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10608;
+;;;;;;;;2;Homme;10680;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8456;
+;;;;;;;;2;Homme;8863;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7306;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6477;
+;;;;;;;;2;Homme;6784;
+;;;;;;;;1;Femme;5385;( )
+;;;;36;> 36-39 Production et distribution d'eau / gestion déchets;-1;Position professionnelle - total;-1;Sexe - total;6074;
+;;;;;;;;2;Homme;6268;
+;;;;;;;;1;Femme;5040;( )
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8793;
+;;;;;;;;2;Homme;9052;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7418;( )
+;;;;;;;;2;Homme;7666;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5542;
+;;;;;;;;2;Homme;5571;
+;;;;;;;;1;Femme;4854;
+;;;;41;> 41-43 Construction;-1;Position professionnelle - total;-1;Sexe - total;5950;
+;;;;;;;;2;Homme;5992;
+;;;;;;;;1;Femme;5335;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8250;
+;;;;;;;;2;Homme;8439;
+;;;;;;;;1;Femme;5198;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6683;
+;;;;;;;;2;Homme;6825;
+;;;;;;;;1;Femme;6229;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6201;
+;;;;;;;;2;Homme;6208;
+;;;;;;;;1;Femme;4887;( )
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5596;
+;;;;;;;;2;Homme;5628;
+;;;;;;;;1;Femme;5240;
+;;;;44.99;45-96 Secteur 3: services;-1;Position professionnelle - total;-1;Sexe - total;5882;
+;;;;;;;;2;Homme;6569;
+;;;;;;;;1;Femme;5236;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8589;
+;;;;;;;;2;Homme;9612;
+;;;;;;;;1;Femme;6720;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7106;
+;;;;;;;;2;Homme;7854;
+;;;;;;;;1;Femme;6158;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6065;
+;;;;;;;;2;Homme;6707;
+;;;;;;;;1;Femme;5455;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5327;
+;;;;;;;;2;Homme;5709;
+;;;;;;;;1;Femme;4974;
+;;;;45;> 45-46 Commerce de gros / commerce et réparation d'automobiles;-1;Position professionnelle - total;-1;Sexe - total;5708;
+;;;;;;;;2;Homme;5997;
+;;;;;;;;1;Femme;4951;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8406;
+;;;;;;;;2;Homme;9098;
+;;;;;;;;1;Femme;6063;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6883;
+;;;;;;;;2;Homme;7272;
+;;;;;;;;1;Femme;5832;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;5848;
+;;;;;;;;2;Homme;6118;
+;;;;;;;;1;Femme;4880;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5214;
+;;;;;;;;2;Homme;5420;
+;;;;;;;;1;Femme;4829;
+;;;;47;> 47 Commerce de détail;-1;Position professionnelle - total;-1;Sexe - total;4666;
+;;;;;;;;2;Homme;5603;
+;;;;;;;;1;Femme;4295;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;5714;
+;;;;;;;;2;Homme;6912;( )
+;;;;;;;;1;Femme;5039;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;5165;( )
+;;;;;;;;2;Homme;6659;( )
+;;;;;;;;1;Femme;4477;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;5125;( )
+;;;;;;;;2;Homme;5952;
+;;;;;;;;1;Femme;4579;( )
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;4465;
+;;;;;;;;2;Homme;5198;
+;;;;;;;;1;Femme;4241;
+;;;;49;> 49-52 Transport terrestres, par eau, aériens / entreposage;-1;Position professionnelle - total;-1;Sexe - total;5374;
+;;;;;;;;2;Homme;5441;
+;;;;;;;;1;Femme;5122;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;7518;( )
+;;;;;;;;2;Homme;7738;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6365;( )
+;;;;;;;;2;Homme;6998;( )
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6147;( )
+;;;;;;;;2;Homme;6163;( )
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5249;
+;;;;;;;;2;Homme;5276;
+;;;;;;;;1;Femme;4966;
+;;;;53;> 53 Activités de poste et de courrier;-1;Position professionnelle - total;-1;Sexe - total;4227;( )
+;;;;;;;;2;Homme;4225;( )
+;;;;;;;;1;Femme;4343;( )
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;4162;( )
+;;;;;;;;2;Homme;4095;
+;;;;;;;;1;Femme;4290;( )
+;;;;55;> 55-56 Hébergement et restauration;-1;Position professionnelle - total;-1;Sexe - total;4143;
+;;;;;;;;2;Homme;4381;
+;;;;;;;;1;Femme;4022;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;5159;
+;;;;;;;;2;Homme;5778;
+;;;;;;;;1;Femme;4665;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;5001;
+;;;;;;;;2;Homme;5007;
+;;;;;;;;1;Femme;4970;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;4518;
+;;;;;;;;2;Homme;4732;
+;;;;;;;;1;Femme;4333;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;3919;
+;;;;;;;;2;Homme;4012;
+;;;;;;;;1;Femme;3865;
+;;;;58;> 58-60 Édition, audiovisuel et diffusion;-1;Position professionnelle - total;-1;Sexe - total;6408;
+;;;;;;;;2;Homme;7088;
+;;;;;;;;1;Femme;5882;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8547;
+;;;;;;;;2;Homme;9307;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7236;
+;;;;;;;;2;Homme;7784;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6018;
+;;;;;;;;2;Homme;6390;
+;;;;;;;;1;Femme;5693;
+;;;;61;> 61 Télécommunications;-1;Position professionnelle - total;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;...;
+;;;;;;;;2;Homme;...;
+;;;;;;;;1;Femme;...;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;...;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;...;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;62;> 62-63 Activité informatiques et services d'information;-1;Position professionnelle - total;-1;Sexe - total;7527;
+;;;;;;;;2;Homme;7995;
+;;;;;;;;1;Femme;5857;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10706;
+;;;;;;;;2;Homme;10825;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8175;
+;;;;;;;;2;Homme;8484;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6934;
+;;;;;;;;2;Homme;7365;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6821;
+;;;;;;;;2;Homme;7222;
+;;;;;;;;1;Femme;5684;
+;;;;64;> 64, 66 Services financiers / activités auxiliaires de services financiers et d'assurance;-1;Position professionnelle - total;-1;Sexe - total;7850;
+;;;;;;;;2;Homme;9696;
+;;;;;;;;1;Femme;6278;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;14211;
+;;;;;;;;2;Homme;14586;
+;;;;;;;;1;Femme;9450;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;10636;
+;;;;;;;;2;Homme;10960;
+;;;;;;;;1;Femme;9175;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;8571;
+;;;;;;;;2;Homme;9172;
+;;;;;;;;1;Femme;7775;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6190;
+;;;;;;;;2;Homme;6761;
+;;;;;;;;1;Femme;5830;
+;;;;65;> 65 Assurance;-1;Position professionnelle - total;-1;Sexe - total;6677;
+;;;;;;;;2;Homme;8758;
+;;;;;;;;1;Femme;5771;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;12641;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;10425;( )
+;;;;;;;;2;Homme;10977;( )
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5975;
+;;;;;;;;2;Homme;7068;
+;;;;;;;;1;Femme;5529;
+;;;;68;> 68 Activités immobilières;-1;Position professionnelle - total;-1;Sexe - total;6445;
+;;;;;;;;2;Homme;8722;( )
+;;;;;;;;1;Femme;5633;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10451;
+;;;;;;;;2;Homme;11426;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6762;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5530;
+;;;;;;;;2;Homme;5939;
+;;;;;;;;1;Femme;5210;
+;;;;69;> 69-71 Activités juridiques, comptables, de gestion, d'architecture, d'ingénierie;-1;Position professionnelle - total;-1;Sexe - total;7052;
+;;;;;;;;2;Homme;7857;
+;;;;;;;;1;Femme;5867;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9937;
+;;;;;;;;2;Homme;10275;( )
+;;;;;;;;1;Femme;8254;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7854;
+;;;;;;;;2;Homme;8253;
+;;;;;;;;1;Femme;6525;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6861;
+;;;;;;;;2;Homme;7349;
+;;;;;;;;1;Femme;6350;( )
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6067;
+;;;;;;;;2;Homme;6500;
+;;;;;;;;1;Femme;5533;
+;;;;72;> 72 Recherche-développement scientifique;-1;Position professionnelle - total;-1;Sexe - total;8472;
+;;;;;;;;2;Homme;9021;
+;;;;;;;;1;Femme;5948;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;11610;
+;;;;;;;;2;Homme;11784;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;7692;
+;;;;;;;;2;Homme;8125;
+;;;;;;;;1;Femme;5850;
+;;;;73;> 73-75 Autres activités spécialisées, scientifiques et techniques;-1;Position professionnelle - total;-1;Sexe - total;5890;
+;;;;;;;;2;Homme;6675;
+;;;;;;;;1;Femme;5204;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;7800;( )
+;;;;;;;;2;Homme;8163;( )
+;;;;;;;;1;Femme;6741;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6319;
+;;;;;;;;2;Homme;7313;( )
+;;;;;;;;1;Femme;5447;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5200;
+;;;;;;;;2;Homme;5673;
+;;;;;;;;1;Femme;4938;
+;;;;77;> 77,79-82 Activités de services administratifs (sans 78);-1;Position professionnelle - total;-1;Sexe - total;5511;
+;;;;;;;;2;Homme;5812;
+;;;;;;;;1;Femme;4841;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;7236;
+;;;;;;;;2;Homme;7729;( )
+;;;;;;;;1;Femme;6400;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6018;
+;;;;;;;;2;Homme;6070;( )
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;5077;( )
+;;;;;;;;2;Homme;5817;( )
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5129;
+;;;;;;;;2;Homme;5333;
+;;;;;;;;1;Femme;4507;( )
+;;;;78;> 78 Activités liées à l'emploi;-1;Position professionnelle - total;-1;Sexe - total;5384;
+;;;;;;;;2;Homme;5548;
+;;;;;;;;1;Femme;4800;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8175;( )
+;;;;;;;;2;Homme;9412;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5182;
+;;;;;;;;2;Homme;5322;
+;;;;;;;;1;Femme;4653;
+;;;;84;> 84 Administration publique, défense / sécurité sociale;-1;Position professionnelle - total;-1;Sexe - total;7887;
+;;;;;;;;2;Homme;8676;
+;;;;;;;;1;Femme;6682;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;11585;
+;;;;;;;;2;Homme;11971;
+;;;;;;;;1;Femme;10402;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;9110;
+;;;;;;;;2;Homme;9525;
+;;;;;;;;1;Femme;7621;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7220;
+;;;;;;;;2;Homme;8514;
+;;;;;;;;1;Femme;6493;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6810;
+;;;;;;;;2;Homme;7473;
+;;;;;;;;1;Femme;6172;
+;;;;85;> 85 Enseignement;-1;Position professionnelle - total;-1;Sexe - total;8839;
+;;;;;;;;2;Homme;9939;
+;;;;;;;;1;Femme;8072;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10527;
+;;;;;;;;2;Homme;11511;
+;;;;;;;;1;Femme;9184;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8258;
+;;;;;;;;2;Homme;8716;
+;;;;;;;;1;Femme;8072;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6607;
+;;;;;;;;2;Homme;6710;
+;;;;;;;;1;Femme;6516;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;9056;
+;;;;;;;;2;Homme;10070;
+;;;;;;;;1;Femme;8257;
+;;;;86;> 86-88 Santé humaine et action sociale;-1;Position professionnelle - total;-1;Sexe - total;6049;
+;;;;;;;;2;Homme;7175;
+;;;;;;;;1;Femme;5658;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9059;
+;;;;;;;;2;Homme;10460;
+;;;;;;;;1;Femme;7825;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6908;
+;;;;;;;;2;Homme;7587;
+;;;;;;;;1;Femme;6478;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;5792;
+;;;;;;;;2;Homme;6390;
+;;;;;;;;1;Femme;5571;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5554;
+;;;;;;;;2;Homme;6297;
+;;;;;;;;1;Femme;5400;
+;;;;90;> 90-93 Arts, spectacles et activités récréatives;-1;Position professionnelle - total;-1;Sexe - total;4653;
+;;;;;;;;2;Homme;4723;( )
+;;;;;;;;1;Femme;4470;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;6882;( )
+;;;;;;;;2;Homme;7222;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;5198;( )
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;4220;
+;;;;;;;;2;Homme;4092;( )
+;;;;;;;;1;Femme;4235;
+;;;;94;> 94-95 Activitées des organisations associatives et religieuses / réparation de biens personnels;-1;Position professionnelle - total;-1;Sexe - total;7426;
+;;;;;;;;2;Homme;8644;
+;;;;;;;;1;Femme;6535;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9170;( )
+;;;;;;;;2;Homme;9193;( )
+;;;;;;;;1;Femme;9100;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7230;( )
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6646;( )
+;;;;;;;;2;Homme;7934;( )
+;;;;;;;;1;Femme;6190;
+;;;;96;> 96 Autres services personnels;-1;Position professionnelle - total;-1;Sexe - total;3980;
+;;;;;;;;2;Homme;5673;( )
+;;;;;;;;1;Femme;3714;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;5714;( )
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;3722;
+;;;;;;;;2;Homme;4795;( )
+;;;;;;;;1;Femme;3619;
+;;6;Zentralschweiz;-1;Branche économique - total;-1;Position professionnelle - total;-1;Sexe - total;6313;
+;;;;;;;;2;Homme;6722;
+;;;;;;;;1;Femme;5608;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9500;
+;;;;;;;;2;Homme;10000;
+;;;;;;;;1;Femme;7796;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7622;
+;;;;;;;;2;Homme;8044;
+;;;;;;;;1;Femme;6638;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6394;
+;;;;;;;;2;Homme;6733;
+;;;;;;;;1;Femme;5690;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5794;
+;;;;;;;;2;Homme;6028;
+;;;;;;;;1;Femme;5357;
+;;;;4.99;5-43 Secteur 2: production;-1;Position professionnelle - total;-1;Sexe - total;6313;
+;;;;;;;;2;Homme;6462;
+;;;;;;;;1;Femme;5438;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9080;
+;;;;;;;;2;Homme;9224;
+;;;;;;;;1;Femme;7800;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7919;
+;;;;;;;;2;Homme;7990;
+;;;;;;;;1;Femme;7291;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6691;
+;;;;;;;;2;Homme;6803;
+;;;;;;;;1;Femme;6100;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5811;
+;;;;;;;;2;Homme;5930;
+;;;;;;;;1;Femme;5074;
+;;;;5;> 5-9 Industries extractives;-1;Position professionnelle - total;-1;Sexe - total;6260;
+;;;;;;;;2;Homme;6260;
+;;;;;;;;1;Femme;X;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;...;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6000;
+;;;;;;;;2;Homme;6016;
+;;;;;;;;1;Femme;X;
+;;;;10;> 10-11 Industries alimentaires / fabrication de boissons;-1;Position professionnelle - total;-1;Sexe - total;5458;
+;;;;;;;;2;Homme;5883;
+;;;;;;;;1;Femme;4550;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8158;( )
+;;;;;;;;2;Homme;8515;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7144;( )
+;;;;;;;;2;Homme;7350;( )
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;5885;
+;;;;;;;;2;Homme;5960;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5099;
+;;;;;;;;2;Homme;5438;
+;;;;;;;;1;Femme;4313;
+;;;;12;> 12 Fabrication de produits à base de tabac;-1;Position professionnelle - total;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;13;> 13-15 Industries du textile et de l'habillement;-1;Position professionnelle - total;-1;Sexe - total;4937;
+;;;;;;;;2;Homme;5971;
+;;;;;;;;1;Femme;4235;( )
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;7727;( )
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;4699;( )
+;;;;;;;;2;Homme;5559;
+;;;;;;;;1;Femme;4053;
+;;;;16;> 16-18 Industries du bois et du papier / imprimerie;-1;Position professionnelle - total;-1;Sexe - total;5958;
+;;;;;;;;2;Homme;6040;
+;;;;;;;;1;Femme;5151;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;7607;( )
+;;;;;;;;2;Homme;7836;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6552;( )
+;;;;;;;;2;Homme;6680;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;5836;
+;;;;;;;;2;Homme;5882;( )
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5657;
+;;;;;;;;2;Homme;5734;
+;;;;;;;;1;Femme;5092;
+;;;;19;> 19-20 Cokéfaction / industrie chimique;-1;Position professionnelle - total;-1;Sexe - total;6613;
+;;;;;;;;2;Homme;6891;
+;;;;;;;;1;Femme;5800;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10581;( )
+;;;;;;;;2;Homme;10963;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8392;
+;;;;;;;;2;Homme;8427;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7400;
+;;;;;;;;2;Homme;7719;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6066;
+;;;;;;;;2;Homme;6229;
+;;;;;;;;1;Femme;5570;
+;;;;21;> 21 Industrie pharmaceutique;-1;Position professionnelle - total;-1;Sexe - total;8972;
+;;;;;;;;2;Homme;10279;
+;;;;;;;;1;Femme;8267;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;14125;
+;;;;;;;;2;Homme;15028;
+;;;;;;;;1;Femme;12813;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;9531;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6937;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;7336;
+;;;;;;;;2;Homme;7578;
+;;;;;;;;1;Femme;7152;
+;;;;22;> 22-23 Industries du caoutchouc et du plastique;-1;Position professionnelle - total;-1;Sexe - total;5742;
+;;;;;;;;2;Homme;5836;
+;;;;;;;;1;Femme;4929;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8972;( )
+;;;;;;;;2;Homme;8972;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7270;
+;;;;;;;;2;Homme;7306;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6438;
+;;;;;;;;2;Homme;6467;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5464;
+;;;;;;;;2;Homme;5549;
+;;;;;;;;1;Femme;4705;
+;;;;24;> 24-25 Métallurgie / fabrication produits métalliques;-1;Position professionnelle - total;-1;Sexe - total;6229;
+;;;;;;;;2;Homme;6233;
+;;;;;;;;1;Femme;6190;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8667;( )
+;;;;;;;;2;Homme;8804;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7556;
+;;;;;;;;2;Homme;7470;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6965;
+;;;;;;;;2;Homme;6803;
+;;;;;;;;1;Femme;7330;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5818;
+;;;;;;;;2;Homme;5817;
+;;;;;;;;1;Femme;5850;
+;;;;26;> 26 Fabrication de produit informatiques, électroniques et optiques / horlogerie;-1;Position professionnelle - total;-1;Sexe - total;7998;
+;;;;;;;;2;Homme;8490;
+;;;;;;;;1;Femme;6338;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;12350;
+;;;;;;;;2;Homme;12408;
+;;;;;;;;1;Femme;11333;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;9412;
+;;;;;;;;2;Homme;9475;
+;;;;;;;;1;Femme;8973;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6750;
+;;;;;;;;2;Homme;6977;
+;;;;;;;;1;Femme;6092;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;7026;
+;;;;;;;;2;Homme;7505;
+;;;;;;;;1;Femme;5723;
+;;;;27;> 27 Fabrication d'équipements électriques;-1;Position professionnelle - total;-1;Sexe - total;6529;
+;;;;;;;;2;Homme;7005;
+;;;;;;;;1;Femme;4610;( )
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10654;
+;;;;;;;;2;Homme;10641;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8254;
+;;;;;;;;2;Homme;8312;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6684;
+;;;;;;;;2;Homme;6846;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5767;( )
+;;;;;;;;2;Homme;6362;
+;;;;;;;;1;Femme;4501;
+;;;;28;> 28 Fabrication de machines et équipements n.c.a;-1;Position professionnelle - total;-1;Sexe - total;7353;
+;;;;;;;;2;Homme;7536;
+;;;;;;;;1;Femme;5908;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10489;
+;;;;;;;;2;Homme;10622;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;9183;( )
+;;;;;;;;2;Homme;9286;( )
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;9100;( )
+;;;;;;;;2;Homme;9209;( )
+;;;;;;;;1;Femme;7141;( )
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6769;
+;;;;;;;;2;Homme;6911;
+;;;;;;;;1;Femme;5658;
+;;;;29;> 29-30 Fabrication de matériels de transport;-1;Position professionnelle - total;-1;Sexe - total;6740;
+;;;;;;;;2;Homme;6893;
+;;;;;;;;1;Femme;5727;( )
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10049;( )
+;;;;;;;;2;Homme;10049;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6535;
+;;;;;;;;2;Homme;6620;
+;;;;;;;;1;Femme;5651;( )
+;;;;31;> 31-33 Fabrication de meubles / autres industries manufacturières / réparation et installation de machines et d'équipements;-1;Position professionnelle - total;-1;Sexe - total;5791;
+;;;;;;;;2;Homme;6052;
+;;;;;;;;1;Femme;4867;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8227;( )
+;;;;;;;;2;Homme;8753;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6192;( )
+;;;;;;;;2;Homme;6491;( )
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5533;
+;;;;;;;;2;Homme;5743;
+;;;;;;;;1;Femme;4735;
+;;;;35;> 35 Production et distribution d'énergie;-1;Position professionnelle - total;-1;Sexe - total;7664;
+;;;;;;;;2;Homme;7844;
+;;;;;;;;1;Femme;6993;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10675;
+;;;;;;;;2;Homme;11089;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;10265;
+;;;;;;;;2;Homme;10413;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7466;( )
+;;;;;;;;2;Homme;7466;( )
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;7117;
+;;;;;;;;2;Homme;7251;
+;;;;;;;;1;Femme;6701;
+;;;;36;> 36-39 Production et distribution d'eau / gestion déchets;-1;Position professionnelle - total;-1;Sexe - total;5870;( )
+;;;;;;;;2;Homme;6672;( )
+;;;;;;;;1;Femme;4663;( )
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10957;( )
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5376;( )
+;;;;;;;;2;Homme;6010;( )
+;;;;;;;;1;Femme;4249;( )
+;;;;41;> 41-43 Construction;-1;Position professionnelle - total;-1;Sexe - total;5980;
+;;;;;;;;2;Homme;6014;
+;;;;;;;;1;Femme;5308;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;7902;
+;;;;;;;;2;Homme;8002;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6780;
+;;;;;;;;2;Homme;6814;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6250;
+;;;;;;;;2;Homme;6256;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5644;
+;;;;;;;;2;Homme;5674;
+;;;;;;;;1;Femme;5035;
+;;;;44.99;45-96 Secteur 3: services;-1;Position professionnelle - total;-1;Sexe - total;6311;
+;;;;;;;;2;Homme;7119;
+;;;;;;;;1;Femme;5646;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9736;
+;;;;;;;;2;Homme;10630;
+;;;;;;;;1;Femme;7795;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7428;
+;;;;;;;;2;Homme;8089;
+;;;;;;;;1;Femme;6545;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6066;
+;;;;;;;;2;Homme;6617;
+;;;;;;;;1;Femme;5545;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5778;
+;;;;;;;;2;Homme;6190;
+;;;;;;;;1;Femme;5405;
+;;;;45;> 45-46 Commerce de gros / commerce et réparation d'automobiles;-1;Position professionnelle - total;-1;Sexe - total;6516;
+;;;;;;;;2;Homme;6628;
+;;;;;;;;1;Femme;6192;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9816;
+;;;;;;;;2;Homme;10000;
+;;;;;;;;1;Femme;8693;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8194;
+;;;;;;;;2;Homme;8293;
+;;;;;;;;1;Femme;7996;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6703;
+;;;;;;;;2;Homme;6810;
+;;;;;;;;1;Femme;6051;( )
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5848;
+;;;;;;;;2;Homme;5850;
+;;;;;;;;1;Femme;5779;
+;;;;47;> 47 Commerce de détail;-1;Position professionnelle - total;-1;Sexe - total;4813;
+;;;;;;;;2;Homme;5892;
+;;;;;;;;1;Femme;4432;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;6873;( )
+;;;;;;;;2;Homme;8571;( )
+;;;;;;;;1;Femme;5207;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;5984;( )
+;;;;;;;;2;Homme;6608;( )
+;;;;;;;;1;Femme;5189;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;5297;( )
+;;;;;;;;2;Homme;5960;
+;;;;;;;;1;Femme;4636;( )
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;4528;
+;;;;;;;;2;Homme;5253;
+;;;;;;;;1;Femme;4333;
+;;;;49;> 49-52 Transport terrestres, par eau, aériens / entreposage;-1;Position professionnelle - total;-1;Sexe - total;5340;
+;;;;;;;;2;Homme;5383;
+;;;;;;;;1;Femme;4864;( )
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;7617;( )
+;;;;;;;;2;Homme;8294;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6648;( )
+;;;;;;;;2;Homme;6533;( )
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;5296;
+;;;;;;;;2;Homme;5373;( )
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5229;
+;;;;;;;;2;Homme;5270;
+;;;;;;;;1;Femme;4762;( )
+;;;;53;> 53 Activités de poste et de courrier;-1;Position professionnelle - total;-1;Sexe - total;4609;( )
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;...;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;55;> 55-56 Hébergement et restauration;-1;Position professionnelle - total;-1;Sexe - total;4240;
+;;;;;;;;2;Homme;4508;
+;;;;;;;;1;Femme;4100;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;5865;
+;;;;;;;;2;Homme;6350;
+;;;;;;;;1;Femme;5056;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;4870;
+;;;;;;;;2;Homme;5067;( )
+;;;;;;;;1;Femme;4670;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;4567;
+;;;;;;;;2;Homme;4707;
+;;;;;;;;1;Femme;4430;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;4049;
+;;;;;;;;2;Homme;4086;
+;;;;;;;;1;Femme;4010;
+;;;;58;> 58-60 Édition, audiovisuel et diffusion;-1;Position professionnelle - total;-1;Sexe - total;7483;
+;;;;;;;;2;Homme;8017;
+;;;;;;;;1;Femme;6469;( )
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;12500;( )
+;;;;;;;;2;Homme;12698;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;9398;( )
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;7150;
+;;;;;;;;2;Homme;7500;
+;;;;;;;;1;Femme;6469;( )
+;;;;61;> 61 Télécommunications;-1;Position professionnelle - total;-1;Sexe - total;7051;
+;;;;;;;;2;Homme;7698;( )
+;;;;;;;;1;Femme;X;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;...;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6210;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;62;> 62-63 Activité informatiques et services d'information;-1;Position professionnelle - total;-1;Sexe - total;8328;
+;;;;;;;;2;Homme;8812;
+;;;;;;;;1;Femme;6787;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;11635;
+;;;;;;;;2;Homme;11765;
+;;;;;;;;1;Femme;9292;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8480;
+;;;;;;;;2;Homme;8802;
+;;;;;;;;1;Femme;7510;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;8730;( )
+;;;;;;;;2;Homme;9512;( )
+;;;;;;;;1;Femme;5990;( )
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;7535;
+;;;;;;;;2;Homme;8009;
+;;;;;;;;1;Femme;6227;
+;;;;64;> 64, 66 Services financiers / activités auxiliaires de services financiers et d'assurance;-1;Position professionnelle - total;-1;Sexe - total;8497;
+;;;;;;;;2;Homme;10412;
+;;;;;;;;1;Femme;6960;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;13589;
+;;;;;;;;2;Homme;14210;
+;;;;;;;;1;Femme;10391;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;9300;
+;;;;;;;;2;Homme;9736;
+;;;;;;;;1;Femme;8095;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;8459;
+;;;;;;;;2;Homme;9240;
+;;;;;;;;1;Femme;7498;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;7046;
+;;;;;;;;2;Homme;8203;
+;;;;;;;;1;Femme;6579;
+;;;;65;> 65 Assurance;-1;Position professionnelle - total;-1;Sexe - total;7228;
+;;;;;;;;2;Homme;9302;
+;;;;;;;;1;Femme;6190;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;11664;( )
+;;;;;;;;2;Homme;12355;
+;;;;;;;;1;Femme;10010;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;12080;
+;;;;;;;;2;Homme;12368;
+;;;;;;;;1;Femme;11090;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;8312;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6666;
+;;;;;;;;2;Homme;8280;
+;;;;;;;;1;Femme;6024;
+;;;;68;> 68 Activités immobilières;-1;Position professionnelle - total;-1;Sexe - total;6678;
+;;;;;;;;2;Homme;7647;
+;;;;;;;;1;Femme;6108;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9544;
+;;;;;;;;2;Homme;10044;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6628;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;6219;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6054;
+;;;;;;;;2;Homme;6284;
+;;;;;;;;1;Femme;5722;
+;;;;69;> 69-71 Activités juridiques, comptables, de gestion, d'architecture, d'ingénierie;-1;Position professionnelle - total;-1;Sexe - total;7696;
+;;;;;;;;2;Homme;8651;( )
+;;;;;;;;1;Femme;6503;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;12100;( )
+;;;;;;;;2;Homme;12235;( )
+;;;;;;;;1;Femme;10571;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8094;
+;;;;;;;;2;Homme;8431;
+;;;;;;;;1;Femme;7367;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6857;
+;;;;;;;;2;Homme;7878;( )
+;;;;;;;;1;Femme;5871;( )
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6236;
+;;;;;;;;2;Homme;6519;
+;;;;;;;;1;Femme;5930;
+;;;;72;> 72 Recherche-développement scientifique;-1;Position professionnelle - total;-1;Sexe - total;7136;
+;;;;;;;;2;Homme;7771;
+;;;;;;;;1;Femme;6413;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10521;
+;;;;;;;;2;Homme;10630;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8019;( )
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5964;
+;;;;;;;;2;Homme;6111;
+;;;;;;;;1;Femme;5801;
+;;;;73;> 73-75 Autres activités spécialisées, scientifiques et techniques;-1;Position professionnelle - total;-1;Sexe - total;7114;
+;;;;;;;;2;Homme;7962;
+;;;;;;;;1;Femme;6421;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9935;
+;;;;;;;;2;Homme;12400;( )
+;;;;;;;;1;Femme;8999;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7736;
+;;;;;;;;2;Homme;8125;( )
+;;;;;;;;1;Femme;6933;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;5872;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5790;
+;;;;;;;;2;Homme;6503;( )
+;;;;;;;;1;Femme;5108;( )
+;;;;77;> 77,79-82 Activités de services administratifs (sans 78);-1;Position professionnelle - total;-1;Sexe - total;4391;( )
+;;;;;;;;2;Homme;5159;
+;;;;;;;;1;Femme;2956;( )
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;6123;( )
+;;;;;;;;2;Homme;6707;( )
+;;;;;;;;1;Femme;4588;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;5754;
+;;;;;;;;2;Homme;5661;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;4901;
+;;;;;;;;2;Homme;4912;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;3662;( )
+;;;;;;;;2;Homme;4592;( )
+;;;;;;;;1;Femme;2233;( )
+;;;;78;> 78 Activités liées à l'emploi;-1;Position professionnelle - total;-1;Sexe - total;5539;
+;;;;;;;;2;Homme;5603;
+;;;;;;;;1;Femme;4850;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9098;( )
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6081;( )
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5486;
+;;;;;;;;2;Homme;5547;
+;;;;;;;;1;Femme;4621;
+;;;;84;> 84 Administration publique, défense / sécurité sociale;-1;Position professionnelle - total;-1;Sexe - total;7585;
+;;;;;;;;2;Homme;8359;
+;;;;;;;;1;Femme;6889;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;12295;
+;;;;;;;;2;Homme;12402;
+;;;;;;;;1;Femme;11803;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;9309;( )
+;;;;;;;;2;Homme;9703;
+;;;;;;;;1;Femme;7616;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;8942;
+;;;;;;;;2;Homme;9250;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;7142;
+;;;;;;;;2;Homme;7599;
+;;;;;;;;1;Femme;6597;
+;;;;85;> 85 Enseignement;-1;Position professionnelle - total;-1;Sexe - total;8695;
+;;;;;;;;2;Homme;9711;
+;;;;;;;;1;Femme;7887;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10914;
+;;;;;;;;2;Homme;11356;
+;;;;;;;;1;Femme;9261;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8198;( )
+;;;;;;;;2;Homme;9149;( )
+;;;;;;;;1;Femme;7347;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;8041;( )
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;6204;( )
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;8602;
+;;;;;;;;2;Homme;9524;
+;;;;;;;;1;Femme;7873;
+;;;;86;> 86-88 Santé humaine et action sociale;-1;Position professionnelle - total;-1;Sexe - total;5913;
+;;;;;;;;2;Homme;7139;
+;;;;;;;;1;Femme;5698;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8673;
+;;;;;;;;2;Homme;10357;
+;;;;;;;;1;Femme;7940;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6725;
+;;;;;;;;2;Homme;7575;
+;;;;;;;;1;Femme;6461;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6101;
+;;;;;;;;2;Homme;7198;
+;;;;;;;;1;Femme;5763;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5651;
+;;;;;;;;2;Homme;6426;
+;;;;;;;;1;Femme;5497;
+;;;;90;> 90-93 Arts, spectacles et activités récréatives;-1;Position professionnelle - total;-1;Sexe - total;5298;
+;;;;;;;;2;Homme;5990;
+;;;;;;;;1;Femme;4848;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;7383;
+;;;;;;;;2;Homme;7417;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6431;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;4896;
+;;;;;;;;2;Homme;5330;
+;;;;;;;;1;Femme;4734;
+;;;;94;> 94-95 Activitées des organisations associatives et religieuses / réparation de biens personnels;-1;Position professionnelle - total;-1;Sexe - total;6552;
+;;;;;;;;2;Homme;7337;
+;;;;;;;;1;Femme;6013;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8679;( )
+;;;;;;;;2;Homme;9165;( )
+;;;;;;;;1;Femme;7470;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6720;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;6013;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6181;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6004;
+;;;;;;;;2;Homme;6307;
+;;;;;;;;1;Femme;5850;
+;;;;96;> 96 Autres services personnels;-1;Position professionnelle - total;-1;Sexe - total;3744;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;3611;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;3511;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;3481;
+;;7;Ticino;-1;Branche économique - total;-1;Position professionnelle - total;-1;Sexe - total;5388;
+;;;;;;;;2;Homme;5693;
+;;;;;;;;1;Femme;4753;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8329;
+;;;;;;;;2;Homme;9020;
+;;;;;;;;1;Femme;6422;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6390;
+;;;;;;;;2;Homme;6740;
+;;;;;;;;1;Femme;5867;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;5494;
+;;;;;;;;2;Homme;5747;
+;;;;;;;;1;Femme;4979;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;4993;
+;;;;;;;;2;Homme;5292;
+;;;;;;;;1;Femme;4487;
+;;;;4.99;5-43 Secteur 2: production;-1;Position professionnelle - total;-1;Sexe - total;5092;
+;;;;;;;;2;Homme;5459;
+;;;;;;;;1;Femme;3371;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8027;
+;;;;;;;;2;Homme;8313;
+;;;;;;;;1;Femme;6533;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;5915;
+;;;;;;;;2;Homme;6142;
+;;;;;;;;1;Femme;5146;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;5160;
+;;;;;;;;2;Homme;5612;
+;;;;;;;;1;Femme;3421;( )
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;4759;
+;;;;;;;;2;Homme;5206;
+;;;;;;;;1;Femme;3227;
+;;;;5;> 5-9 Industries extractives;-1;Position professionnelle - total;-1;Sexe - total;5570;
+;;;;;;;;2;Homme;5571;
+;;;;;;;;1;Femme;X;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;...;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5471;
+;;;;;;;;2;Homme;5471;
+;;;;;;;;1;Femme;X;
+;;;;10;> 10-11 Industries alimentaires / fabrication de boissons;-1;Position professionnelle - total;-1;Sexe - total;4376;
+;;;;;;;;2;Homme;4473;
+;;;;;;;;1;Femme;3467;( )
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;7430;( )
+;;;;;;;;2;Homme;8407;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;5806;( )
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;5070;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;4148;( )
+;;;;;;;;2;Homme;4319;
+;;;;;;;;1;Femme;3290;( )
+;;;;12;> 12 Fabrication de produits à base de tabac;-1;Position professionnelle - total;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;...;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;...;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;...;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;13;> 13-15 Industries du textile et de l'habillement;-1;Position professionnelle - total;-1;Sexe - total;3219;
+;;;;;;;;2;Homme;4382;
+;;;;;;;;1;Femme;3065;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;5438;( )
+;;;;;;;;2;Homme;6240;( )
+;;;;;;;;1;Femme;3964;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;5034;( )
+;;;;;;;;2;Homme;6893;( )
+;;;;;;;;1;Femme;4359;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;3112;
+;;;;;;;;2;Homme;4126;
+;;;;;;;;1;Femme;3077;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;3033;
+;;;;;;;;2;Homme;3867;( )
+;;;;;;;;1;Femme;2908;
+;;;;16;> 16-18 Industries du bois et du papier / imprimerie;-1;Position professionnelle - total;-1;Sexe - total;5262;
+;;;;;;;;2;Homme;5461;
+;;;;;;;;1;Femme;4333;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;6692;( )
+;;;;;;;;2;Homme;6879;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;5781;
+;;;;;;;;2;Homme;5973;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;4936;
+;;;;;;;;2;Homme;5133;
+;;;;;;;;1;Femme;4023;
+;;;;19;> 19-20 Cokéfaction / industrie chimique;-1;Position professionnelle - total;-1;Sexe - total;5772;
+;;;;;;;;2;Homme;6172;
+;;;;;;;;1;Femme;5031;( )
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5726;
+;;;;;;;;2;Homme;5872;
+;;;;;;;;1;Femme;X;
+;;;;21;> 21 Industrie pharmaceutique;-1;Position professionnelle - total;-1;Sexe - total;4996;
+;;;;;;;;2;Homme;5296;
+;;;;;;;;1;Femme;4527;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10182;( )
+;;;;;;;;2;Homme;10659;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7898;( )
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;5443;
+;;;;;;;;2;Homme;5455;
+;;;;;;;;1;Femme;5431;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;4574;
+;;;;;;;;2;Homme;4865;
+;;;;;;;;1;Femme;4183;
+;;;;22;> 22-23 Industries du caoutchouc et du plastique;-1;Position professionnelle - total;-1;Sexe - total;5590;
+;;;;;;;;2;Homme;5607;
+;;;;;;;;1;Femme;5166;( )
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5193;
+;;;;;;;;2;Homme;5437;
+;;;;;;;;1;Femme;X;
+;;;;24;> 24-25 Métallurgie / fabrication produits métalliques;-1;Position professionnelle - total;-1;Sexe - total;4381;
+;;;;;;;;2;Homme;4478;
+;;;;;;;;1;Femme;3727;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;7192;( )
+;;;;;;;;2;Homme;7377;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;5417;
+;;;;;;;;2;Homme;5417;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;4778;
+;;;;;;;;2;Homme;4875;
+;;;;;;;;1;Femme;3992;( )
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;4087;
+;;;;;;;;2;Homme;4203;
+;;;;;;;;1;Femme;3400;
+;;;;26;> 26 Fabrication de produit informatiques, électroniques et optiques / horlogerie;-1;Position professionnelle - total;-1;Sexe - total;3537;
+;;;;;;;;2;Homme;5308;
+;;;;;;;;1;Femme;3134;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8699;
+;;;;;;;;2;Homme;8770;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7042;( )
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;5099;
+;;;;;;;;2;Homme;5648;
+;;;;;;;;1;Femme;3974;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;3318;
+;;;;;;;;2;Homme;4497;
+;;;;;;;;1;Femme;3034;
+;;;;27;> 27 Fabrication d'équipements électriques;-1;Position professionnelle - total;-1;Sexe - total;3255;( )
+;;;;;;;;2;Homme;4192;( )
+;;;;;;;;1;Femme;2911;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;3146;
+;;;;;;;;2;Homme;3769;( )
+;;;;;;;;1;Femme;2877;
+;;;;28;> 28 Fabrication de machines et équipements n.c.a;-1;Position professionnelle - total;-1;Sexe - total;5465;
+;;;;;;;;2;Homme;5566;
+;;;;;;;;1;Femme;4700;( )
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8353;
+;;;;;;;;2;Homme;8353;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6934;( )
+;;;;;;;;2;Homme;7000;( )
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6000;
+;;;;;;;;2;Homme;6200;( )
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5038;
+;;;;;;;;2;Homme;5092;
+;;;;;;;;1;Femme;4658;( )
+;;;;29;> 29-30 Fabrication de matériels de transport;-1;Position professionnelle - total;-1;Sexe - total;5155;
+;;;;;;;;2;Homme;5171;
+;;;;;;;;1;Femme;X;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;4947;
+;;;;;;;;2;Homme;4949;
+;;;;;;;;1;Femme;X;
+;;;;31;> 31-33 Fabrication de meubles / autres industries manufacturières / réparation et installation de machines et d'équipements;-1;Position professionnelle - total;-1;Sexe - total;4168;
+;;;;;;;;2;Homme;4778;
+;;;;;;;;1;Femme;3173;( )
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8565;( )
+;;;;;;;;2;Homme;8829;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;5771;( )
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;4405;( )
+;;;;;;;;2;Homme;4913;( )
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;3621;
+;;;;;;;;2;Homme;4084;
+;;;;;;;;1;Femme;2965;( )
+;;;;35;> 35 Production et distribution d'énergie;-1;Position professionnelle - total;-1;Sexe - total;6719;( )
+;;;;;;;;2;Homme;6762;( )
+;;;;;;;;1;Femme;5889;( )
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;11745;( )
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8506;( )
+;;;;;;;;2;Homme;8506;( )
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6446;( )
+;;;;;;;;2;Homme;6492;( )
+;;;;;;;;1;Femme;X;
+;;;;36;> 36-39 Production et distribution d'eau / gestion déchets;-1;Position professionnelle - total;-1;Sexe - total;4713;
+;;;;;;;;2;Homme;4662;
+;;;;;;;;1;Femme;X;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;4333;
+;;;;;;;;2;Homme;4327;
+;;;;;;;;1;Femme;X;
+;;;;41;> 41-43 Construction;-1;Position professionnelle - total;-1;Sexe - total;5704;
+;;;;;;;;2;Homme;5735;
+;;;;;;;;1;Femme;4643;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8282;( )
+;;;;;;;;2;Homme;8451;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;5729;
+;;;;;;;;2;Homme;5793;( )
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;5852;
+;;;;;;;;2;Homme;5858;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5523;
+;;;;;;;;2;Homme;5574;
+;;;;;;;;1;Femme;4495;
+;;;;44.99;45-96 Secteur 3: services;-1;Position professionnelle - total;-1;Sexe - total;5602;
+;;;;;;;;2;Homme;6045;
+;;;;;;;;1;Femme;5159;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8445;
+;;;;;;;;2;Homme;9524;
+;;;;;;;;1;Femme;6422;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6608;
+;;;;;;;;2;Homme;7064;
+;;;;;;;;1;Femme;6010;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;5714;
+;;;;;;;;2;Homme;6000;
+;;;;;;;;1;Femme;5508;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5154;
+;;;;;;;;2;Homme;5397;
+;;;;;;;;1;Femme;4932;
+;;;;45;> 45-46 Commerce de gros / commerce et réparation d'automobiles;-1;Position professionnelle - total;-1;Sexe - total;5263;
+;;;;;;;;2;Homme;5376;
+;;;;;;;;1;Femme;5064;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8775;( )
+;;;;;;;;2;Homme;9208;( )
+;;;;;;;;1;Femme;7494;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7016;( )
+;;;;;;;;2;Homme;7137;( )
+;;;;;;;;1;Femme;7006;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;5364;
+;;;;;;;;2;Homme;5352;
+;;;;;;;;1;Femme;5365;( )
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;4705;
+;;;;;;;;2;Homme;4707;
+;;;;;;;;1;Femme;4695;
+;;;;47;> 47 Commerce de détail;-1;Position professionnelle - total;-1;Sexe - total;4353;
+;;;;;;;;2;Homme;4675;
+;;;;;;;;1;Femme;4143;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;6422;( )
+;;;;;;;;2;Homme;6845;( )
+;;;;;;;;1;Femme;5598;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;4988;
+;;;;;;;;2;Homme;5026;
+;;;;;;;;1;Femme;4950;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;4354;
+;;;;;;;;2;Homme;4469;
+;;;;;;;;1;Femme;4317;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;4115;
+;;;;;;;;2;Homme;4396;
+;;;;;;;;1;Femme;4032;
+;;;;49;> 49-52 Transport terrestres, par eau, aériens / entreposage;-1;Position professionnelle - total;-1;Sexe - total;5219;
+;;;;;;;;2;Homme;5354;
+;;;;;;;;1;Femme;4583;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;7437;( )
+;;;;;;;;2;Homme;7841;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;4617;( )
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;5293;( )
+;;;;;;;;2;Homme;5408;( )
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5015;
+;;;;;;;;2;Homme;5124;
+;;;;;;;;1;Femme;4290;
+;;;;53;> 53 Activités de poste et de courrier;-1;Position professionnelle - total;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;...;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;55;> 55-56 Hébergement et restauration;-1;Position professionnelle - total;-1;Sexe - total;3945;
+;;;;;;;;2;Homme;4144;
+;;;;;;;;1;Femme;3714;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;4520;
+;;;;;;;;2;Homme;4746;( )
+;;;;;;;;1;Femme;3852;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;4230;
+;;;;;;;;2;Homme;4278;( )
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;4286;
+;;;;;;;;2;Homme;4284;
+;;;;;;;;1;Femme;4543;( )
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;3788;
+;;;;;;;;2;Homme;3921;
+;;;;;;;;1;Femme;3616;
+;;;;58;> 58-60 Édition, audiovisuel et diffusion;-1;Position professionnelle - total;-1;Sexe - total;5511;
+;;;;;;;;2;Homme;6083;
+;;;;;;;;1;Femme;4756;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;7162;( )
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5022;
+;;;;;;;;2;Homme;5558;
+;;;;;;;;1;Femme;4467;
+;;;;61;> 61 Télécommunications;-1;Position professionnelle - total;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;...;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;...;
+;;;;;;;;2;Homme;...;
+;;;;;;;;1;Femme;...;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;62;> 62-63 Activité informatiques et services d'information;-1;Position professionnelle - total;-1;Sexe - total;6883;
+;;;;;;;;2;Homme;7153;
+;;;;;;;;1;Femme;5555;( )
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;9207;
+;;;;;;;;2;Homme;9552;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8306;( )
+;;;;;;;;2;Homme;8203;( )
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6230;( )
+;;;;;;;;2;Homme;6728;( )
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6588;( )
+;;;;;;;;2;Homme;6984;
+;;;;;;;;1;Femme;5514;( )
+;;;;64;> 64, 66 Services financiers / activités auxiliaires de services financiers et d'assurance;-1;Position professionnelle - total;-1;Sexe - total;7690;
+;;;;;;;;2;Homme;9324;
+;;;;;;;;1;Femme;6203;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;13217;
+;;;;;;;;2;Homme;13850;
+;;;;;;;;1;Femme;10469;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;8367;
+;;;;;;;;2;Homme;8730;( )
+;;;;;;;;1;Femme;7588;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7099;
+;;;;;;;;2;Homme;7350;
+;;;;;;;;1;Femme;6493;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5872;
+;;;;;;;;2;Homme;6186;
+;;;;;;;;1;Femme;5709;
+;;;;65;> 65 Assurance;-1;Position professionnelle - total;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;68;> 68 Activités immobilières;-1;Position professionnelle - total;-1;Sexe - total;5957;
+;;;;;;;;2;Homme;6306;
+;;;;;;;;1;Femme;5390;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8063;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5735;
+;;;;;;;;2;Homme;6006;
+;;;;;;;;1;Femme;4881;
+;;;;69;> 69-71 Activités juridiques, comptables, de gestion, d'architecture, d'ingénierie;-1;Position professionnelle - total;-1;Sexe - total;6187;
+;;;;;;;;2;Homme;6960;( )
+;;;;;;;;1;Femme;5484;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10320;( )
+;;;;;;;;2;Homme;11250;( )
+;;;;;;;;1;Femme;7222;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6664;( )
+;;;;;;;;2;Homme;7205;( )
+;;;;;;;;1;Femme;6229;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6250;
+;;;;;;;;2;Homme;6434;( )
+;;;;;;;;1;Femme;6072;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;4905;
+;;;;;;;;2;Homme;4838;( )
+;;;;;;;;1;Femme;4984;
+;;;;72;> 72 Recherche-développement scientifique;-1;Position professionnelle - total;-1;Sexe - total;5778;
+;;;;;;;;2;Homme;6417;
+;;;;;;;;1;Femme;4953;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5365;
+;;;;;;;;2;Homme;5881;
+;;;;;;;;1;Femme;4385;( )
+;;;;73;> 73-75 Autres activités spécialisées, scientifiques et techniques;-1;Position professionnelle - total;-1;Sexe - total;4870;( )
+;;;;;;;;2;Homme;5562;( )
+;;;;;;;;1;Femme;4168;( )
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;7607;( )
+;;;;;;;;2;Homme;6796;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;4185;( )
+;;;;;;;;2;Homme;4821;( )
+;;;;;;;;1;Femme;3872;( )
+;;;;77;> 77,79-82 Activités de services administratifs (sans 78);-1;Position professionnelle - total;-1;Sexe - total;4632;
+;;;;;;;;2;Homme;4822;
+;;;;;;;;1;Femme;3813;( )
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;6107;( )
+;;;;;;;;2;Homme;6303;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;5165;( )
+;;;;;;;;2;Homme;5624;( )
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;4320;
+;;;;;;;;2;Homme;4562;
+;;;;;;;;1;Femme;3424;( )
+;;;;78;> 78 Activités liées à l'emploi;-1;Position professionnelle - total;-1;Sexe - total;4548;( )
+;;;;;;;;2;Homme;5049;
+;;;;;;;;1;Femme;3512;( )
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;4000;( )
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;3256;
+;;;;84;> 84 Administration publique, défense / sécurité sociale;-1;Position professionnelle - total;-1;Sexe - total;7284;
+;;;;;;;;2;Homme;7636;
+;;;;;;;;1;Femme;6737;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;11152;( )
+;;;;;;;;2;Homme;11408;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;9253;( )
+;;;;;;;;2;Homme;9738;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7328;
+;;;;;;;;2;Homme;7640;
+;;;;;;;;1;Femme;6615;( )
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;6894;
+;;;;;;;;2;Homme;7174;
+;;;;;;;;1;Femme;6525;
+;;;;85;> 85 Enseignement;-1;Position professionnelle - total;-1;Sexe - total;7873;
+;;;;;;;;2;Homme;9505;( )
+;;;;;;;;1;Femme;6842;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;10028;( )
+;;;;;;;;2;Homme;10495;( )
+;;;;;;;;1;Femme;8070;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;7167;( )
+;;;;;;;;2;Homme;7993;( )
+;;;;;;;;1;Femme;6249;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;7251;( )
+;;;;;;;;2;Homme;6643;( )
+;;;;;;;;1;Femme;8103;( )
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;7964;( )
+;;;;;;;;2;Homme;10107;( )
+;;;;;;;;1;Femme;6366;( )
+;;;;86;> 86-88 Santé humaine et action sociale;-1;Position professionnelle - total;-1;Sexe - total;6019;
+;;;;;;;;2;Homme;6783;
+;;;;;;;;1;Femme;5705;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8871;( )
+;;;;;;;;2;Homme;10758;( )
+;;;;;;;;1;Femme;7785;( )
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6747;
+;;;;;;;;2;Homme;7096;
+;;;;;;;;1;Femme;6601;( )
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;6747;
+;;;;;;;;2;Homme;7700;
+;;;;;;;;1;Femme;6311;( )
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5687;
+;;;;;;;;2;Homme;6164;
+;;;;;;;;1;Femme;5564;
+;;;;90;> 90-93 Arts, spectacles et activités récréatives;-1;Position professionnelle - total;-1;Sexe - total;5639;
+;;;;;;;;2;Homme;5870;
+;;;;;;;;1;Femme;5208;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;8065;( )
+;;;;;;;;2;Homme;9682;( )
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6074;( )
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;5633;
+;;;;;;;;2;Homme;5847;
+;;;;;;;;1;Femme;4984;( )
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;5533;
+;;;;;;;;2;Homme;5619;
+;;;;;;;;1;Femme;5095;( )
+;;;;94;> 94-95 Activitées des organisations associatives et religieuses / réparation de biens personnels;-1;Position professionnelle - total;-1;Sexe - total;5417;
+;;;;;;;;2;Homme;5200;( )
+;;;;;;;;1;Femme;5605;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;6346;( )
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;6813;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;4962;
+;;;;;;;;2;Homme;5034;
+;;;;;;;;1;Femme;4818;
+;;;;96;> 96 Autres services personnels;-1;Position professionnelle - total;-1;Sexe - total;3309;
+;;;;;;;;2;Homme;4078;( )
+;;;;;;;;1;Femme;3163;
+;;;;;;0;Cadre supérieur et moyen;-1;Sexe - total;4235;( )
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;3;Cadre inférieur;-1;Sexe - total;X;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;4;Responsable de l'exécution des travaux;-1;Sexe - total;3332;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;X;
+;;;;;;5;Sans fonction de cadre;-1;Sexe - total;3178;
+;;;;;;;;2;Homme;X;
+;;;;;;;;1;Femme;3106;
+;;;;;;;;;;;
+"<B>Métainformations:</B>
+Période de l'enquête: Mois d'octobre des années paires
+Référence spatiale: Suisse et grandes régions
+Etat de la banque de données: 26.10.2018
+Source: Enquête suisse sur la structure des salaires (ESS)";;;;;;;;;;;
+"<B>Signes utilisés:</B>
+X: Non indiqué pour des raisons de protection des données
+(): Valeur incertaine sur le plan statistique
+...: Pas de données disponibles";;;;;;;;;;;
+"<B>Définitions:</B>
+Salaire mensuel standardisé: 
+Equivalent plein temps basé sur 4 1/3 semaines à 40 heures de travail.";;;;;;;;;;;
+"Composantes du salaire: 
+Le salaire brut du mois d'octobre (y compris les cotisations sociales à la charge du salarié pour les assurances sociales, les prestations en nature, les versements réguliers de primes, de participations au chiffre d'affaires et de commissions), ainsi que les allocations pour le travail en équipe et le travail le dimanche ou de nuit, 1/12 du 13e salaire et 1/12 des paiements spéciaux annuels. N'en font pas partie les allocations familiales et les allocations pour enfants. Secteurs privé et public ensemble, en francs.";;;;;;;;;;;
+"Valeur centrale (médiane) et autres quantiles:
+La valeur centrale ou médiane est la valeur qui divise l'ensemble considéré, ventilé dans l'ordre croissant des salaires, en deux groupes de taille égale. Pour une moitié des postes de travail (50%), le salaire standardisé se situe au-dessus de la valeur centrale, alors que pour l'autre moitié, le salaire s'inscrit au-dessous. Les quartiles (Q1, Q2, Q3) divisent l'ensemble considéré en quatre groupes de taille égale.";;;;;;;;;;;
+;;;;;;;;;;;
+Dernière mise à jour:;;;;;;;;;;;
+20191108 08:30;;;;;;;;;;;
+;;;;;;;;;;;
+Source:;;;;;;;;;;;
+OFS - Enquête suisse sur la structure des salaires - © OFS;;;;;;;;;;;
+;;;;;;;;;;;
+Contact:;;;;;;;;;;;
+Section Salaires et conditions de travail, +41 58 463 64 29, e-mail: lohn@bfs.admin.ch;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+Unité:;;;;;;;;;;;
+Franc;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+Période de référence:;;;;;;;;;;;
+2016,2014,2012;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+Base de données:;;;;;;;;;;;
+OFS - STAT-TAB / Office fédéral de la statistique, 2010 Neuchâtel / Suisse / © Office fédéral de la statistique;;;;;;;;;;;
+;;;;;;;;;;;
+Code de référence interne:;;;;;;;;;;;
+px-x-0304010000_201;;;;;;;;;;;
