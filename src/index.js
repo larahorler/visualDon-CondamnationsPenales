@@ -5,6 +5,8 @@ import * as d3 from 'd3'
 import file1 from '../data/donnee_salaireBrut_2012.csv'
 import file2 from '../data/donnee_salaireBrut_2014.csv'
 import file3 from '../data/donnee_salaireBrut_2016.csv'
+
+ console.log(file1);
 //pour différence salariale p.1 et pour évolution des années :
 import diffFemmesVsHommes from '../data/hommesVsfemmes-Annees.csv'
 
