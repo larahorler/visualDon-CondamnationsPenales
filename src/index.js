@@ -13,6 +13,11 @@ import regions2012 from '../data/2012-regions.csv'
 import regions2014 from '../data/2014-regions.csv'
 import regions2016 from '../data/2016-regions.csv'
 
+//pour afficher les secteurs et positions qui n'ont pas d'employé.e homme ou femme
+import secteurSansDonnees from '../data/tousLesSecteursEtPosition.csv'
+
+
+
 console.log(diffFemmesVsHommes);
 console.log(regions2012);
 
@@ -26,13 +31,18 @@ let annee2016Homme;
 
 diffFemmesVsHommes.forEach(d => {
     if (d[""] == "Femme") {
+        annee2012Femme = d['2012'];
+        annee2014Femme = d["2014"];
         annee2016Femme = d["2016"];
     } 
     if (d[""] == "Homme") {
+        annee2012Homme = d['2012'];
+        annee2014Homme = d["2014"];
         annee2016Homme = d["2016"];
     }
 });
 
+//DONNEES PAGE N°1
 const différenceSalarialeMoyenne = Math.round(annee2016Homme - annee2016Femme);
 console.log(différenceSalarialeMoyenne);
 
@@ -43,6 +53,15 @@ let regionLemaniqueFemme;
 let estSuisseFemme;
 let nordSuisseFemme;
 let moyenPaysFemme;
+
+
+let tessinHomme;
+let zurichHomme;
+let suisseCentraleHomme;
+let regionLemaniqueHomme;
+let estSuisseHomme;
+let nordSuisseHomme;
+let moyenPaysHomme;
 
 regions2016.forEach(d => {
     if (d[""] == "Femme") {
@@ -56,34 +75,28 @@ regions2016.forEach(d => {
 
     } 
     if (d[""] == "Homme") {
-        
+        tessinHomme = d['Ticino'];
+        zurichHomme = d["Zürich"];
+        suisseCentraleHomme = d["Zentralschweiz"];
+        regionLemaniqueHomme = d["Région lémanique"];
+        estSuisseHomme = d["Ostschweiz"];
+        nordSuisseHomme = d["Nordwestschweiz"];
+        moyenPaysHomme = d["Espace Mittelland"];
     }
 });
 
-
-//console.log(file1);
-
-/* const donnee2012 = d3.csv(file1);
-console.log(donnee2012); */
-
-//console.log(file1);
-//console.log(diffFemmesVsHommes);
-
-/* const tabSalairesFemmes = donnee2012.map(d => {
-    return d['Femmes']
-}) */
+//DONNEES PAGE N°3
+//Différence entre hommes et femmes par région 2016
+const ecartTessin = Math.abs(tessinHomme - tessinFemme);
+const ecartZurich = Math.abs(zurichHomme - zurichFemme);
+const ecartSuisseCentrale = Math.abs(suisseCentraleHomme - suisseCentraleFemme);
+const ecartLeman = Math.abs(regionLemaniqueHomme - regionLemaniqueFemme);
+const ecartEst = Math.abs(estSuisseHomme - estSuisseFemme);
+const ecartNord = Math.abs(nordSuisseHomme - nordSuisseHomme);
+const ecartMoyenPays = Math.abs(moyenPaysHomme - moyenPaysFemme);
 
 
-/* //2. PIB sur axe x
-const tabPib2021 = pib.map(d => {
-    return d['2021'];
-})
-console.log(tabPib2021);
-const x = d3.scaleLinear()
-    .domain([0, d3.max(tabPib2021)])
-    .range([40, width])
 
-svg.append('g')
-    .attr("transform", "translate(0," + height + ")")
-    .call(d3.axisBottom(x)
-        .ticks(20)); */
+secteurSansDonnees.forEach(element => {
+    console.log(element);
+});
