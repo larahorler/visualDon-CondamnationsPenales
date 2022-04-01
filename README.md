@@ -31,3 +31,6 @@ Elles sont également utilisés pour être envoyé aux personnes qui souhaitent 
 
 **Histoire et wireframes**
 ![histoire-wireframes](https://user-images.githubusercontent.com/92160920/157851767-1cb24d03-8fab-4156-a7a8-38b6ead92214.png)
+
+
+## différence de moyenne de salaire - faire une comparaison avec ce qu'une famille pourrait faire avec cette somme de différence
