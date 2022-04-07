@@ -2,11 +2,6 @@ import * as d3 from 'd3'
 
 //Pour importer les données
 
-import file1 from '../data/donnee_salaireBrut_2012.csv'
-import file2 from '../data/donnee_salaireBrut_2014.csv'
-import file3 from '../data/donnee_salaireBrut_2016.csv'
-
- console.log(file1);
 //pour différence salariale p.1 et pour évolution des années :
 import diffFemmesVsHommes from '../data/hommesVsfemmes-Annees.csv'
 
@@ -49,8 +44,15 @@ diffFemmesVsHommes.forEach(d => {
         annee2016Homme = d["2016"];
     }
 });
+//DONNEES PAGE N°6
+//Afficher les différences entre les écarts homme-femme en fonction des années
+let différenceSalariale2012 = Math.round(annee2012Homme - annee2012Femme);
+let différenceSalariale2014 = Math.round(annee2014Homme - annee2014Femme);
+let différenceSalariale2016 = Math.round(annee2016Homme - annee2016Femme);
+
 
 //DONNEES PAGE N°1
+//Afficher la différence moyenne de salaire entre homme et femme en 2016
 const différenceSalarialeMoyenne = Math.round(annee2016Homme - annee2016Femme);
 console.log(différenceSalarialeMoyenne);
 
@@ -179,3 +181,31 @@ const ecartMoyenPays = Math.abs(moyenPaysHomme - moyenPaysFemme);
             
 
 
+//DONNÉES PAGE N° 5
+//Affichage des différents secteurs avec postitions pro ou il n'y a pas de données
+const tableauSecteurPositionProHommes = [];
+const tableauSecteurPositionProFemmes = [];
+let secteur;
+let positionPro;
+let sexe;
+secteurSansDonnees.forEach(element => {
+   
+       if(element['Secteur']){
+        //console.log(element['Secteur']);
+        secteur = element['Secteur']; //nom du secteur
+       }
+       if(element['Position professionnelle']){
+           //console.log(element['Position professionnelle'])
+           positionPro = element['Position professionnelle'];
+       }
+       if(element['Sexe'] == 'Femme' && element['Salaire mensuel brut'] == 'X'){
+        sexe = element['Sexe'];
+        tableauSecteurPositionProFemmes.push([secteur, positionPro]);
+       } else if(element['Salaire mensuel brut'] == 'X'){
+        sexe = element['Sexe'];
+        tableauSecteurPositionProHommes.push([secteur, positionPro]);
+       }
+});
+
+console.log(tableauSecteurPositionProFemmes); //pour les femmes
+console.log(tableauSecteurPositionProHommes); //pour les hommes 
