@@ -94,6 +94,7 @@ regions2016.forEach(d => {
 });
 
 
+
 //DONNEE PAGE N°2
 
 
@@ -129,7 +130,7 @@ const ecartZurich = Math.abs(zurichHomme - zurichFemme);
 const ecartSuisseCentrale = Math.abs(suisseCentraleHomme - suisseCentraleFemme);
 const ecartLeman = Math.abs(regionLemaniqueHomme - regionLemaniqueFemme);
 const ecartEst = Math.abs(estSuisseHomme - estSuisseFemme);
-const ecartNord = Math.abs(nordSuisseHomme - nordSuisseHomme);
+const ecartNord = Math.abs(nordSuisseHomme - nordSuisseFemme);
 const ecartMoyenPays = Math.abs(moyenPaysHomme - moyenPaysFemme);
 
 
@@ -220,18 +221,19 @@ secteurSansDonnees.forEach(element => {
 
 console.log(tableauSecteurPositionProFemmes); //pour les femmes
 console.log(tableauSecteurPositionProHommes); //pour les hommes 
-
+ */
 
 //Visualiser les données 
-
 //initalistion du svg
-
 const margin = {
     top: 50,
     right: 10,
     bottom: 0,
     left: 100
 }
+
+const width = 1000 - margin.left - margin.right;
+const height = 600 - margin.top - margin.bottom;
 
 const svgGraph = d3.select('body').append('svg').attr('class', 'graph');
 
@@ -240,4 +242,22 @@ svgGraph.attr("width", width + margin.left + margin.right)
     .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")"); 
 
- */ 
+/* const cercle =  svgGraph.append("circle")
+                    .attr("cx", 59)
+                    .attr("cy", 82)
+                    .attr("r", 40)
+                    .style("fill", "blue"); */
+
+const data = [ecartTessin, ecartZurich, ecartSuisseCentrale, ecartLeman, ecartEst, ecartNord, ecartMoyenPays];
+
+const bars = svgGraph.selectAll(".myBars")
+            .data(data)
+            .enter()
+            .append("rect")
+            .style("fill", "MediumPurple");
+                    
+bars.attr("x", 10)
+             .attr("x", function(d,i){ return 10 + i*40})
+             .attr("height", function(d){ return d/3})
+             .attr("width", 30);
+
