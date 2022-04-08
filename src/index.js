@@ -95,8 +95,17 @@ regions2016.forEach(d => {
 
 
 //DONNEE PAGE N°2
+
+
 //Différence salaire entre homme et femme par secteur économique 2016
-//bouble pour chaque secteur - compararer 
+
+console.log(salaireSelonSecteur.map(d=> d['Industries extractives']));
+//const colonne = Object.keys(salaireSelonSecteur[0]);
+//console.log(colonne);
+//colonne.forEach(d => {
+
+
+
 /*for (let index = 0; index < salaireSelonSecteur.length; index++) {
     const element = salaireSelonSecteur[index];
     console.log(element);
@@ -146,15 +155,19 @@ const ecartMoyenPays = Math.abs(moyenPaysHomme - moyenPaysFemme);
     let SansFonctionCadreHomme;
 
     
+    console.log(salaireResponsabilite.map(d=> d['Cadre supérieur et moyen'])); 
 
-    salaireResponsabilite.forEach(d => {
+    console.log(salaireResponsabilite);
+   /*  salaireResponsabilite.forEach(d => {
         if (d[""] == "Femme") {
             CadreSupFemme = d['Cadre supérieur et moyen'];
             CadreInfFemme = d["Cadre inférieur"];
             ResponsableFemme = d["Responsable de l'exécution des travaux"];
             SansFonctionCadreFemme = d["Sans fonction de cadre"];
+
         }
-            
+                console.log('coucou'+ d);
+
         
 
         if (d[""] == "Homme") {
@@ -207,3 +220,24 @@ secteurSansDonnees.forEach(element => {
 
 console.log(tableauSecteurPositionProFemmes); //pour les femmes
 console.log(tableauSecteurPositionProHommes); //pour les hommes 
+
+
+//Visualiser les données 
+
+//initalistion du svg
+
+const margin = {
+    top: 50,
+    right: 10,
+    bottom: 0,
+    left: 100
+}
+
+const svgGraph = d3.select('body').append('svg').attr('class', 'graph');
+
+svgGraph.attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+    .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")"); 
+
+ */ 
