@@ -1,4 +1,15 @@
+import "page1.js";
+import "page2.js";
+import "page3.js";
+import "page4.js";
+import "page5.js";
+import "page6.js";
+
+
+
 import * as d3 from 'd3'
+
+
 
 //Pour importer les données
 
@@ -18,7 +29,6 @@ import salaireSelonSecteur from '../data/donnee_salaire_selonSecteur_2016_H-F.cs
 
 //pour afficher différence selon responsabilité
 import salaireResponsabilite from '../data/donnee_salaire_selonResponsabilite_2016_H-F.csv'
-
 
 
 console.log(diffFemmesVsHommes);
@@ -101,26 +111,21 @@ regions2016.forEach(d => {
 //Différence salaire entre homme et femme par secteur économique 2016
 
 console.log(salaireSelonSecteur.map(d=> d['Industries extractives']));
-//const colonne = Object.keys(salaireSelonSecteur[0]);
-//console.log(colonne);
-//colonne.forEach(d => {
 
 
+const colonne = Object.keys(salaireSelonSecteur[0]);
+let differences = [];
+colonne.forEach(d => { 
+    differences.push({
+        "title": d,
+        "value": salaireSelonSecteur[0][d] - salaireSelonSecteur[1][d],
+    })
+});
+differences.shift();
 
-/*for (let index = 0; index < salaireSelonSecteur.length; index++) {
-    const element = salaireSelonSecteur[index];
-    console.log(element);
-    for (let j = 0; j < salaireSelonSecteur[index].length; j++) {
-     console.log(salaireSelonSecteur[i][j])
-        
-    }
-}*/
+console.log(differences);
 
-    
-    
 
-    
-     
 
 
 //DONNEES PAGE N°3
@@ -135,62 +140,33 @@ const ecartMoyenPays = Math.abs(moyenPaysHomme - moyenPaysFemme);
 
 
 
-//secteurSansDonnees.forEach(element => {
- //   console.log(element);
+secteurSansDonnees.forEach(element => {
+   console.log(element);
 
- 
+});
 
- //DONNEES PAGE N°4
- //console.log(salaireResponsabilite);
-
-    //Différence salaire entre hommes et femmes par réponsabilité 2016
-
-
-    let ResponsableFemme;
-    let ResponsableHomme;
-    let CadreSupFemme;
-    let CadreSupHomme;
-    let CadreInfFemme;
-    let CadreInfHomme;
-    let SansFonctionCadreFemme;
-    let SansFonctionCadreHomme;
+//  DONNEES PAGE N°4
+//  Différence salaire entre hommes et femmes par réponsabilité 2016
 
     
-    console.log(salaireResponsabilite.map(d=> d['Cadre supérieur et moyen'])); 
-
-    console.log(salaireResponsabilite);
-   /*  salaireResponsabilite.forEach(d => {
-        if (d[""] == "Femme") {
-            CadreSupFemme = d['Cadre supérieur et moyen'];
-            CadreInfFemme = d["Cadre inférieur"];
-            ResponsableFemme = d["Responsable de l'exécution des travaux"];
-            SansFonctionCadreFemme = d["Sans fonction de cadre"];
-
-        }
-                console.log('coucou'+ d);
-
         
+console.log(salaireResponsabilite);
 
-        if (d[""] == "Homme") {
-            CadreSupHomme = d['Cadre supérieur et moyen'];
-            CadreInfHomme = d["Cadre inférieur"];
-            ResponsableHomme = d["Responsable de l'exécution des travaux"];
-            SansFonctionCadreHomme = d["Sans fonction de cadre"];
-        }
+const colonneResponsabilité = Object.keys(salaireResponsabilite[0]);
+let differencesResponsabilité = [];
+colonneResponsabilité.forEach(d => { 
+    differencesResponsabilité.push({
+        "title": d,
+        "value": salaireResponsabilite[0][d] - salaireResponsabilite[1][d],
+    })
+});
+differencesResponsabilité.shift();
 
-    });
+console.log(differencesResponsabilité);
 
-       //Différence salaire entre hommes et femmes par réponsabilité 2016
-        const ecartCadreSup = Math.round(CadreSupHomme - CadreSupFemme);
-        const ecartCadreInf = Math.round(CadreInfHomme - CadreInfFemme);
-        const ecartResponsable = Math.round(ResponsableHomme - ResponsableFemme);
-        const ecartSansFonctionCadre = Math.round(SansFonctionCadreHomme - SansFonctionCadreFemme);
 
-            console.log(ecartCadreSup);
-            console.log(ecartCadreInf);
-            console.log(ecartResponsable);
-            console.log(ecartSansFonctionCadre);
-            
+
+
 
 
 //DONNÉES PAGE N° 5
@@ -221,7 +197,7 @@ secteurSansDonnees.forEach(element => {
 
 console.log(tableauSecteurPositionProFemmes); //pour les femmes
 console.log(tableauSecteurPositionProHommes); //pour les hommes 
- */
+
 
 //Visualiser les données 
 //initalistion du svg
@@ -261,3 +237,4 @@ bars.attr("x", 10)
              .attr("height", function(d){ return d/3})
              .attr("width", 30);
 
+ 
