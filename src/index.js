@@ -20,6 +20,7 @@ import salaireSelonSecteur from '../data/donnee_salaire_selonSecteur_2016_H-F.cs
 import salaireResponsabilite from '../data/donnee_salaire_selonResponsabilite_2016_H-F.csv'
 
 
+
 console.log(diffFemmesVsHommes);
 console.log(regions2012);
 
@@ -105,6 +106,13 @@ regions2016.forEach(d => {
     }
 }*/
 
+    
+    
+
+    
+     
+
+
 //DONNEES PAGE N°3
 //Différence entre hommes et femmes par région 2016
 const ecartTessin = Math.abs(tessinHomme - tessinFemme);
@@ -114,6 +122,62 @@ const ecartLeman = Math.abs(regionLemaniqueHomme - regionLemaniqueFemme);
 const ecartEst = Math.abs(estSuisseHomme - estSuisseFemme);
 const ecartNord = Math.abs(nordSuisseHomme - nordSuisseHomme);
 const ecartMoyenPays = Math.abs(moyenPaysHomme - moyenPaysFemme);
+
+
+
+//secteurSansDonnees.forEach(element => {
+ //   console.log(element);
+
+ 
+
+ //DONNEES PAGE N°4
+ //console.log(salaireResponsabilite);
+
+    //Différence salaire entre hommes et femmes par réponsabilité 2016
+
+
+    let ResponsableFemme;
+    let ResponsableHomme;
+    let CadreSupFemme;
+    let CadreSupHomme;
+    let CadreInfFemme;
+    let CadreInfHomme;
+    let SansFonctionCadreFemme;
+    let SansFonctionCadreHomme;
+
+    
+
+    salaireResponsabilite.forEach(d => {
+        if (d[""] == "Femme") {
+            CadreSupFemme = d['Cadre supérieur et moyen'];
+            CadreInfFemme = d["Cadre inférieur"];
+            ResponsableFemme = d["Responsable de l'exécution des travaux"];
+            SansFonctionCadreFemme = d["Sans fonction de cadre"];
+        }
+            
+        
+
+        if (d[""] == "Homme") {
+            CadreSupHomme = d['Cadre supérieur et moyen'];
+            CadreInfHomme = d["Cadre inférieur"];
+            ResponsableHomme = d["Responsable de l'exécution des travaux"];
+            SansFonctionCadreHomme = d["Sans fonction de cadre"];
+        }
+
+    });
+
+       //Différence salaire entre hommes et femmes par réponsabilité 2016
+        const ecartCadreSup = Math.round(CadreSupHomme - CadreSupFemme);
+        const ecartCadreInf = Math.round(CadreInfHomme - CadreInfFemme);
+        const ecartResponsable = Math.round(ResponsableHomme - ResponsableFemme);
+        const ecartSansFonctionCadre = Math.round(SansFonctionCadreHomme - SansFonctionCadreFemme);
+
+            console.log(ecartCadreSup);
+            console.log(ecartCadreInf);
+            console.log(ecartResponsable);
+            console.log(ecartSansFonctionCadre);
+            
+
 
 //DONNÉES PAGE N° 5
 //Affichage des différents secteurs avec postitions pro ou il n'y a pas de données
