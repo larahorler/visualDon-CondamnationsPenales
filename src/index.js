@@ -39,7 +39,6 @@ let différenceSalariale2012 = Math.round(annee2012Homme - annee2012Femme);
 let différenceSalariale2014 = Math.round(annee2014Homme - annee2014Femme);
 let différenceSalariale2016 = Math.round(annee2016Homme - annee2016Femme);
 
-
 //DONNEES PAGE N°1
 //Afficher la différence moyenne de salaire entre homme et femme en 2016
 const différenceSalarialeMoyenne = Math.round(annee2016Homme - annee2016Femme);
@@ -52,7 +51,6 @@ let regionLemaniqueFemme;
 let estSuisseFemme;
 let nordSuisseFemme;
 let moyenPaysFemme;
-
 
 let tessinHomme;
 let zurichHomme;
@@ -93,8 +91,6 @@ const ecartLeman = Math.abs(regionLemaniqueHomme - regionLemaniqueFemme);
 const ecartEst = Math.abs(estSuisseHomme - estSuisseFemme);
 const ecartNord = Math.abs(nordSuisseHomme - nordSuisseHomme);
 const ecartMoyenPays = Math.abs(moyenPaysHomme - moyenPaysFemme);
-
-
 
 //DONNÉES PAGE N° 5
 //Affichage des différents secteurs avec postitions pro ou il n'y a pas de données
