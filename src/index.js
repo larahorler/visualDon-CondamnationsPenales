@@ -1,4 +1,15 @@
+import "page1.js";
+import "page2.js";
+import "page3.js";
+import "page4.js";
+import "page5.js";
+import "page6.js";
+
+
+
 import * as d3 from 'd3'
+
+
 
 //Pour importer les données
 
