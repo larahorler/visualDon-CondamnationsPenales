@@ -1,9 +1,9 @@
-import "page1.js";
-import "page2.js";
-import "page3.js";
-import "page4.js";
-import "page5.js";
-import "page6.js";
+import "./page1.js";
+import "./page2.js";
+import "./page3.js";
+import "./page4.js";
+import "./page5.js";
+import "./page6.js";
 
 
 
@@ -211,7 +211,7 @@ const margin = {
 const width = 1000 - margin.left - margin.right;
 const height = 600 - margin.top - margin.bottom;
 
-const svgGraph = d3.select('body').append('svg').attr('class', 'graph');
+const svgGraph = d3.select('#page2').append('svg').attr('class', 'graph');
 
 svgGraph.attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
@@ -238,3 +238,14 @@ bars.attr("x", 10)
              .attr("width", 30);
 
  
+             const svgTEST = d3.select('#page3').append('svg').attr('class', 'graph');
+                            svgTEST.attr("width", width + margin.left + margin.right)
+                            .attr("height", height + margin.top + margin.bottom)
+                            .append("g")
+                            .attr("transform", "translate(" + margin.left + "," + margin.top + ")"); 
+
+             const cercle =  svgTEST.append("circle")
+                    .attr("cx", 59)
+                    .attr("cy", 82)
+                    .attr("r", 40)
+                    .style("fill", "blue");
