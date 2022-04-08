@@ -13,6 +13,16 @@ import regions2016 from '../data/2016-regions.csv'
 //pour afficher les secteurs et positions qui n'ont pas d'employé.e homme ou femme
 import secteurSansDonnees from '../data/tousLesSecteursEtPosition.csv'
 
+//pour afficher différence selon secteur
+import salaireSelonSecteur from '../data/donnee_salaire_selonSecteur_2016_H-F.csv'
+
+//pour afficher différence selon responsabilité
+import salaireResponsabilite from '../data/donnee_salaire_selonResponsabilite_2016_H-F.csv'
+
+
+console.log(diffFemmesVsHommes);
+console.log(regions2012);
+
 let annee2012Femme;
 let annee2014Femme;
 let annee2016Femme;
@@ -81,6 +91,19 @@ regions2016.forEach(d => {
         moyenPaysHomme = d["Espace Mittelland"];
     }
 });
+
+
+//DONNEE PAGE N°2
+//Différence salaire entre homme et femme par secteur économique 2016
+//bouble pour chaque secteur - compararer 
+/*for (let index = 0; index < salaireSelonSecteur.length; index++) {
+    const element = salaireSelonSecteur[index];
+    console.log(element);
+    for (let j = 0; j < salaireSelonSecteur[index].length; j++) {
+     console.log(salaireSelonSecteur[i][j])
+        
+    }
+}*/
 
 //DONNEES PAGE N°3
 //Différence entre hommes et femmes par région 2016
