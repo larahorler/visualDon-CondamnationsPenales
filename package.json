@@ -10,6 +10,7 @@
   "author": "Lara Hörler",
   "license": "ISC",
   "dependencies": {
+    "@turf/turf": "^6.5.0",
     "d3": "^7.3.0"
   },
   "devDependencies": {

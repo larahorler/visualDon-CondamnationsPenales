@@ -1,15 +1,11 @@
-import "./page1.js";
+import afficheDiffSalairialeMoyenne from "./page1.js";
 import "./page2.js";
-import "./page3.js";
+import afficherDifferenceRegions from "./page3.js";
 import "./page4.js";
 import "./page5.js";
-import "./page6.js";
-
-
+import afficherDifferencesAnnees from "./page6.js";
 
 import * as d3 from 'd3'
-
-
 
 //Pour importer les données
 
@@ -30,6 +26,10 @@ import salaireSelonSecteur from '../data/donnee_salaire_selonSecteur_2016_H-F.cs
 //pour afficher différence selon responsabilité
 import salaireResponsabilite from '../data/donnee_salaire_selonResponsabilite_2016_H-F.csv'
 
+
+afficheDiffSalairialeMoyenne();
+afficherDifferenceRegions();
+afficherDifferencesAnnees();
 
 console.log(diffFemmesVsHommes);
 console.log(regions2012);
@@ -61,9 +61,10 @@ let différenceSalariale2014 = Math.round(annee2014Homme - annee2014Femme);
 let différenceSalariale2016 = Math.round(annee2016Homme - annee2016Femme);
 
 //DONNEES PAGE N°1
-//Afficher la différence moyenne de salaire entre homme et femme en 2016
+/* //Afficher la différence moyenne de salaire entre homme et femme en 2016
 const différenceSalarialeMoyenne = Math.round(annee2016Homme - annee2016Femme);
-console.log(différenceSalarialeMoyenne);
+console.log(différenceSalarialeMoyenne); */
+
 
 let tessinFemme;
 let zurichFemme;
@@ -201,7 +202,7 @@ console.log(tableauSecteurPositionProHommes); //pour les hommes
 
 //Visualiser les données 
 //initalistion du svg
-const margin = {
+/* const margin = {
     top: 50,
     right: 10,
     bottom: 0,
@@ -224,7 +225,7 @@ svgGraph.attr("width", width + margin.left + margin.right)
                     .attr("r", 40)
                     .style("fill", "blue"); */
 
-const data = [ecartTessin, ecartZurich, ecartSuisseCentrale, ecartLeman, ecartEst, ecartNord, ecartMoyenPays];
+/* const data = [ecartTessin, ecartZurich, ecartSuisseCentrale, ecartLeman, ecartEst, ecartNord, ecartMoyenPays];
 
 const bars = svgGraph.selectAll(".myBars")
             .data(data)
@@ -248,4 +249,4 @@ bars.attr("x", 10)
                     .attr("cx", 59)
                     .attr("cy", 82)
                     .attr("r", 40)
-                    .style("fill", "blue");
+                    .style("fill", "blue"); */
