@@ -76,7 +76,7 @@ function afficherDifferenceRegions() {
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
   //Rayons des cercles
-  const data = [ecartTessin, ecartZurich, ecartSuisseCentrale, ecartLeman, ecartEst, ecartNord, ecartMoyenPays];
+  //const data = [ecartTessin, ecartZurich, ecartSuisseCentrale, ecartLeman, ecartEst, ecartNord, ecartMoyenPays];
   //Position sur la carte 
   const locaTessin = [46.20138762802071, 8.93226288914854];
   const locaZurich = [47.38928914731873, 8.536712986104558];
@@ -120,12 +120,43 @@ function afficherDifferenceRegions() {
     .attr("fill","none")
     .attr("stroke-width", 1)
 
-
-  svg.append('circle')
-    .attr("cx", projection([6.6412, 46.7785])[0])
-    .attr("cy", projection([6.6412, 46.7785])[1])
-    .attr("fill", "red")
-    .attr("r", 3)
+console.log(ecartEst, ecartLeman)
+ //Tessin
+ svg.append('circle')
+ .attr("cx", projection(locaTessin)[0])
+ .attr("cy", projection(locaTessin)[1])
+ .attr("fill", "violet")
+ .attr("r", ecartTessin/100);
+ //Zurich 
+ svg.append('circle')
+ .attr("cx", projection(locaZurich)[0])
+ .attr("cy", projection(locaZurich)[1])
+ .attr("fill", "violet")
+ .attr("r", ecartZurich/100);
+ //Leman
+ svg.append('circle')
+ .attr("cx", projection(locaLeman)[0])
+ .attr("cy", projection(locaLeman)[1])
+ .attr("fill", "violet")
+ .attr("r", ecartLeman/100);
+ //Est
+ svg.append('circle')
+ .attr("cx", projection(locaEst)[0])
+ .attr("cy", projection(locaEst)[1])
+ .attr("fill", "violet")
+ .attr("r", ecartEst/100);
+ //Nord
+ svg.append('circle')
+ .attr("cx", projection(locaNord)[0])
+ .attr("cy", projection(locaNord)[1])
+ .attr("fill", "violet")
+ .attr("r", ecartNord/100);
+ //Moyen Pays
+ svg.append('circle')
+ .attr("cx", projection(locaMoyPays)[0])
+ .attr("cy", projection(locaMoyPays)[1])
+ .attr("fill", "violet")
+ .attr("r", ecartMoyenPays/100);
 
 
 
