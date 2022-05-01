@@ -1,11 +1,13 @@
-import "./page1.js";
+import afficheDiffSalairialeMoyenne from "./page1.js";
 import "./page2.js";
-import "./page3.js";
+import afficherDifferenceRegions from "./page3.js";
 import "./page4.js";
 import "./page5.js";
 import "./page6.js";
 
-import * as d3 from "d3";
+import afficheTableauSecteurProSexe from "./page5.js";
+import afficherDifferencesAnnees from "./page6.js";
+
 
 //Pour importer les données
 
@@ -29,6 +31,9 @@ import salaireResponsabilite from "../data/donnee_salaire_selonResponsabilite_20
 
 import afficheSalaireSelonSecteur from "./page2.js";
 import afficheSalaireSelonResponsabilite from "./page4.js";
+afficheDiffSalairialeMoyenne();
+afficherDifferenceRegions();
+afficherDifferencesAnnees();
 
 console.log(diffFemmesVsHommes);
 console.log(regions2012);
@@ -60,9 +65,10 @@ let différenceSalariale2014 = Math.round(annee2014Homme - annee2014Femme);
 let différenceSalariale2016 = Math.round(annee2016Homme - annee2016Femme);
 
 //DONNEES PAGE N°1
-//Afficher la différence moyenne de salaire entre homme et femme en 2016
+/* //Afficher la différence moyenne de salaire entre homme et femme en 2016
 const différenceSalarialeMoyenne = Math.round(annee2016Homme - annee2016Femme);
-console.log(différenceSalarialeMoyenne);
+console.log(différenceSalarialeMoyenne); */
+
 
 let tessinFemme;
 let zurichFemme;
@@ -101,6 +107,18 @@ regions2016.forEach((d) => {
   }
 });
 
+//DONNEE PAGE N°2
+
+const colonne = Object.keys(salaireSelonSecteur[0]);
+let differences = [];
+colonne.forEach((d) => {
+  differences.push({
+    title: d,
+    value: salaireSelonSecteur[0][d] - salaireSelonSecteur[1][d],
+  });
+});
+differences.shift();
+
 
 
 //DONNEES PAGE N°3
@@ -135,15 +153,68 @@ secteurSansDonnees.forEach((element) => {
   }
   if (element["Sexe"] == "Femme" && element["Salaire mensuel brut"] == "X") {
     sexe = element["Sexe"];
-    tableauSecteurPositionProFemmes.push([secteur, positionPro]);
+    tableauSecteurPositionProHommes.push([secteur, positionPro]);
   } else if (element["Salaire mensuel brut"] == "X") {
     sexe = element["Sexe"];
-    tableauSecteurPositionProHommes.push([secteur, positionPro]);
+    tableauSecteurPositionProFemmes.push([secteur, positionPro]);
   }
 });
 
-console.log(tableauSecteurPositionProFemmes); //pour les femmes
-console.log(tableauSecteurPositionProHommes); //pour les hommes
+
 
 afficheSalaireSelonSecteur();
 afficheSalaireSelonResponsabilite();
+afficheTableauSecteurProSexe();
+
+
+
+//Visualiser les données 
+//initalistion du svg
+/* const margin = {
+    top: 50,
+    right: 10,
+    bottom: 0,
+    left: 100
+}
+
+const width = 1000 - margin.left - margin.right;
+const height = 600 - margin.top - margin.bottom;
+
+const svgGraph = d3.select('#page2').append('svg').attr('class', 'graph');
+
+svgGraph.attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+    .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")"); 
+
+/* const cercle =  svgGraph.append("circle")
+                    .attr("cx", 59)
+                    .attr("cy", 82)
+                    .attr("r", 40)
+                    .style("fill", "blue"); */
+
+/* const data = [ecartTessin, ecartZurich, ecartSuisseCentrale, ecartLeman, ecartEst, ecartNord, ecartMoyenPays];
+
+const bars = svgGraph.selectAll(".myBars")
+            .data(data)
+            .enter()
+            .append("rect")
+            .style("fill", "MediumPurple");
+                    
+bars.attr("x", 10)
+             .attr("x", function(d,i){ return 10 + i*40})
+             .attr("height", function(d){ return d/3})
+             .attr("width", 30);
+
+ 
+             const svgTEST = d3.select('#page3').append('svg').attr('class', 'graph');
+                            svgTEST.attr("width", width + margin.left + margin.right)
+                            .attr("height", height + margin.top + margin.bottom)
+                            .append("g")
+                            .attr("transform", "translate(" + margin.left + "," + margin.top + ")"); 
+
+             const cercle =  svgTEST.append("circle")
+                    .attr("cx", 59)
+                    .attr("cy", 82)
+                    .attr("r", 40)
+                    .style("fill", "blue"); */

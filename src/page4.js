@@ -28,47 +28,70 @@ console.log(differencesResponsabilité);
 
 function afficheSalaireSelonResponsabilite() {
 
-    console.log(differencesResponsabilité)
+  const data = differencesResponsabilité;
 
-    const data = differencesResponsabilité;
+    
+  console.log(data);
 
-    const margin = {
-        top: 50,
-        right: 10,
-        bottom: 0,
-        left: 100,
-      };
-      
-      const width = 1000 - margin.left - margin.right;
-      const heightSVG = 600 - margin.top - margin.bottom;
 
-    var svg4 = d3.select("#page4")
+  const margin = {
+    top: 50,
+    right: 10,
+    bottom: 0,
+    left: 100,
+  };
+
+  const width = 1000 - margin.left - margin.right;
+  const heightSVG = 600 - margin.top - margin.bottom;
+
+  const svgGraph4 = d3
+    .select("#page4")
     .append("svg")
-      .attr("width", width + margin.left + margin.right)
-      .attr("height", height + margin.top + margin.bottom)
+    .attr("width", width)
+    .attr("height", heightSVG * data.length);
+
+  svgGraph4
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", heightSVG + margin.top + margin.bottom)
     .append("g")
-      .attr("transform",
-            "translate(" + margin.left + "," + margin.top + ")");
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-    // Add X axis
-  var x = d3.scaleLinear()
-  .domain([d3.min(differencesResponsabilité.value), d3.max(differencesResponsabilité.value)])
-  .range([ 0, width]);
-svg.append("g")
-  .attr("transform", "translate(0," + height + ")")
-  .call(d3.axisBottom(x))
-  .selectAll("text")
-    .attr("transform", "translate(-10,0)rotate(-45)")
-    .style("text-anchor", "end");
 
-     // Y axis
-  var y = d3.scaleBand()
-  .range([ 0, height ])
-  .domain(data.map(function(d) { return d.title; }))
-  .padding(.1);
-svg.append("g")
-  .call(d3.axisLeft(y))
+
+    console.log(data)
+
+  const min = d3.min(data, (d) => d.value);
+  const max = d3.max(data, (d) => d.value);
+  const x = d3
+    .scaleLinear()
+    .domain([min, max])
+    .range([heightSVG, 0]); 
+
+//sort the data in ascending order
+  data.sort((a, b) => a.value - b.value);
   
+
+  const bar = svgGraph4
+    .selectAll("rect")
+    .data(data)
+    .join((enter) =>
+      enter
+        .append("rect")
+        .attr("width", (d) => {
+          return x(d.value);
+        }))
+        .attr("y", (d, i) => {
+          return i * 40;
+        })
+        .attr("x", 10) 
+        .style("fill", "MediumPurple")
+        .attr("height", 30);
+       
+    
+
+    
 }
+  
+
 
 export default afficheSalaireSelonResponsabilite;
