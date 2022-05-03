@@ -39,11 +39,17 @@ console.log(tableauSecteurPositionProHommes); //pour les hommes
 
 function afficheTableauSecteurProSexe(){
 
+var svgGraph5 = d3.select("#page5")
+  //.append("svg:image")
+  .append('img')
+  .attr("src", "tableauSecteurPositionProHommes.svg")
+  .attr("width", "70%")
+  .attr("height", "70%")
+.attr ("id", "graph5");
+ 
 
-  d3.xml("tableauSecteurPositionProHommes.svg")
-  .then(data => {
-    d3.select("#page5").node().append(data.documentElement)
-  });
+
+
 
 
 }

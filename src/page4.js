@@ -30,12 +30,13 @@ function afficheSalaireSelonResponsabilite() {
 
   const data = differencesResponsabilité;
 
+
     
   console.log(data);
 
 
   const margin = {
-    top: 50,
+    top: 100,
     right: 10,
     bottom: 0,
     left: 100,
@@ -65,11 +66,26 @@ function afficheSalaireSelonResponsabilite() {
   const x = d3
     .scaleLinear()
     .domain([min, max])
-    .range([heightSVG, 0]); 
+    .range([0, width]); 
+  
+    
+    const minNb = 0
+  const maxNb = data.length - 1;
+  const y = d3.scaleLinear().domain([minNb, maxNb]).range( [0, heightSVG]);
 
 //sort the data in ascending order
-  data.sort((a, b) => a.value - b.value);
+  data.sort((a, b) => b.value - a.value);
   
+
+  let div = d3.select("#page2")
+  .append("div")
+  .style("opacity", 0)
+  .attr("class", "tooltip")
+  .style("background-color", "white")
+  .style("border", "solid")
+  .style("border-width", "1px")
+  .style("border-radius", "5px")
+  .style("padding", "10px") 
 
   const bar = svgGraph4
     .selectAll("rect")
@@ -78,20 +94,45 @@ function afficheSalaireSelonResponsabilite() {
       enter
         .append("rect")
         .attr("width", (d) => {
-          return x(d.value);
-        }))
+          console.log(x(d.value));
+          return x(d.value*2);
+        }))  
+        .attr("length", 50)
         .attr("y", (d, i) => {
-          return i * 40;
+          console.log(i*2);
+          return y(i*0.3);
         })
-        .attr("x", 10) 
+        .attr("x", 0) 
         .style("fill", "MediumPurple")
-        .attr("height", 30);
+        .attr("height", 30)
+        .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
+        .on("mouseover", function (event, d) {
+          div.transition()
+            .duration(200)
+            .style("opacity", 9);
+          div.html(d.title + "<br>"+ "La différence de salaire est de : " + d.value)
+            .style("left", (event.pageX + 10) + "px")
+            .style("top", (event.pageY - 28) + "px");
+        })
+        .on("mouseout", function (d) {
+          div.transition()
+            .duration(500)
+            .style("opacity", 0);
        
     
+        })
 
+        
+        
     
-}
-  
+    
+
+
+      }
+
+
+
+
 
 
 export default afficheSalaireSelonResponsabilite;

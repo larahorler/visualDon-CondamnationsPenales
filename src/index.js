@@ -35,8 +35,6 @@ afficheDiffSalairialeMoyenne();
 afficherDifferenceRegions();
 afficherDifferencesAnnees();
 
-console.log(diffFemmesVsHommes);
-console.log(regions2012);
 
 let annee2012Femme;
 let annee2014Femme;
@@ -132,7 +130,6 @@ const ecartNord = Math.abs(nordSuisseHomme - nordSuisseFemme);
 const ecartMoyenPays = Math.abs(moyenPaysHomme - moyenPaysFemme);
 
 secteurSansDonnees.forEach((element) => {
-  console.log(element);
 });
 
 //DONNÉES PAGE N° 5
