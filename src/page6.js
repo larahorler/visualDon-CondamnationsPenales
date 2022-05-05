@@ -79,17 +79,17 @@ svg.append('circle')
     .attr("cx", echelleX(2012))
     .attr("cy", echelleY(différenceSalariale2012))
     .attr("r", '30')
-    .attr("fill", "purple");
+    .attr("fill", "MediumPurple");
 svg.append('circle')
     .attr("cx", echelleX(2014))
     .attr("cy", echelleY(différenceSalariale2014))
     .attr("r", '30')
-    .attr("fill", "purple");
+    .attr("fill", "MediumPurple");
 svg.append('circle')
     .attr("cx", echelleX(2016))
     .attr("cy", echelleY(différenceSalariale2016))
     .attr("r", '30')
-    .attr("fill", "purple");
+    .attr("fill", "MediumPurple");
 }
 
 export default afficherDifferencesAnnees;

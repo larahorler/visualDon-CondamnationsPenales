@@ -125,37 +125,37 @@ console.log(ecartEst, ecartLeman)
  svg.append('circle')
  .attr("cx", projection(locaTessin)[0])
  .attr("cy", projection(locaTessin)[1])
- .attr("fill", "violet")
+ .attr("fill", "MediumPurple")
  .attr("r", ecartTessin/100);
  //Zurich 
  svg.append('circle')
  .attr("cx", projection(locaZurich)[0])
  .attr("cy", projection(locaZurich)[1])
- .attr("fill", "violet")
+ .attr("fill", "MediumPurple")
  .attr("r", ecartZurich/100);
  //Leman
  svg.append('circle')
  .attr("cx", projection(locaLeman)[0])
  .attr("cy", projection(locaLeman)[1])
- .attr("fill", "violet")
+ .attr("fill", "MediumPurple")
  .attr("r", ecartLeman/100);
  //Est
  svg.append('circle')
  .attr("cx", projection(locaEst)[0])
  .attr("cy", projection(locaEst)[1])
- .attr("fill", "violet")
+ .attr("fill", "MediumPurple")
  .attr("r", ecartEst/100);
  //Nord
  svg.append('circle')
  .attr("cx", projection(locaNord)[0])
  .attr("cy", projection(locaNord)[1])
- .attr("fill", "violet")
+ .attr("fill", "MediumPurple")
  .attr("r", ecartNord/100);
  //Moyen Pays
  svg.append('circle')
  .attr("cx", projection(locaMoyPays)[0])
  .attr("cy", projection(locaMoyPays)[1])
- .attr("fill", "violet")
+ .attr("fill", "MediumPurple")
  .attr("r", ecartMoyenPays/100);
 
 
