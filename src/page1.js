@@ -59,7 +59,7 @@ const chffre = svg.append("text")
                 .attr("font-size", 300)
                 .attr("font-family", "Arial")
                 .text(différenceSalarialeMoyenne)
-                .style("fill", "blue");
+                .style("fill", "MediumPurple");
 
 const chf = svg.append("text")
                 .attr("x", 210 + positionChiffreX)
@@ -68,7 +68,7 @@ const chf = svg.append("text")
                 .attr("font-size", 50)
                 .attr("font-family", "Arial")
                 .text("CHF")
-                .style("fill", "blue");
+                .style("fill", "MediumPurple");
 }
 
 

@@ -79,17 +79,17 @@ function afficherDifferencesAnnees() {
         .attr("cx", echelleX(2012))
         .attr("cy", echelleY(différenceSalariale2012))
         .attr("r", '30')
-        .attr("fill", "purple");
+        .attr("fill", "MediumPurple");
     svg.append('circle')
         .attr("cx", echelleX(2014))
         .attr("cy", echelleY(différenceSalariale2014))
         .attr("r", '30')
-        .attr("fill", "purple");
+        .attr("fill", "MediumPurple");
     svg.append('circle')
         .attr("cx", echelleX(2016))
         .attr("cy", echelleY(différenceSalariale2016))
         .attr("r", '30')
-        .attr("fill", "purple");
+        .attr("fill", "MediumPurple");
 
     let tabDonnees = {
         cx1: echelleX(2012),
@@ -107,7 +107,7 @@ function afficherDifferencesAnnees() {
                 .attr("y1", d => d.cy1)
                 .attr("x2", d => d.cx2 - 20)
                 .attr("y2", d => d.cy2 - 20)
-                .attr("stroke", "purple")
+                .attr("stroke", "MediumPurple")
                 .attr("stroke-width", "2px"),
             update => update
                 .append("line")
@@ -115,13 +115,13 @@ function afficherDifferencesAnnees() {
                 .attr("y1", d => d.cy1)
                 .attr("x2", d => d.cx2)
                 .attr("y2", d => d.cy2)
-                .attr("stroke", "purple")
+                .attr("stroke", "MediumPurple")
                 .attr("stroke-width", "2px"),
             exit => exit
             .remove()
         )
         .append("line")
-        .attr("stroke", "purple")
+        .attr("stroke", "MediumPurple")
         .attr("stroke-width", "2px") */
         
 
