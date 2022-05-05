@@ -95,7 +95,7 @@ function afficheSalaireSelonResponsabilite() {
         .append("rect")
         .attr("width", (d) => {
           console.log(x(d.value));
-          return x(d.value*1.015);
+          return x(d.value*1.025);
         }))  
         .attr("length", 50)
         .attr("y", (d, i) => {

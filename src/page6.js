@@ -67,6 +67,18 @@ function afficherDifferencesAnnees() {
     const axeX = d3.axisTop(echelleX);
     const axeY = d3.axisRight(echelleY);
 
+
+    let div = d3.select("#page6")
+    .append("div")
+    .style("opacity", 0)
+    .attr("class", "tooltip")
+    .style("background-color", "white")
+    .style("border", "solid")
+    .style("border-width", "1px")
+    .style("border-radius", "5px")
+    .style("padding", "10px") 
+
+
     svg.append('g')
         .attr("transform", "translate(0," + height + ")")
         .call(axeX);
@@ -74,22 +86,61 @@ function afficherDifferencesAnnees() {
     svg.append('g')
         .attr("transform", "translate(0, 0)")
         .call(axeY);
-
+console.log(différenceSalariale2012)
     svg.append('circle')
         .attr("cx", echelleX(2012))
         .attr("cy", echelleY(différenceSalariale2012))
         .attr("r", '30')
-        .attr("fill", "MediumPurple");
+        .attr("fill", "MediumPurple")
+        .on("mouseover", function (event) {
+            div.transition()
+              .duration(200)
+              .style("opacity", .9);
+            div.html("la différence salariale en 2012 était de " + différenceSalariale2012 + "CHF")
+              .style("left", (event.pageX + 10) + "px")
+              .style("top", (event.pageY - 28) + "px");
+          })
+          .on("mouseout", function (d) {
+            div.transition()
+              .duration(500)
+              .style("opacity", 0);
+          })
     svg.append('circle')
         .attr("cx", echelleX(2014))
         .attr("cy", echelleY(différenceSalariale2014))
         .attr("r", '30')
-        .attr("fill", "MediumPurple");
+        .attr("fill", "MediumPurple")
+        .on("mouseover", function (event) {
+            div.transition()
+              .duration(200)
+              .style("opacity", .9);
+            div.html("la différence salariale en 2014 était de " + différenceSalariale2014 + "CHF")
+              .style("left", (event.pageX + 10) + "px")
+              .style("top", (event.pageY - 28) + "px");
+          })
+          .on("mouseout", function (d) {
+            div.transition()
+              .duration(500)
+              .style("opacity", 0);
+          })
     svg.append('circle')
         .attr("cx", echelleX(2016))
         .attr("cy", echelleY(différenceSalariale2016))
         .attr("r", '30')
-        .attr("fill", "MediumPurple");
+        .attr("fill", "MediumPurple")
+        .on("mouseover", function (event) {
+            div.transition()
+              .duration(200)
+              .style("opacity", .9);
+            div.html("la différence salariale en 2016 était de " + différenceSalariale2016 + "CHF")
+              .style("left", (event.pageX + 10) + "px")
+              .style("top", (event.pageY - 28) + "px");
+          })
+          .on("mouseout", function (d) {
+            div.transition()
+              .duration(500)
+              .style("opacity", 0);
+          })
 
     let tabDonnees = {
         cx1: echelleX(2012),

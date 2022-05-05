@@ -29,6 +29,7 @@ div.tooltip {
     margin-bottom: 200px;
     margin-top: 200px;
     font-family: 'Arial';
+    /* text-align: justify; */
     }
     
     #visualisation {
