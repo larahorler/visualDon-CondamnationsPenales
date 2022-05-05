@@ -21,9 +21,14 @@ div.tooltip {
     z-index: 90;
     }
     
+    h2 {
+      font-family: 'Arial';
+      font-weight: 500;
+    }
     .pageText {
     margin-bottom: 200px;
     margin-top: 200px;
+    font-family: 'Arial';
     }
     
     #visualisation {
