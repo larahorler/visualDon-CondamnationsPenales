@@ -42,8 +42,8 @@ function afficheSalaireSelonResponsabilite() {
     left: 0,
   };
 
-  const width = 700 - margin.left - margin.right;
-  const heightSVG = 700 - margin.top - margin.bottom;
+  const width = 600 - margin.left - margin.right;
+  const heightSVG = 600 - margin.top - margin.bottom;
 
   const svgGraph4 = d3
     .select("#page4")
@@ -95,12 +95,12 @@ function afficheSalaireSelonResponsabilite() {
         .append("rect")
         .attr("width", (d) => {
           console.log(x(d.value));
-          return x(d.value*1.025);
+          return x(d.value*1.015);
         }))  
         .attr("length", 50)
         .attr("y", (d, i) => {
           console.log(i*2);
-          return y(i*0.5);
+          return y(i*0.4);
         })
         .attr("x", 0) 
         .style("fill", "MediumPurple")
