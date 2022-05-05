@@ -11,3 +11,60 @@ div.tooltip {
     border-radius: 8px;
     pointer-events: none;
   }
+
+
+  #sections {
+    position: relative;
+    display: inline-block;
+    width: 250px;
+    top: 0px;
+    z-index: 90;
+    }
+    
+    .pageText {
+    margin-bottom: 200px;
+    margin-top: 200px;
+    }
+    
+    #visualisation {
+    display: inline-block;
+    position: fixed;
+    top: 60px;
+    z-index: 1;
+    margin-left: 0;
+    
+    height: 600px;
+    width: 600px;
+    background-color: #ddd;
+    }
+    
+   /*  #disclaimer {
+    display: inline-block;
+    position: fixed;
+    height: 50px;
+    width: 80px;
+    top: 650px;
+    left: 800px;
+    } */
+
+
+    .pageVis {
+      position:relative;
+      display:none;
+      margin-bottom: 200px;
+      margin-top: 200px;
+      /* overflow: scroll; */
+    }
+
+    div.active {
+      display:inline;
+    }
+
+/*     .pageVis {
+      position: inherit;
+      display: none;
+    }
+
+    .pageVis.active {
+      display: inline-block;
+    } */

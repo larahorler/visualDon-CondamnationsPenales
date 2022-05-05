@@ -1,9 +1,13 @@
+import * as d3 from 'd3'
+
 import afficheDiffSalairialeMoyenne from "./page1.js";
 import "./page2.js";
 import afficherDifferenceRegions from "./page3.js";
 import "./page4.js";
 import "./page5.js";
 import "./page6.js";
+import scrollerText  from "./scroll.js";
+/* import scrollerVis  from "./scroll.js"; */
 
 import afficheTableauSecteurProSexe from "./page5.js";
 import afficherDifferencesAnnees from "./page6.js";
@@ -31,9 +35,8 @@ import salaireResponsabilite from "../data/donnee_salaire_selonResponsabilite_20
 
 import afficheSalaireSelonSecteur from "./page2.js";
 import afficheSalaireSelonResponsabilite from "./page4.js";
-afficheDiffSalairialeMoyenne();
-afficherDifferenceRegions();
-afficherDifferencesAnnees();
+import { flip } from '@turf/turf';
+
 
 
 let annee2012Femme;
@@ -159,59 +162,75 @@ secteurSansDonnees.forEach((element) => {
 
 
 
-afficheSalaireSelonSecteur();
-afficheSalaireSelonResponsabilite();
-afficheTableauSecteurProSexe();
-
-
-
-//Visualiser les données 
-//initalistion du svg
-/* const margin = {
-    top: 50,
-    right: 10,
-    bottom: 0,
-    left: 100
+function dessinePage1(){
+  afficheDiffSalairialeMoyenne();
 }
 
-const width = 1000 - margin.left - margin.right;
-const height = 600 - margin.top - margin.bottom;
+function dessinePage2(){
+  afficheSalaireSelonSecteur();
+}
 
-const svgGraph = d3.select('#page2').append('svg').attr('class', 'graph');
-
-svgGraph.attr("width", width + margin.left + margin.right)
-    .attr("height", height + margin.top + margin.bottom)
-    .append("g")
-    .attr("transform", "translate(" + margin.left + "," + margin.top + ")"); 
-
-/* const cercle =  svgGraph.append("circle")
-                    .attr("cx", 59)
-                    .attr("cy", 82)
-                    .attr("r", 40)
-                    .style("fill", "blue"); */
-
-/* const data = [ecartTessin, ecartZurich, ecartSuisseCentrale, ecartLeman, ecartEst, ecartNord, ecartMoyenPays];
-
-const bars = svgGraph.selectAll(".myBars")
-            .data(data)
-            .enter()
-            .append("rect")
-            .style("fill", "MediumPurple");
-                    
-bars.attr("x", 10)
-             .attr("x", function(d,i){ return 10 + i*40})
-             .attr("height", function(d){ return d/3})
-             .attr("width", 30);
-
+function dessinePage3(){
  
-             const svgTEST = d3.select('#page3').append('svg').attr('class', 'graph');
-                            svgTEST.attr("width", width + margin.left + margin.right)
-                            .attr("height", height + margin.top + margin.bottom)
-                            .append("g")
-                            .attr("transform", "translate(" + margin.left + "," + margin.top + ")"); 
+  afficherDifferenceRegions();
+}
 
-             const cercle =  svgTEST.append("circle")
-                    .attr("cx", 59)
-                    .attr("cy", 82)
-                    .attr("r", 40)
-                    .style("fill", "blue"); */
+function dessinePage4(){
+ 
+  afficheSalaireSelonResponsabilite();
+}
+
+function dessinePage5(){
+ 
+  afficheTableauSecteurProSexe();
+}
+
+function dessinePage6(){
+
+  afficherDifferencesAnnees();
+}
+
+let activationFunctions = [
+  dessinePage1(),
+  dessinePage2(),
+  dessinePage3(),
+  dessinePage4(),
+  dessinePage5(), 
+  dessinePage6()
+]
+
+function flipSection(section){
+  document.querySelector(".active").classList.remove("active");
+  document.querySelector("#page"+(section+1)).classList.add("active");
+}
+
+let scroll = scrollerText()
+    .container(d3.select('#container'))
+scroll()
+
+let lastIndex, activeIndex = 0
+
+
+scroll.on('active', function(index){
+    d3.selectAll('.pageText')
+        .transition().duration(300)
+        .style('opacity', function (d, i) {return i === index ? 1 : 0.1;});
+    
+    activeIndex = index
+    let sign = (activeIndex - lastIndex) < 0 ? -1 : 1; 
+    let scrolledSections = d3.range(lastIndex + sign, activeIndex + sign, sign);
+    scrolledSections.forEach(i => {
+        flipSection(i)
+    })
+    d3.selectAll('.pageVis')
+    .transition().duration(300)
+    .style('opacity', function (d, i) {return i === index ? 1 : 0.1;});
+    lastIndex = activeIndex;
+
+})
+
+scroll.on('progress', function(index, progress){
+    if (index == 2 & progress > 0.7){
+    }
+})
+

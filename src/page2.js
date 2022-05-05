@@ -24,18 +24,19 @@ console.log(differences);
 //initalistion du svg
 
 function afficheSalaireSelonSecteur() {
+
   const data = differences;
 
   console.log(data);
 
   const margin = {
-    top: 50,
+    top: 60,
     right: 10,
     bottom: 0,
-    left: 100,
+    left: 0,
   };
 
-  const width = 1000 - margin.left - margin.right;
+  const width = 600 - margin.left - margin.right;
   const heightSVG = 600 - margin.top - margin.bottom;
 
   //   var scale = d3.scaleLinear()
@@ -54,7 +55,7 @@ function afficheSalaireSelonSecteur() {
     .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-  console.log(data);
+  //console.log(data);
 
   const min = d3.min(data, (d) => d.value);
   const max = d3.max(data, (d) => d.value);
@@ -133,7 +134,7 @@ function afficheSalaireSelonSecteur() {
       enter
         .append("rect")
         //scale la largeur selon le nombre de donnée dans le tableau data
-        .attr("width", 18)
+        .attr("width", 10)
         .attr("y", (d) => heightSVG - y(d.value))
         .attr("x", function (d, i) {
           return x(i);

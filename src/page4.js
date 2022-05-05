@@ -36,13 +36,13 @@ function afficheSalaireSelonResponsabilite() {
 
 
   const margin = {
-    top: 100,
+    top: 200,
     right: 10,
     bottom: 0,
-    left: 100,
+    left: 0,
   };
 
-  const width = 1000 - margin.left - margin.right;
+  const width = 600 - margin.left - margin.right;
   const heightSVG = 600 - margin.top - margin.bottom;
 
   const svgGraph4 = d3
@@ -95,7 +95,7 @@ function afficheSalaireSelonResponsabilite() {
         .append("rect")
         .attr("width", (d) => {
           console.log(x(d.value));
-          return x(d.value*2);
+          return x(d.value*1.015);
         }))  
         .attr("length", 50)
         .attr("y", (d, i) => {

@@ -43,8 +43,8 @@ var svgGraph5 = d3.select("#page5")
   //.append("svg:image")
   .append('img')
   .attr("src", "tableauSecteurPositionProHommes.svg")
-  .attr("width", "70%")
-  .attr("height", "70%")
+  .attr("width", "100%")
+  .attr("height", "100%")
 .attr ("id", "graph5");
  
 
