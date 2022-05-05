@@ -36,8 +36,8 @@ function afficheSalaireSelonSecteur() {
     left: 0,
   };
 
-  const width = 600 - margin.left - margin.right;
-  const heightSVG = 600 - margin.top - margin.bottom;
+  const width = 700 - margin.left - margin.right;
+  const heightSVG = 700 - margin.top - margin.bottom;
 
   //   var scale = d3.scaleLinear()
   //   .domain([d3.min(data.value), d3.max(data.value)])

@@ -39,8 +39,8 @@ function afficheDiffSalairialeMoyenne(){
         left: 100
     }
 
-const width = 600 - margin.left - margin.right;
-const height = 600 - margin.top - margin.bottom;
+const width = 700 - margin.left - margin.right;
+const height = 700 - margin.top - margin.bottom;
     
     const svg = d3.select('#page1').append('svg').attr('class', 'graph');
     
@@ -54,16 +54,16 @@ const data = différenceSalarialeMoyenne;
 const positionChiffreX =50;
 const chffre = svg.append("text")
                 .attr("x", positionChiffreX)
-                .attr("y", 350)
+                .attr("y", 450)
                 .attr("font-weight", "bold")
-                .attr("font-size", 300)
+                .attr("font-size", 350)
                 .attr("font-family", "Arial")
                 .text(différenceSalarialeMoyenne)
                 .style("fill", "MediumPurple");
 
 const chf = svg.append("text")
-                .attr("x", 210 + positionChiffreX)
-                .attr("y", 420)
+                .attr("x", 250 + positionChiffreX)
+                .attr("y", 520)
                 .attr("font-weight", "bold")
                 .attr("font-size", 50)
                 .attr("font-family", "Arial")

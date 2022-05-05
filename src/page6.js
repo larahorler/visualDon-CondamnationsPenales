@@ -46,8 +46,8 @@ function afficherDifferencesAnnees() {
 
     const div6 = d3.select("#page6");
     const margin = { top: 10, right: 10, bottom: 10, left: 10 },
-        width = 600 - margin.left - margin.right,
-        height = 600 - margin.top - margin.bottom;
+        width = 700 - margin.left - margin.right,
+        height = 700 - margin.top - margin.bottom;
 
     const svg = div6.append('svg')
         .attr("width", width + margin.left + margin.right)

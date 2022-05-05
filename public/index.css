@@ -16,8 +16,9 @@ div.tooltip {
   #sections {
     position: relative;
     display: inline-block;
-    width: 250px;
+    width: 350px;
     top: 0px;
+    left:10px;
     z-index: 90;
     }
     
@@ -29,19 +30,20 @@ div.tooltip {
     margin-bottom: 200px;
     margin-top: 200px;
     font-family: 'Arial';
-    /* text-align: justify; */
+    text-align: justify;
     }
     
     #visualisation {
     display: inline-block;
     position: fixed;
-    top: 60px;
+    top: 45px;
+    left: 450px;
     z-index: 1;
     margin-left: 0;
     
-    height: 600px;
-    width: 600px;
-    background-color: #ddd;
+    height: 700px;
+    width: 700px;
+    background-color: #ffffff;
     }
     
    /*  #disclaimer {

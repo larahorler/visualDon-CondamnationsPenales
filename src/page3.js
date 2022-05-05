@@ -65,8 +65,8 @@ function afficherDifferenceRegions() {
     left: 100
   }
 
-  const width = 600 - margin.left - margin.right;
-  const height = 600 - margin.top - margin.bottom;
+  const width = 700 - margin.left - margin.right;
+  const height = 700 - margin.top - margin.bottom;
 
   const svg = d3.select('#page3').append('svg').attr('class', 'graph');
 
