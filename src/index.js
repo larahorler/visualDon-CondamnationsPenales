@@ -6,7 +6,7 @@ import afficherDifferenceRegions from "./page3.js";
 import "./page4.js";
 import "./page5.js";
 import "./page6.js";
-import scrollerText  from "./scroll.js";
+import scrollerText from "./scroll.js";
 /* import scrollerVis  from "./scroll.js"; */
 
 import afficheTableauSecteurProSexe from "./page5.js";
@@ -162,30 +162,30 @@ secteurSansDonnees.forEach((element) => {
 
 
 
-function dessinePage1(){
+function dessinePage1() {
   afficheDiffSalairialeMoyenne();
 }
 
-function dessinePage2(){
+function dessinePage2() {
   afficheSalaireSelonSecteur();
 }
 
-function dessinePage3(){
- 
+function dessinePage3() {
+
   afficherDifferenceRegions();
 }
 
-function dessinePage4(){
- 
+function dessinePage4() {
+
   afficheSalaireSelonResponsabilite();
 }
 
-function dessinePage5(){
- 
+function dessinePage5() {
+
   afficheTableauSecteurProSexe();
 }
 
-function dessinePage6(){
+function dessinePage6() {
 
   afficherDifferencesAnnees();
 }
@@ -195,42 +195,46 @@ let activationFunctions = [
   dessinePage2(),
   dessinePage3(),
   dessinePage4(),
-  dessinePage5(), 
+  dessinePage5(),
   dessinePage6()
 ]
 
-function flipSection(section){
-  document.querySelector(".active").classList.remove("active");
-  document.querySelector("#page"+(section+1)).classList.add("active");
+function flipSection(section) {
+  if (document.querySelector(".active") != null) {
+    document.querySelector(".active").classList.remove("active");
+  }
+  if (document.querySelector("#page" + (section + 1)) != null) {
+    document.querySelector("#page" + (section + 1)).classList.add("active");
+  }
 }
 
 let scroll = scrollerText()
-    .container(d3.select('#container'))
+  .container(d3.select('#container'))
 scroll()
 
 let lastIndex, activeIndex = 0
 
 
-scroll.on('active', function(index){
-    d3.selectAll('.pageText')
-        .transition().duration(300)
-        .style('opacity', function (d, i) {return i === index ? 1 : 0.1;});
-    
-    activeIndex = index
-    let sign = (activeIndex - lastIndex) < 0 ? -1 : 1; 
-    let scrolledSections = d3.range(lastIndex + sign, activeIndex + sign, sign);
-    scrolledSections.forEach(i => {
-        flipSection(i)
-    })
-    d3.selectAll('.pageVis')
+scroll.on('active', function (index) {
+  d3.selectAll('.pageText')
     .transition().duration(300)
-    .style('opacity', function (d, i) {return i === index ? 1 : 0.1;});
-    lastIndex = activeIndex;
+    .style('opacity', function (d, i) { return i === index ? 1 : 0.1; });
+
+  activeIndex = index
+  let sign = (activeIndex - lastIndex) < 0 ? -1 : 1;
+  let scrolledSections = d3.range(lastIndex + sign, activeIndex + sign, sign);
+  scrolledSections.forEach(i => {
+    flipSection(i)
+  })
+  d3.selectAll('.pageVis')
+    .transition().duration(300)
+    .style('opacity', function (d, i) { return i === index ? 1 : 0.1; });
+  lastIndex = activeIndex;
 
 })
 
-scroll.on('progress', function(index, progress){
-    if (index == 2 & progress > 0.7){
-    }
+scroll.on('progress', function (index, progress) {
+  if (index == 2 & progress > 0.7) {
+  }
 })
 
