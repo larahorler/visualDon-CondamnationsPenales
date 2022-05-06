@@ -71,9 +71,9 @@ function afficherDifferenceRegions() {
   const svg = d3.select('#page3').append('svg').attr('class', 'graph');
 
   svg.attr("width", width + margin.left + margin.right)
-    .attr("height", height + margin.top + margin.bottom)
-    .append("g")
-    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+     .attr("height", height + margin.top + margin.bottom)
+     .append("g")
+     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
   //Rayons des cercles
   //const data = [ecartTessin, ecartZurich, ecartSuisseCentrale, ecartLeman, ecartEst, ecartNord, ecartMoyenPays];
@@ -86,77 +86,91 @@ function afficherDifferenceRegions() {
   const locaNord = [47.563803708612724, 8.113803220375177];
   const locaMoyPays = [47.11139938540512, 7.369471776392901];
 
+  let projection = d3.geoMercator()
+  .translate([width/2, height/2])
+  .rotate([-7.43864, -46.95108, 0])
+  .center([0.54, -0.1])
+  .scale(10500)
+
+  let projectionCercles = d3.geoMercator()
+  .translate([width, height])
+  .center([0.54, -0.1])
+  .scale(0.5)
+
+   //Tessin
+ svg.append('circle')
+ .attr("cx", 370)
+ .attr("cy", 420)
+ .attr("fill", "MediumPurple")
+ .attr("r", ecartTessin/30);
+ //Zurich 
+ svg.append('circle')
+ .attr("cx", 400)
+ .attr("cy", 240)
+ .attr("fill", "MediumPurple")
+ .attr("r", ecartZurich/30);
+ //Leman
+ svg.append('circle')
+ .attr("cx", 65)
+ .attr("cy", 395)
+ .attr("fill", "MediumPurple")
+ .attr("r", ecartLeman/30);
+ //Est
+ svg.append('circle')
+ .attr("cx", 500)
+ .attr("cy", 315)
+ .attr("fill", "MediumPurple")
+ .attr("r", ecartEst/30);
+ //Nord
+ svg.append('circle')
+ .attr("cx", 210)
+ .attr("cy", 220)
+ .attr("fill", "MediumPurple")
+ .attr("r", ecartNord/30);
+ //Moyen Pays
+ svg.append('circle')
+ .attr("cx", 195)
+ .attr("cy", 310)
+ .attr("fill", "MediumPurple")
+ .attr("r", ecartMoyenPays/30);
+
+
   //Afficher une carte ?????????????????????????????????????????????????????????????
   //Avec d3 (cours et https://github.com/d3/d3-geo): 
 
-  let projection = d3.geoEquirectangular()
-    .center([0, 15])
-    .scale([width / (2 * Math.PI)])
-    .translate([width / 2, height / 2])
 
 
-  let path = d3.geoPath()
-    .projection(projection)
 
-  console.log("jsonCantons", jsonCantons)
+                
+
+  console.log(projection(locaTessin)[1])
 
   let group = svg.append("g")
     .attr("id", "map")
 
-  let cantons = group
+/*   let cantons = group
     .append("rect")
     .attr("x", 0)
     .attr("y", 0)
     .attr("width", width)
     .attr("height", height)
-    .attr("fill", "none")
+    .attr("fill", "none") */
+  let path = d3.geoPath()
+  .projection(projection);
 
+  /* let geojson = jsonCantons.feature(topology, topology.objects.cantons)
+ */
 
-  let c = cantons.selectAll("path")
+  let c = group.selectAll("path")
     .data(jsonCantons.features)
     .enter()
     .append('path')
     .attr("d", path)
     .attr("fill","none")
+    .attr("stroke", "black")
     .attr("stroke-width", 1)
 
 console.log(ecartEst, ecartLeman)
- //Tessin
- svg.append('circle')
- .attr("cx", projection(locaTessin)[0])
- .attr("cy", projection(locaTessin)[1])
- .attr("fill", "MediumPurple")
- .attr("r", ecartTessin/100);
- //Zurich 
- svg.append('circle')
- .attr("cx", projection(locaZurich)[0])
- .attr("cy", projection(locaZurich)[1])
- .attr("fill", "MediumPurple")
- .attr("r", ecartZurich/100);
- //Leman
- svg.append('circle')
- .attr("cx", projection(locaLeman)[0])
- .attr("cy", projection(locaLeman)[1])
- .attr("fill", "MediumPurple")
- .attr("r", ecartLeman/100);
- //Est
- svg.append('circle')
- .attr("cx", projection(locaEst)[0])
- .attr("cy", projection(locaEst)[1])
- .attr("fill", "MediumPurple")
- .attr("r", ecartEst/100);
- //Nord
- svg.append('circle')
- .attr("cx", projection(locaNord)[0])
- .attr("cy", projection(locaNord)[1])
- .attr("fill", "MediumPurple")
- .attr("r", ecartNord/100);
- //Moyen Pays
- svg.append('circle')
- .attr("cx", projection(locaMoyPays)[0])
- .attr("cy", projection(locaMoyPays)[1])
- .attr("fill", "MediumPurple")
- .attr("r", ecartMoyenPays/100);
 
 
 
