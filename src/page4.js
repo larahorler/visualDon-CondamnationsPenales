@@ -21,11 +21,6 @@ console.log(differencesResponsabilité);
 
 
 
-
-
-    
-
-
 function afficheSalaireSelonResponsabilite() {
 
   const data = differencesResponsabilité;
@@ -119,8 +114,6 @@ function afficheSalaireSelonResponsabilite() {
           div.transition()
             .duration(500)
             .style("opacity", 0);
-       
-    
         })
 
         
