@@ -97,42 +97,138 @@ function afficherDifferenceRegions() {
   .center([0.54, -0.1])
   .scale(0.5)
 
+
+  let div = d3.select("#page3")
+  .append("div")
+  .style("opacity", 0)
+  .attr("class", "tooltip")
+  .style("background-color", "white")
+  .style("border", "solid")
+  .style("border-width", "1px")
+  .style("border-radius", "5px")
+  .style("padding", "10px") 
+
    //Tessin
  svg.append('circle')
  .attr("cx", 370)
  .attr("cy", 420)
  .attr("fill", "MediumPurple")
- .attr("r", ecartTessin/30);
+ .attr("r", ecartTessin/30)
+ .on("mouseover", function (event, d) {
+
+  div.transition()
+    .duration(200)
+    .style("opacity", 9);
+  div.html("Au tessin, l'écart salarial s'élève à " + ecartTessin + " CHF")
+  .style("left", (event.clientX) + "px")
+  .style("top", (event.clientY) + "px");
+})
+.on("mouseout", function (d) {
+  div.transition()
+    .duration(500)
+    .style("opacity", 0);
+})
  //Zurich 
  svg.append('circle')
  .attr("cx", 400)
  .attr("cy", 240)
  .attr("fill", "MediumPurple")
- .attr("r", ecartZurich/30);
+ .attr("r", ecartZurich/30)
+ .on("mouseover", function (event, d) {
+
+  div.transition()
+    .duration(200)
+    .style("opacity", 9);
+  div.html("A Zurich, l'écart salarial s'élève à " + ecartZurich + " CHF")
+  .style("left", (event.clientX) + "px")
+  .style("top", (event.clientY) + "px");
+})
+.on("mouseout", function (d) {
+  div.transition()
+    .duration(500)
+    .style("opacity", 0);
+})
  //Leman
  svg.append('circle')
  .attr("cx", 65)
  .attr("cy", 395)
  .attr("fill", "MediumPurple")
- .attr("r", ecartLeman/30);
+ .attr("r", ecartLeman/30)
+ .on("mouseover", function (event, d) {
+
+  div.transition()
+    .duration(200)
+    .style("opacity", 9);
+  div.html("Dans la région lémanique, l'écart salarial s'élève à " + ecartLeman + " CHF")
+  .style("left", (event.clientX) + "px")
+  .style("top", (event.clientY) + "px");
+})
+.on("mouseout", function (d) {
+  div.transition()
+    .duration(500)
+    .style("opacity", 0);
+})
  //Est
  svg.append('circle')
  .attr("cx", 500)
  .attr("cy", 315)
  .attr("fill", "MediumPurple")
- .attr("r", ecartEst/30);
+ .attr("r", ecartEst/30)
+ .on("mouseover", function (event, d) {
+
+  div.transition()
+    .duration(200)
+    .style("opacity", 9);
+  div.html("A l'Est de la Suisse, l'écart salarial s'élève à " + ecartEst + " CHF")
+  .style("left", (event.clientX) + "px")
+  .style("top", (event.clientY) + "px");
+})
+.on("mouseout", function (d) {
+  div.transition()
+    .duration(500)
+    .style("opacity", 0);
+})
  //Nord
  svg.append('circle')
  .attr("cx", 210)
  .attr("cy", 220)
  .attr("fill", "MediumPurple")
- .attr("r", ecartNord/30);
+ .attr("r", ecartNord/30)
+ .on("mouseover", function (event, d) {
+
+  div.transition()
+    .duration(200)
+    .style("opacity", 9);
+  div.html("Au Nord de la Suisse, l'écart salarial s'élève à " + ecartNord + " CHF")
+  .style("left", (event.clientX) + "px")
+  .style("top", (event.clientY) + "px");
+})
+.on("mouseout", function (d) {
+  div.transition()
+    .duration(500)
+    .style("opacity", 0);
+})
+
  //Moyen Pays
  svg.append('circle')
  .attr("cx", 195)
  .attr("cy", 310)
  .attr("fill", "MediumPurple")
- .attr("r", ecartMoyenPays/30);
+ .attr("r", ecartMoyenPays/30)
+ .on("mouseover", function (event, d) {
+
+  div.transition()
+    .duration(200)
+    .style("opacity", 9);
+  div.html("Dans la région du Moyen Pays, l'écart salarial s'élève à " + ecartMoyenPays + " CHF")
+  .style("left", (event.clientX) + "px")
+  .style("top", (event.clientY) + "px");
+})
+.on("mouseout", function (d) {
+  div.transition()
+    .duration(500)
+    .style("opacity", 0);
+})
 
 
   //Afficher une carte ?????????????????????????????????????????????????????????????
