@@ -97,8 +97,8 @@ console.log(différenceSalariale2012)
               .duration(200)
               .style("opacity", .9);
             div.html("la différence salariale en 2012 était de " + différenceSalariale2012 + "CHF")
-              .style("left", (event.pageX + 10) + "px")
-              .style("top", (event.pageY - 28) + "px");
+            .style("left", (event.clientX) + "px")
+            .style("top", (event.clientY) + "px");
           })
           .on("mouseout", function (d) {
             div.transition()
@@ -115,8 +115,8 @@ console.log(différenceSalariale2012)
               .duration(200)
               .style("opacity", .9);
             div.html("la différence salariale en 2014 était de " + différenceSalariale2014 + "CHF")
-              .style("left", (event.pageX + 10) + "px")
-              .style("top", (event.pageY - 28) + "px");
+            .style("left", (event.clientX) + "px")
+            .style("top", (event.clientY) + "px");
           })
           .on("mouseout", function (d) {
             div.transition()
@@ -133,8 +133,8 @@ console.log(différenceSalariale2012)
               .duration(200)
               .style("opacity", .9);
             div.html("la différence salariale en 2016 était de " + différenceSalariale2016 + "CHF")
-              .style("left", (event.pageX + 10) + "px")
-              .style("top", (event.pageY - 28) + "px");
+            .style("left", (event.clientX) + "px")
+            .style("top", (event.clientY) + "px");
           })
           .on("mouseout", function (d) {
             div.transition()

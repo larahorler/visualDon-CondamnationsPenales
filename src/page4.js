@@ -77,7 +77,7 @@ function afficheSalaireSelonResponsabilite() {
   data.sort((a, b) => b.value - a.value);
   
 
-  let div = d3.select("#page2")
+  let div = d3.select("#page4")
   .append("div")
   .style("opacity", 0)
   .attr("class", "tooltip")
@@ -107,12 +107,13 @@ function afficheSalaireSelonResponsabilite() {
         .attr("height", 30)
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
         .on("mouseover", function (event, d) {
+
           div.transition()
             .duration(200)
             .style("opacity", 9);
           div.html(d.title + "<br>"+ "La différence de salaire est de : " + d.value)
-            .style("left", (event.pageX + 10) + "px")
-            .style("top", (event.pageY - 28) + "px");
+          .style("left", (event.clientX) + "px")
+          .style("top", (event.clientY) + "px");
         })
         .on("mouseout", function (d) {
           div.transition()

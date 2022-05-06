@@ -79,6 +79,7 @@ function afficheSalaireSelonSecteur() {
     .style("border-width", "1px")
     .style("border-radius", "5px")
     .style("padding", "10px") 
+    
 
  
   
@@ -104,8 +105,8 @@ function afficheSalaireSelonSecteur() {
             .duration(200)
             .style("opacity", .9);
           div.html(d.title + "<br>"+ "La différence de salaire est de : " + d.value)
-            .style("left", (event.pageX + 10) + "px")
-            .style("top", (event.pageY - 28) + "px");
+            .style("left", (event.clientX) + "px")
+           .style("top", (event.clientY) + "px");
         })
         .on("mouseout", function (d) {
           div.transition()
