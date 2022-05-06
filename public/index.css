@@ -46,14 +46,16 @@ div.tooltip {
     background-color: #ffffff;
     }
     
-   /*  #disclaimer {
-    display: inline-block;
+    #disclaimer {
     position: fixed;
-    height: 50px;
-    width: 80px;
-    top: 650px;
-    left: 800px;
-    } */
+    width: 120px;
+    top: 90px;
+    left: 1200px;
+    font-family: 'Arial';
+    font-size: 10;
+    padding : 20px;
+    background-color: MediumPurple;
+    }
 
 
     .pageVis {
