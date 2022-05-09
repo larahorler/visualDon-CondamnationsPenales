@@ -19,16 +19,10 @@ differencesResponsabilité.shift();
 
 console.log(differencesResponsabilité);
 
-
-
 function afficheSalaireSelonResponsabilite() {
-
   const data = differencesResponsabilité;
 
-
-    
   console.log(data);
-
 
   const margin = {
     top: 200,
@@ -52,35 +46,29 @@ function afficheSalaireSelonResponsabilite() {
     .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-
-
-    console.log(data)
+  console.log(data);
 
   const min = d3.min(data, (d) => d.value);
   const max = d3.max(data, (d) => d.value);
-  const x = d3
-    .scaleLinear()
-    .domain([min, max])
-    .range([0, width]); 
-  
-    
-    const minNb = 0
+  const x = d3.scaleLinear().domain([0, max]).range([0, width]);
+
+  const minNb = 0;
   const maxNb = data.length - 1;
-  const y = d3.scaleLinear().domain([minNb, maxNb]).range( [0, heightSVG]);
+  const y = d3.scaleLinear().domain([minNb, maxNb]).range([0, heightSVG]);
 
-//sort the data in ascending order
+  //sort the data in ascending order
   data.sort((a, b) => b.value - a.value);
-  
 
-  let div = d3.select("#page4")
-  .append("div")
-  .style("opacity", 0)
-  .attr("class", "tooltip")
-  .style("background-color", "white")
-  .style("border", "solid")
-  .style("border-width", "1px")
-  .style("border-radius", "5px")
-  .style("padding", "10px") 
+  let div = d3
+    .select("#page4")
+    .append("div")
+    .style("opacity", 0)
+    .attr("class", "tooltip")
+    .style("background-color", "white")
+    .style("border", "solid")
+    .style("border-width", "1px")
+    .style("border-radius", "5px")
+    .style("padding", "10px");
 
   const bar = svgGraph4
     .selectAll("rect")
@@ -89,44 +77,47 @@ function afficheSalaireSelonResponsabilite() {
       enter
         .append("rect")
         .attr("width", (d) => {
-          console.log(x(d.value));
-          return x(d.value*1.015);
-        }))  
+          width - x(d.value);
+        })
+        //  (d) => {
+        // console.log(x(d.value));
+        // return x(d.value*1.015);
+        // }))
+    
         .attr("length", 50)
         .attr("y", (d, i) => {
-          console.log(i*2);
-          return y(i*0.4);
+          console.log(i * 2);
+          return y(i * 0.4);
         })
-        .attr("x", 0) 
+        .attr("x", 0)
         .style("fill", "MediumPurple")
         .attr("height", 30)
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
+    
         .on("mouseover", function (event, d) {
-
           div.transition()
             .duration(200)
-            .style("opacity", 9);
-          div.html(d.title + "<br>"+ "La différence de salaire est de : " + d.value)
-          .style("left", (event.clientX) + "px")
-          .style("top", (event.clientY) + "px");
+            .style("opacity", .9);
+          div
+            .html(
+              d.title + "<br>" + "La différence de salaire est de : " + d.value
+            )
+            .style("left", event.clientX + "px")
+            .style("top", event.clientY + "px");
         })
         .on("mouseout", function (d) {
-          div.transition()
-            .duration(500)
-            .style("opacity", 0);
+          div.transition().duration(500).style("opacity", 0);
         })
 
-        
-        
+        .transition().duration(10000)
+
+        //.attr("x", function(d) { return x(d.value); })
+        .attr("width", (d) => {
+          return x(d.value);
+        })
+
+    );
     
-    
-
-
-      }
-
-
-
-
-
+}
 
 export default afficheSalaireSelonResponsabilite;

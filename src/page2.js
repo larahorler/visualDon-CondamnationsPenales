@@ -59,7 +59,7 @@ function afficheSalaireSelonSecteur() {
 
   const min = d3.min(data, (d) => d.value);
   const max = d3.max(data, (d) => d.value);
-  const y = d3.scaleLinear().domain([min, max]).range( [0, heightSVG]);
+  const y = d3.scaleLinear().domain([0, max]).range( [heightSVG, 0 ]);
 
   const minNb = 0
   const maxNb = data.length - 1
@@ -80,7 +80,7 @@ function afficheSalaireSelonSecteur() {
     .style("border-radius", "5px")
     .style("padding", "10px") 
     
-
+console.log(y(0))
  
   
 
@@ -92,14 +92,17 @@ function afficheSalaireSelonSecteur() {
         .append("rect")
         //scale la largeur selon le nombre de donnée dans le tableau data
         .attr("width", 10)
-        .attr("y", (d) => heightSVG - y(d.value))
+        // .attr("y", function(d) { return heightSVG - y(d.value); })
+        .attr("y", y(0))
         .attr("x", function (d, i) {
           return x(i);
         })
         .style("fill", "MediumPurple")
-        .attr("height", (d) => {
-          return y(d.value *5  );
-        })
+        .attr ("height", heightSVG - y(0))
+       /*  .attr("height", (d) => {
+          return heightSVG - y(0);
+        }) */
+        
         .on("mouseover", function (event, d) {
           div.transition()
             .duration(200)
@@ -113,10 +116,17 @@ function afficheSalaireSelonSecteur() {
             .duration(500)
             .style("opacity", 0);
         })
-        
-    );
+        .transition().duration(10000)
 
+      .attr("y", function(d) { return y(d.value); })
+        .attr("height", (d) => {
+          return (heightSVG - y(d.value));
+        })
+        );
 
+   
+
+ 
 }
 
 
