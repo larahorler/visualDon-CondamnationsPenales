@@ -109,7 +109,7 @@ function afficheSalaireSelonResponsabilite() {
           div.transition().duration(500).style("opacity", 0);
         })
 
-        .transition().duration(10000)
+        .transition().duration(30000)
 
         //.attr("x", function(d) { return x(d.value); })
         .attr("width", (d) => {

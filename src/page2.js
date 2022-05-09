@@ -116,7 +116,7 @@ console.log(y(0))
             .duration(500)
             .style("opacity", 0);
         })
-        .transition().duration(10000)
+        .transition().duration(20000)
 
       .attr("y", function(d) { return y(d.value); })
         .attr("height", (d) => {
